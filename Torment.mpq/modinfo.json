@@ -1,0 +1,28 @@
+{
+    "name": "Torment",
+    "savepath": "Torment"
+
+/*
+--My Mod Details--
+Mod Download: 
+Mod Config Download: 
+Mod Version: 
+News 1 Title: "Torment"
+News 1 Message: "Introducing Torment\n\nA mod designed to stay aligned with many vanilla themes and playstyles, but increases difficulty, adds new monsters as well as adds and reworks many items. Try not to die."
+News 2 Title: "Patch 0.0.1"
+News 2 Message: "Initial testing of new monsters and difficulty adjustments to monster skills/damage/stats"
+ 
+--General Options--
+Map Layouts: Enabled
+UI Themes: Enabled
+Customizations: Enabled
+Vault Access: Disabled
+
+--Additional Options--
+Item Icons: Enabled
+Runeword Sorting: Enabled
+HUD Display: Enabled
+Monster Stats Display: Enabled
+*/
+
+}
