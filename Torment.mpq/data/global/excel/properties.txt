@@ -102,7 +102,7 @@ dmg-undead	1	1	item_undeaddamage_percent																											+#% Damage to
 att-demon	1	1	item_demon_tohit																											+# to Attack Rating against Demons		Min #	Max #		0
 att-undead	1	1	item_undead_tohit																											+# to Attack Rating against Undead		Min #	Max #		0
 throw	1	1	item_throwable																													1	1	Currently Not Used	0
-fireskill	1	21	item_elemskill		1																									+# to Fire Skills		Min #	Max #		0
+fireskill	1	21	item_elemskill		1	3	item_elemskillfire																							+# to Fire Skills		Min #	Max #		0
 allskills	1	1	item_allskills																											+# to All Skills		Min #	Max #		0
 light-thorns	1	1	item_attackertakeslightdamage																											Attacker Takes Lightning Damage of #		Min #	Max #		0
 freeze	1	1	item_freeze																											Freezes Target +#		Min #	Max #		0
@@ -120,7 +120,7 @@ reanimate	1	24	item_reanimate																											Reanimate As: [Returned]
 pierce	1	1	item_pierce																											Piercing Attack		Min %	Max %		0
 magicarrow	1	1	item_magicarrow																											Fires Magic Arrows		Min #	Max #		0
 explosivearrow	1	1	item_explosivearrow																											Fires Explosive Arrows or Bolts		Min #	Max #		0
-Expansion																																			
+Expansion																																			0
 dru	1	21	item_addclassskills		5																									+# to Druid Skill Levels		Min #	Max #		0
 ass	1	21	item_addclassskills		6																									+# to Assassin Skill Levels		Min #	Max #		0
 skill	1	22	item_singleskill																											+# to [Skill] ([Class] only)	Skill	Min #	Max #		0
@@ -276,3 +276,12 @@ pierce-immunity-poison	1	1	item_pierce_poison_immunity																										
 pierce-immunity-damage	1	1	item_pierce_damage_immunity																											Monster Physical Immunity is Sundered		Min %	Max %		0
 pierce-immunity-magic	1	1	item_pierce_magic_immunity																											Monster Magic Immunity is Sundered		Min %	Max %		0
 charge-noconsume	1	1	item_charge_noconsume																											+#% chance for finishing moves to not consume charges		Min %	Max %		0
+extra_bonespears	1	1	extra_bonespears																													min	max		0
+extra_firebolts	1	1	extra_firebolts																													min	max		0
+extra_icebolts	1	1	extra_icebolts																													min	max		0
+extra_fireballs	1	1	extra_fireballs																													min	max		0
+coldskill	1	21	item_elemskill		4	3	item_elemskillcold																												0
+lightningskill	1	21	item_elemskill		2	3	item_elemskilllight																												0
+poisonskill	1	21	item_elemskill		5	3	item_elemskillpoison																												0
+magicskill	1	21	item_elemskill		3	3	item_elemskillmagic																												0
+extra_magic_arrows	1	1	extra_magic_arrows																																0
