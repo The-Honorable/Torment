@@ -286,7 +286,7 @@ poisonskill	1	21	item_elemskill		5	3	item_elemskill_poison																						
 magicskill	1	21	item_elemskill		3	3	item_elemskill_magic																												0
 extra_magic_arrows	1	1	extra_magic_arrows																																0
 extra_clay_golems	1	1	extra_clay_golems																																0
-extra_skele_warriors	1	1	extra_clay_golems																																0
+extra_skele_warriors	1	1	extra_skele_warriors																																0
 extra_skele_mages	1	1	extra_skele_mages																																0
 extra_holy_bolts	1	1	extra_holy_bolts																																0
 extra_fire_golems	1	1	extra_fire_golems																																0
