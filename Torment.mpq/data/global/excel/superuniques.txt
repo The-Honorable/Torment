@@ -54,7 +54,7 @@ Eyeback Unleashed	Eyeback Unleashed	deathmauler1	50		5	6	7	10	10	0	0		8	8	8	Act 
 Threash Socket	Threash Socket	siegebeast3	51		7	30	25	15	15	0	0		37	37	37	Act 5 Super Cx		Act 5 (N) Super Cx		Act 5 (H) Super Cx	Act 5 (H) Super Cx Desecrated	0
 Pindleskin	Pindleskin	reanimatedhorde5	52		9	5	8	15	15	0	0		22	22	22	Act 5 Super Cx		Act 5 (N) Super Cx		Act 5 (H) Super Cx	Act 5 (H) Super Cx Desecrated	0
 Snapchip Shatter	Snapchip Shatter	frozenhorror1	53		7	18	6	15	15	0	0		23	23	23	Act 5 Super C		Act 5 (N) Super C		Act 5 (H) Super C	Act 5 (H) Super C Desecrated	0
-Anodized Elite	Anodized Elite	succubus4	54		9	7	0	10	10	0	1	1	38	38	38	Act 5 Super C		Act 5 (N) Super C		Act 5 (H) Super C	Act 5 (H) Super C Desecrated	0
+Anodized Elite	Anodized Elite	succubus4	54		9	7	30	10	10	0	1	1	38	38	38	Act 5 Super C		Act 5 (N) Super C		Act 5 (H) Super C	Act 5 (H) Super C Desecrated	0
 Vinvear Molech	Vinvear Molech	succubuswitch2	55		8	5	18	10	10	0	1	1	23	23	23	Act 5 Super A		Act 5 (N) Super A		Act 5 (H) Super A	Act 5 (H) Super A Desecrated	0
 Sharp Tooth Sayer	Sharp Tooth Sayer	overseer3	56		6	5	7	10	10	0	1	1	24	24	24	Act 5 Super B		Act 5 (N) Super B		Act 5 (H) Super B	Act 5 (H) Super B Desecrated	0
 Magma Torquer	Magma Torquer	imp5	57		5	7	6	10	10	0	1	1	9	9	9	Act 5 Super C		Act 5 (N) Super C		Act 5 (H) Super C	Act 5 (H) Super C Desecrated	0

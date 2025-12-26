@@ -6322,5 +6322,22 @@
     "ptBR": "%+d às habilidades mágicas",
     "ruRU": "%+d к магическим навыкам",
     "zhCN": "魔法技能 %+d"
+  },
+  {
+    "id": 27402,
+    "Key": "extra_molten_boulders",
+    "enUS": "%+d Molten Boulders Projectiles",
+    "zhTW": "熔岩巨石投射物 %+d",
+    "deDE": "%+d Geschosse des Geschmolzenen Felsens",
+    "esES": "%+d proyectiles de Roca Fundida",
+    "frFR": "%+d projectiles de Rocher en fusion",
+    "itIT": "%+d proiettili di Masso Fuso",
+    "koKR": "몰튼 볼더 투사체 %+d개",
+    "plPL": "%+d pocisków Stopionej Skały",
+    "esMX": "%+d proyectiles de Roca Fundida",
+    "jaJP": "モルテンボルダーの投射物 +%d",
+    "ptBR": "%+d projéteis de Rocha Fundida",
+    "ruRU": "%+d снарядов Расплавленного валуна",
+    "zhCN": "熔岩巨石投射物 %+d"
   }
 ]

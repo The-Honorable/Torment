@@ -409,3 +409,4 @@ extra_blood_golems	406		1	16										0		0		16	0	16	0																500	19		ext
 extra_exploding_arrows	407		1	16										0		0		16	0	16	0																500	19		extra_exploding_arrows	extra_exploding_arrows										0
 extra_ice_arrows	408		1	16										0		0		16	0	16	0																500	19		extra_ice_arrows	extra_ice_arrows										0
 extra_freezing_arrows	409		1	16										0		0		16	0	16	0																500	19		extra_freezing_arrows	extra_freezing_arrows										0
+extra_molten_boulders	410		1	16										0		0		16	0	16	0																500	19		extra_molten_boulders	extra_molten_boulders										0

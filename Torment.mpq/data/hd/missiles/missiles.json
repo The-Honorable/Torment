@@ -697,5 +697,10 @@
     "strafebolt": "x_bow_bolt",
     "recklessattacksmissile": "expansion_shockwave",
     "leapattack": "b_a_yell_shock_wave_01",
-    "mon_firesplash_explode": "diabwallmaker"
+    "mon_firesplash_explode": "diabwallmaker",
+    "mon_death_explode_phys": "b_a_yell_shock_wave_01",
+    "mon_death_explode_fire": "firebolt",
+    "mon_death_explode_cold": "frost_nova",
+    "mon_death_explode_ltng": "electric_nova",
+    "mon_death_explode_mag": "holy_bolt_missile"
 }
