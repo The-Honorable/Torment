@@ -87,7 +87,7 @@ Hawkmail	84	0	1		1		12	15	scl	Scale Mail		5	5000	cgrn	cgrn						ac%		100	100	res
 Sparking Mail	85	0	1		1		12	17	chn	Chain Mail		5	5000	lyel	lyel						ac%		100	100	dmg-ltng		1	30	aura	Holy Shock	5	5	res-ltng		30	30	light		4	4																														0
 Venomsward	86	0	1		1		17	20	brs	Breast Plate		5	5000	dyel	dyel						res-pois-max		10	10	res-pois-len		50	50	res-pois		90	90	light		2	2	ac%		100	100	res-fire		-30	-30																										0
 Iceblink	87	0	1		1		17	22	spl	Splint Mail		5	5000	lgld	lgld						freeze		1	1	res-cold		30	30	red-mag		3	3	ac%		70	80	oskill	Blink	1	1																														0
-Boneflesh	88	0	1		1		25	30	plt	Plate Mail		5	5000	dgld	dgld						skill	Golem Mastery	2	2	skill	BloodGolem	2	2	skill	Clay Golem	2	2	extra_clay_golem		1	1	ac%		100	100																														0
+Boneflesh	88	0	1		1		25	30	plt	Plate Mail		5	5000	dgld	dgld						skill	Golem Mastery	2	2	skill	BloodGolem	2	2	skill	Clay Golem	2	2	extra_clay_golems		1	2	ac%		100	100																														0
 Rockfleece	89	0	1		1		25	32	fld	Field Plate		5	5000	dgry	dgry						dmg%		50	50	ac%		100	130	red-dmg%		10	10	red-dmg		5	5	str		15	15																														0
 Rattlecage	90	0	1		1		25	35	gth	Gothic Plate		5	5000	dpur	dpur						hit-skill	Amplify Damage	5	10	att		50	50	deadly		25	25	ac		200	200																																		0
 Goldskin	91	0	1		1		25	35	ful	Full Plate Mail		5	5000	oran			invfulu				ac%		120	150	res-all		35	35	thorns		100	100	light		4	4	gold%		200	200																														0
@@ -141,7 +141,7 @@ Boneslayer Blade	137	100	1		1		50	50	9ga	Gothic Axe		5	5000				invgaxu				att-un
 The Minataur	138	100	1		1		55	55	9gi	Ancient Axe		5	5000				inv9giu				stupidity		2	2	half-freeze		1	1	str		50	50	dmg-norm		50	100	dmg%		200	250	ease		100	100	red-dmg%		-10	-10																						0
 Suicide Branch	139	100	1		1		30	40	9wn	Burnt Wand		5	5000								regen		-20	-20	cast2		50	50	res-all		25	25	mana%		30	30	hp		-40	-40	allskills		2	2																										0
 Carin Shard	140	100	1		1		43	45	9yw	Petrified Wand		5	5000	cblu	cblu						hp/lvl	10			cast2		10	10	mana/lvl	10			balance2		30	30	regen		5	5	nec		1	1	skilltab	8	2	2																						0
-Arm of King Leoric	141	100	1		1		44	50	9bw	Tomb Wand		5	5000				invbwnu				nec		2	2	gethit-skill	Bone Spirit	10	30	skill	Raise Skeleton	3	3	skill	Skeleton Mastery	3	3	extra_skele_warriors		5	5	skilltab	8	2	2																										0
+Arm of King Leoric	141	100	1		1		44	50	9bw	Tomb Wand		5	5000				invbwnu				nec		2	2	gethit-skill	Bone Spirit	10	30	skill	Raise Skeleton	3	3	skill	Skeleton Mastery	3	3	extra_skele_warriors		3	3	skilltab	8	2	2																										0
 Blackhand Key	142	100	1		1		43	45	9gw	Grave Wand		5	5000	blac	blac		inv9gwu				skilltab	6	3	3	dmg-to-mana		20	20	hp		50	50	light		-2	-2	cast3		30	30	res-all		25	25	nec		2	2																						0
 Dark Clan Crusher	143	100	1		1		40	42	9cl	Cudgel		5	5000	dgld	dgld		invclbu				dru		2	2	dmg-demon		200	200	att-demon		200	200	dmg%		195	195	att%		20	25	demon-heal		15	15	dmg/lvl		4	4																						0
 Zakarum's Hand	144	100	1		1		30	37	9sc	Rune Scepter		5	5000	lpur	lpur						manasteal		8	8	ignore-ac		1	1	regen-mana		10	10	dmg-ltng		1	100	skill	Holy Shock	5	5	dmg%		180	220	swing2		30	30																						0
@@ -370,7 +370,7 @@ Templar's Might	366	100	1		5		82	74	uar	sacred armor		5	5000	cgrn	cgrn		invaaru	
 Eschuta's temper	367	100	1		1		80	80	obc	eldritch orb		5	5000	cred							sor		2	4	cast2		40	40	pierce-fire		15	25	pierce-ltng		15	25	enr		20	30	extra-cold		15	25																										0
 Firelizard's Talons	368	100	1		1		75	75	7lw	feral claws		5	5000								dmg%		300	321	swing2		25	25	skilltab	20	1	3	dmg-fire		236	480	pierce-fire		15	15	skill	Fists of Fire	2	3	skill	Dragon Tail	2	3																						0
 Sandstorm Trek	369	100	1		1		60	64	uvb	scarabshell boots		5	5000								ac%		140	170	move2		35	35	balance2		20	20	stam/lvl	8			stamdrain		50	50	res-pois		40	70	str		10	15	vit		10	15																		0
-Marrowwalk	370	100	1		1		70	75	umb	boneweave boots		5	5000	dgry							ac%		170	200	move2		20	20	regen-mana		10	10	half-freeze		1	1	str		10	20	dex		17	17	skill	Skeleton Mastery	1	3	extra_skele_warriors		1	3	extra_skele_mages		1	3														0
+Marrowwalk	370	100	1		1		70	75	umb	boneweave boots		5	5000	dgry							ac%		170	200	move2		20	20	regen-mana		10	10	half-freeze		1	1	str		10	20	dex		17	17	skill	Skeleton Mastery	1	3	extra_skele_warriors		1	2	extra_skele_mages		1	2														0
 Heaven's Light	371	100	1		1		69	61	7sc	mighty scepter		5	5000	cblu	cblu						dmg%		300	350	swing2		20	20	dmg-norm		50	100	light		2	2	demon-heal		15	20	pal		2	3	kill-skill	Fist of the Heavens	10	30																						0
 Merman's Speed	372	100																																																																				0
 Arachnid Mesh	373	100	1		1		80	80	ulc	spiderweb sash		5	5000	blac	blac						ac%		90	120	cast2		20	20	charged	Venom	10	20	allskills		1	2	slow		10	10	mana%		15	20																										0
