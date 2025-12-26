@@ -20,8 +20,8 @@ item_maxdamage_percent	17		1	11											45	20		9	0	9	0			13			maxdamage	second
 item_mindamage_percent	18		1	11											45	20		9	0	9	0			13			mindamage	secondary_mindamage	item_throw_mindamage			1					130	19		ModStr2k	ModStr2k										0
 tohit	19		1	16											15	10		10		10												1					115	19		ModStr1h	ModStr1h										0
 toblock	20		1	10											89	204		6	0	6	0																134	19		ModStr3g	ModStr3g										0
-mindamage	21		1	16											122	25		6	0	6	0											1					127	19		ModStr1g	ModStr1g										0
-maxdamage	22		1	16											94	16		7	0	7	0											1					126	19		ModStr1f	ModStr1f										0
+mindamage	21		1	16											122	25		10	0	10	0											1					127	19		ModStr1g	ModStr1g										0
+maxdamage	22		1	16											94	16		10	0	10	0											1					126	19		ModStr1f	ModStr1f										0
 secondary_mindamage	23		1	16											97	15		6	0	6	0											1					124	19		ModStr1g	ModStr1g										0
 secondary_maxdamage	24		1	16											85	11		7	0	7	0											1					123	19		ModStr1f	ModStr1f										0
 damagepercent	25		1	12											45	40		8	0	8	0											1																			0
@@ -79,7 +79,7 @@ item_maxhp_percent	76		1	16											32093	204		6	10	6	10			11			maxhp									
 item_maxmana_percent	77		1	16											56452	204		6	10	6	10			11			maxmana										54	19		ModStr2h	ModStr2h										0
 item_attackertakesdamage	78		1	16							1				112	128		16	8192	16	8192												attackedinmelee	6	damagedbymissile	6	13	19		ModStr1v	ModStr1v									2	0
 item_goldbonus	79		1	10											187	34		9	100	9	100																10	19		ModStr1w	ModStr1w									2	0
-item_magicbonus	80		1	9											577	102		8	100	8	100																8	19		ModStr1x	ModStr1x									2	0
+item_magicbonus	80		1	10											577	102		10	100	10	100																8	19		ModStr1x	ModStr1x									2	0
 item_knockback	81		1	8							1				105	0		7	0	7	0											1	domeleedamage	7	domissiledamage	7	76	19		ModStr1y	ModStr1y									2	0
 item_timeduration	82		1	10														9	20	9	20																														0
 item_addclassskills	83		1	4	3						1				49523	1560		3	0	3	0	3															150	13		ModStr3a	ModStr3a										0
@@ -125,8 +125,8 @@ item_undeaddamage_percent	122		1	12											13	12		9	20	9	20											1					1
 item_demon_tohit	123		1	13											15	7		10	128	10	128											1					110	19		ModStr4j	ModStr4j										0
 item_undead_tohit	124		1	13											11	7		10	128	10	128											1					106	19		ModStr4k	ModStr4k										0
 item_throwable	125		1	2											82	1024		1	0	1	0																5	19		ModStr5a	ModStr5a										0
-item_elemskill	126		1	3	3						1				76	1024		4	0	3	0	3																													0
-item_allskills	127		1	8							1				15123	4096		3	0	3	0																158	19		ModStr3k	ModStr3k										0
+item_elemskill	126		1	4	3						1				76	1024		4	0	4	0	3																													0
+item_allskills	127		1	8							1				15123	4096		4	0	4	0																158	19		ModStr3k	ModStr3k										0
 item_attackertakeslightdamage	128		1	6							1				4	102		5	0	5	0												damagedinmelee	10			14	19		ModStr3j	ModStr3j									2	0
 ironmaiden_level	129		1	10																																															0
 lifetap_level	130		1	10																																															0
@@ -386,11 +386,11 @@ extra_bonespears	383		1	16										0		0		16	0	16	0																500	19		extra
 extra_firebolts	384		1	16										0		0		16	0	16	0																500	19		extra_firebolts	extra_firebolts										0
 extra_icebolts	385		1	16										0		0		16	0	16	0																500	19		extra_icebolts	extra_icebolts										0
 extra_fireballs	386		1	16										0		0		16	0	16	0																500	19		extra_fireballs	extra_fireballs										0
-item_elemskill_fire	387		1	6	6						1							6	0	6	0	6															499	19		item_elemskill_fire	item_elemskill_fire										0
-item_elemskill_light	388		1	6	6						1							6	0	6	0	6															499	19		item_elemskill_light	item_elemskill_light										0
-item_elemskill_cold	389		1	6	6						1							6	0	6	0	6															499	19		item_elemskill_cold	item_elemskill_cold										0
-item_elemskill_poison	390		1	6	6						1							6	0	6	0	6															499	19		item_elemskill_poison	item_elemskill_poison										0
-item_elemskill_magic	391		1	6	6						1							6	0	6	0	6															499	19		item_elemskill_magic	item_elemskill_magic										0
+item_elemskill_fire	387		1	16	16						1							16	0	16	0	16															499	19		item_elemskill_fire	item_elemskill_fire										0
+item_elemskill_light	388		1	16	16						1							16	0	16	0	16															499	19		item_elemskill_light	item_elemskill_light										0
+item_elemskill_cold	389		1	16	16						1							16	0	16	0	16															499	19		item_elemskill_cold	item_elemskill_cold										0
+item_elemskill_poison	390		1	16	16						1							16	0	16	0	16															499	19		item_elemskill_poison	item_elemskill_poison										0
+item_elemskill_magic	391		1	16	16						1							16	0	16	0	16															499	19		item_elemskill_magic	item_elemskill_magic										0
 extra_magic_arrows	392		1	16										0		0		16	0	16	0																500	19		extra_magic_arrows	extra_magic_arrows										0
 extra_clay_golems	393		1	16										0		0		16	0	16	0																500	19		extra_clay_golems	extra_clay_golems										0
 extra_skele_warriors	394		1	16										0		0		16	0	16	0																500	19		extra_skele_warriors	extra_skele_warriors										0
