@@ -1,0 +1,4 @@
+*.bak
+*.exe
+output.txt
+config.json
