@@ -81,8 +81,8 @@ of Sorcery	0	1	1	22		16					24	mana		16	20									dgld	rod	amul											0	0
 of Wizardry	0	1	1	30		22					24	mana		21	30									dgld	rod	ring	amul										0	0
 of the Bear	0	1	1	8		6					25	knock		1	1										mele												0	0
 of Light	0	1	1	6		4					26	light		1	1										armo	rod	miss	ring	amul								0	0
-of Radiance	0	1	1	15		11					26	light		3	3										rod	miss	ring	amul									0	0
-of the Sun	0	1	1	17		12					26	light		5	5										rod	miss	glov	ring	amul								0	0
+of Radiance	0	0	1	15		11					26	light		2	2										rod	miss	ring	amul									0	0
+of the Sun	0	0	1	17		12					26	light		3	3										rod	miss	glov	ring	amul								0	0
 of Life	0	1	1	23		17					27	hp		5	5										tors	helm	shld	belt	amul								0	0
 of the Jackal	0	1	1	3		2					27	hp		1	5										armo	rod	ring	amul									0	0
 of the Fox	0	1	1	6		4					27	hp		5	10										armo	rod	ring	amul									0	0
@@ -163,8 +163,8 @@ of Puncturing	100		1	6		4				4	5	dmg-ac		-10	-20										spea	knif	h2h									
 of Thorns	1	1	1	14		10				4	6	thorns		1	3										tors	shld	belt	circ									0	0
 of Spikes	1	1	1	21		15				4	6	thorns		4	6									oran	tors	shld	belt	circ									0	0
 of Razors	100	1	1	34		26				4	6	thorns		7	9									oran	tors	shld	circ										0	0
-of Swords	100	1		47		39				4	6	thorns		10	20									oran	tors	shld	circ										0	0
-of Malice	100	1	1	37		29				4	6	thorns		1	5										jewl												0	0
+of Swords	100	1		47		39				4	6	thorns		50	80									oran	tors	shld	circ										0	0
+of Malice	100	1	1	37		29				4	6	thorns		10	20										jewl												0	0
 of Readiness	1	1	1	5		3				6	7	swing1		10	10										weap							wand	orb				0	0
 of Alacrity	1	1	1	25		17				6	7	swing2		20	20										weap							wand	orb				0	0
 of Swiftness	1	1	1	34		26				6	7	swing2		30	30										mele							wand	staf	orb			0	0
@@ -178,7 +178,7 @@ of the Magus	1	1	1	29		21				5	9	cast3		20	20										rod	orb	circ					scep				
 of Frost	1	1	1	4		3				5	10	cold-min		1	1	cold-max		1	2	cold-len		50	50		weap							wand	orb				0	0
 of the Icicle	100	1	1	13		9				4	10	cold-min		1	1	cold-max		3	4	cold-len		75	75		weap							wand	orb				0	0
 of the Glacier	1	1	1	27		20				3	10	cold-min		2	4	cold-max		4	15	cold-len		100	100	dblu	weap							wand	orb				0	0
-of Winter	100	1	1	45		37				2	10	cold-min		5	9	cold-max		16	50	cold-len		150	150	dblu	mele							wand	orb				0	0
+of Winter	100	1	1	45		37				2	10	cold-min		5	9	cold-max		16	50	cold-len		100	100	dblu	mele							wand	orb				0	0
 of Frost	1	1	1	55		41				2	10	cold-min		1	1	cold-max		3	6	cold-len		50	50		belt	amul											0	0
 of Frigidity	100	1	1	16		12				2	10	cold-min		1	1	cold-max		3	5	cold-len		50	50	dblu	jewl												0	0
 of Warmth	1	1	1	10		7				4	11	half-freeze		1	1										shld	boot	glov	ring	amul	circ	orb						0	0
@@ -310,8 +310,8 @@ of Sorcery	100	1		26		21				3	23	enr		11	15									dgld	helm	scep											0	0
 of Knowledge	100	1	1	9		6				3	23	enr		1	5										jewl												0	0
 of the Bear	1	1	1	8		6				3	24	knock		1	1										mele												0	0
 of Light	1	1	1	6		4				1	25	light		1	1	att		15	15						armo	rod	ring	amul									0	0
-of Radiance	1	1	1	15		11				1	25	light		3	3	att		30	30						rod	miss	ring	amul	helm								0	0
-of the Sun	1	1	1	17		12				1	25	light		5	5	att%		5	5						rod	miss	glov	ring	amul	helm							0	0
+of Radiance	1	1	1	15		11				1	25	light		1	1	att		30	30						rod	miss	ring	amul	helm								0	0
+of the Sun	1	1	1	17		12				1	25	light		1	1	att%		5	5						rod	miss	glov	ring	amul	helm							0	0
 of the Jackal	1	1	1	1		1				3	26	hp		1	5										tors	belt	amul	phlm	circ								0	0
 of the Fox	1	1	1	7		5				3	26	hp		6	10										tors	belt	amul	phlm	circ								0	0
 of the Wolf	1	1	1	15		11				3	26	hp		11	20										tors	belt	amul	phlm	circ								0	0
