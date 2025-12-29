@@ -26112,7 +26112,7 @@
     "zhCN": "漆黑裂痕"
   },
   {
-    "id": 27351,
+    "id": 50001,
     "Key": "Akaras Wrath",
     "enUS": "Akara's Wrath",
     "zhTW": "碧藍怒火",
@@ -26129,7 +26129,7 @@
     "zhCN": "碧蓝怒火"
   },
   {
-    "id": 27352,
+    "id": 50002,
     "Key": "Fourfold",
     "enUS": "Fourfold",
     "zhTW": "絕緣之石",
@@ -26146,7 +26146,7 @@
     "zhCN": "绝缘之石"
   },
   {
-    "id": 27353,
+    "id": 50003,
     "Key": "Siphon",
     "enUS": "Siphon",
     "zhTW": "虹吸",
@@ -26163,7 +26163,7 @@
     "zhCN": "虹吸"
   },
   {
-    "id": 27354,
+    "id": 50004,
     "Key": "Renewal",
     "enUS": "Renewal",
     "zhTW": "復甦",
@@ -26180,7 +26180,7 @@
     "zhCN": "复苏"
   },
   {
-    "id": 27355,
+    "id": 50005,
     "Key": "Cutstone",
     "enUS": "Cutstone",
     "zhTW": "斬切之石",
@@ -26197,7 +26197,7 @@
     "zhCN": "斩切之石"
   },
   {
-    "id": 27356,
+    "id": 50006,
     "Key": "Swiftstone",
     "enUS": "Swiftstone",
     "zhTW": "迅捷之石",
@@ -26214,7 +26214,7 @@
     "zhCN": "迅捷之石"
   },
   {
-    "id": 27357,
+    "id": 50007,
     "Key": "Hastestone",
     "enUS": "Hastestone",
     "zhTW": "疾速石",
@@ -26231,7 +26231,7 @@
     "zhCN": "疾速石"
   },
   {
-    "id": 27358,
+    "id": 50008,
     "Key": "Wardstone",
     "enUS": "Wardstone",
     "zhTW": "守護石",
@@ -26248,7 +26248,7 @@
     "zhCN": "守护石"
   },
   {
-    "id": 27359,
+    "id": 50009,
     "Key": "Ashrend",
     "enUS": "Ashrend",
     "zhTW": "焚裂",
@@ -26265,7 +26265,7 @@
     "zhCN": "灰裂"
   },
   {
-    "id": 27360,
+    "id": 50010,
     "Key": "Frostrend",
     "enUS": "Frostrend",
     "zhTW": "霜裂",
@@ -26282,7 +26282,7 @@
     "zhCN": "霜裂"
   },
   {
-    "id": 27361,
+    "id": 50011,
     "Key": "Stormrend",
     "enUS": "Stormrend",
     "zhTW": "風暴裂",
@@ -26299,7 +26299,7 @@
     "zhCN": "风暴裂"
   },
   {
-    "id": 27362,
+    "id": 50012,
     "Key": "Rotrend",
     "enUS": "Rotrend",
     "zhTW": "腐裂",
@@ -26316,7 +26316,7 @@
     "zhCN": "腐裂"
   },
   {
-    "id": 27363,
+    "id": 50013,
     "Key": "Warbrand",
     "enUS": "Warbrand",
     "zhTW": "戰痕",
@@ -26333,7 +26333,7 @@
     "zhCN": "战痕"
   },
   {
-    "id": 27364,
+    "id": 50014,
     "Key": "Prime Sigil",
     "enUS": "Prime Sigil",
     "zhTW": "至高印記",
@@ -26350,7 +26350,7 @@
     "zhCN": "至高印记"
   },
   {
-    "id": 27365,
+    "id": 50015,
     "Key": "Pyre Sigil",
     "enUS": "Pyre Sigil",
     "zhTW": "焚火印記",
@@ -26367,7 +26367,7 @@
     "zhCN": "焚火印记"
   },
   {
-    "id": 27366,
+    "id": 50016,
     "Key": "Rime Sigil",
     "enUS": "Rime Sigil",
     "zhTW": "霜印記",
@@ -26384,7 +26384,7 @@
     "zhCN": "霜印记"
   },
   {
-    "id": 27367,
+    "id": 50017,
     "Key": "Storm Sigil",
     "enUS": "Storm Sigil",
     "zhTW": "風暴印記",
@@ -26401,7 +26401,7 @@
     "zhCN": "风暴印记"
   },
   {
-    "id": 27368,
+    "id": 50018,
     "Key": "Blight Sigil",
     "enUS": "Blight Sigil",
     "zhTW": "瘟疫印記",
@@ -26418,7 +26418,7 @@
     "zhCN": "瘟疫印记"
   },
   {
-    "id": 27369,
+    "id": 50019,
     "Key": "Arcane Sigil",
     "enUS": "Arcane Sigil",
     "zhTW": "秘法印記",
@@ -26435,7 +26435,7 @@
     "zhCN": "秘法印记"
   },
   {
-    "id": 27370,
+    "id": 50020,
     "Key": "Gheeds MisFortune",
     "enUS": "Gheed's MisFortune",
     "zhTW": "基德的不幸",
@@ -26452,7 +26452,7 @@
     "zhCN": "基德的不幸"
   },
   {
-    "id": 27371,
+    "id": 50021,
     "Key": "Rend Facet",
     "enUS": "Rend Facet",
     "zhTW": "撕裂刻面",
@@ -26469,7 +26469,7 @@
     "zhCN": "撕裂刻面"
   },
   {
-    "id": 27372,
+    "id": 50022,
     "Key": "Shatter Facet",
     "enUS": "Shatter Facet",
     "zhTW": "粉碎刻面",
@@ -26486,7 +26486,7 @@
     "zhCN": "粉碎刻面"
   },
   {
-    "id": 27373,
+    "id": 50023,
     "Key": "Sever Facet",
     "enUS": "Sever Facet",
     "zhTW": "斬斷刻面",
@@ -26503,7 +26503,7 @@
     "zhCN": "斩断刻面"
   },
   {
-    "id": 27374,
+    "id": 50024,
     "Key": "Fracture Facet",
     "enUS": "Fracture Facet",
     "zhTW": "裂隙刻面",
@@ -26520,7 +26520,7 @@
     "zhCN": "裂隙刻面"
   },
   {
-    "id": 27375,
+    "id": 50025,
     "Key": "Surge Facet",
     "enUS": "Surge Facet",
     "zhTW": "湧動刻面",
@@ -26537,7 +26537,7 @@
     "zhCN": "涌动刻面"
   },
   {
-    "id": 27376,
+    "id": 50026,
     "Key": "Kronans Rage",
     "enUS": "Kronan's Rage",
     "zhTW": "克羅南之怒",
@@ -26554,7 +26554,7 @@
     "zhCN": "克罗南之怒"
   },
   {
-    "id": 27377,
+    "id": 50027,
     "Key": "Worusks Scout",
     "enUS": "Worusk's Scout",
     "zhTW": "沃魯斯克的斥候",
@@ -26571,7 +26571,7 @@
     "zhCN": "沃鲁斯克的斥候"
   },
   {
-    "id": 27378,
+    "id": 50028,
     "Key": "Raekors Guard",
     "enUS": "Raekor's Guard",
     "zhTW": "雷寇的護衛",
@@ -26588,7 +26588,7 @@
     "zhCN": "雷寇的护卫"
   },
   {
-    "id": 27379,
+    "id": 50029,
     "Key": "Kanais Visor",
     "enUS": "Kanai's Visor",
     "zhTW": "卡奈的面甲",
@@ -26605,7 +26605,7 @@
     "zhCN": "卡奈的面甲"
   },
   {
-    "id": 27380,
+    "id": 50030,
     "Key": "Austs Destruction",
     "enUS": "Aust's Destruction",
     "zhTW": "奧斯特的毀滅",
@@ -26622,7 +26622,7 @@
     "zhCN": "奥斯特的毁灭"
   },
   {
-    "id": 27381,
+    "id": 50031,
     "Key": "Ord Rekars Remorse",
     "enUS": "Ord Rekar's Remorse",
     "zhTW": "歐德‧雷卡的悔恨",
@@ -26639,7 +26639,7 @@
     "zhCN": "欧德·雷卡的悔恨"
   },
   {
-    "id": 27382,
+    "id": 50032,
     "Key": "Arreats League",
     "enUS": "Arreat's League",
     "zhTW": "亞瑞特的盟約",
@@ -26656,7 +26656,7 @@
     "zhCN": "亚瑞特的盟约"
   },
   {
-    "id": 27383,
+    "id": 50033,
     "Key": "Glous True Form",
     "enUS": "Glous' True Form",
     "zhTW": "格勞斯的真形",
@@ -26673,7 +26673,7 @@
     "zhCN": "格劳斯的真形"
   },
   {
-    "id": 27384,
+    "id": 50034,
     "Key": "Hirams Crown",
     "enUS": "Hiram's Crown",
     "zhTW": "海蘭的王冠",
@@ -26690,7 +26690,7 @@
     "zhCN": "海兰的王冠"
   },
   {
-    "id": 27385,
+    "id": 50035,
     "Key": "Zann Esus Knowledge",
     "enUS": "Zann Esu's Knowledge",
     "zhTW": "贊恩‧艾蘇的知識",
@@ -26707,7 +26707,7 @@
     "zhCN": "赞恩·艾苏的知识"
   },
   {
-    "id": 27386,
+    "id": 50036,
     "Key": "Isendras Luck",
     "enUS": "Isendra's Luck",
     "zhTW": "伊珊德拉的幸運",
@@ -26724,7 +26724,7 @@
     "zhCN": "伊珊德拉的幸运"
   },
   {
-    "id": 27387,
+    "id": 50037,
     "Key": "Gathlens Pack",
     "enUS": "Gathlen's Pack",
     "zhTW": "加斯倫的行囊",
@@ -26741,7 +26741,7 @@
     "zhCN": "加斯伦的行囊"
   },
   {
-    "id": 27388,
+    "id": 50038,
     "Key": "Hemlirs Demise",
     "enUS": "Hemlir’s Demise",
     "zhTW": "赫姆利爾的終結",
@@ -26758,7 +26758,7 @@
     "zhCN": "赫姆利尔的终结"
   },
   {
-    "id": 27389,
+    "id": 50039,
     "Key": "Corbachs Flock",
     "enUS": "Corbach's Flock",
     "zhTW": "科巴奇的群集",
@@ -26775,7 +26775,7 @@
     "zhCN": "科巴奇的群集"
   },
   {
-    "id": 27390,
+    "id": 50040,
     "Key": "Scosglens Fury",
     "enUS": "Scosglen's Fury",
     "zhTW": "斯科斯格倫的狂怒",
@@ -26792,7 +26792,7 @@
     "zhCN": "斯科斯格伦的狂怒"
   },
   {
-    "id": 27391,
+    "id": 50041,
     "Key": "Tur Dulras Design",
     "enUS": "Túr Dúlra's Design",
     "zhTW": "圖爾‧杜爾拉的構想",
@@ -26809,7 +26809,7 @@
     "zhCN": "图尔·杜尔拉的构想"
   },
   {
-    "id": 27392,
+    "id": 50042,
     "Key": "Caen Adars Madness",
     "enUS": "Caen Adar's Madness",
     "zhTW": "凱恩‧亞達的瘋狂",
@@ -26826,7 +26826,7 @@
     "zhCN": "凯恩·亚达的疯狂"
   },
   {
-    "id": 27393,
+    "id": 50043,
     "Key": "Ifehs Guise",
     "enUS": "Ifeh's Guise",
     "zhTW": "伊斐的偽裝",
@@ -26843,7 +26843,7 @@
     "zhCN": "伊斐的伪装"
   },
   {
-    "id": 27394,
+    "id": 50044,
     "Key": "Airidahs Murder",
     "enUS": "Airidah's Murder",
     "zhTW": "艾瑞達的謀殺",
@@ -26860,7 +26860,7 @@
     "zhCN": "艾瑞达的谋杀"
   },
   {
-    "id": 27395,
+    "id": 50045,
     "Key": "Sharvals Flame",
     "enUS": "Sharval's Flame",
     "zhTW": "夏瓦爾的火焰",
@@ -26877,7 +26877,7 @@
     "zhCN": "夏瓦尔的火焰"
   },
   {
-    "id": 27396,
+    "id": 50046,
     "Key": "Khazras Slaughter",
     "enUS": "Khazra's Slaughter",
     "zhTW": "卡茲拉的屠戮",
@@ -26894,7 +26894,7 @@
     "zhCN": "卡兹拉的屠戮"
   },
   {
-    "id": 27397,
+    "id": 50047,
     "Key": "Xuls Revenge",
     "enUS": "Xul's Revenge",
     "zhTW": "祖爾的復仇",
@@ -26911,7 +26911,7 @@
     "zhCN": "祖尔的复仇"
   },
   {
-    "id": 27398,
+    "id": 50048,
     "Key": "Zayls Aim",
     "enUS": "Zayl's Aim",
     "zhTW": "札伊爾的瞄準",
@@ -26928,7 +26928,7 @@
     "zhCN": "扎伊尔的瞄准"
   },
   {
-    "id": 27399,
+    "id": 50049,
     "Key": "Zabs Reveal",
     "enUS": "Zab's Reveal",
     "zhTW": "札布的揭示",
@@ -26945,7 +26945,7 @@
     "zhCN": "扎布的揭示"
   },
     {
-    "id": 27400,
+    "id": 50050,
     "Key": "Razeths Protector",
     "enUS": "Razeth's Protector",
     "zhTW": "拉澤斯的守護",
@@ -26962,7 +26962,7 @@
     "zhCN": "拉泽斯的守护"
   },
   {
-    "id": 27401,
+    "id": 50051,
     "Key": "Radnojs Betrayal",
     "enUS": "Rad'noj's Betrayal",
     "zhTW": "拉德諾伊的背叛",
@@ -26979,7 +26979,7 @@
     "zhCN": "拉德诺伊的背叛"
   },
   {
-    "id": 27402,
+    "id": 50052,
     "Key": "Gelmindors Marrow",
     "enUS": "Gelmindor's Marrow",
     "zhTW": "蓋爾明多的骨髓",
@@ -26996,7 +26996,7 @@
     "zhCN": "盖尔明多的骨髓"
   },
   {
-    "id": 27403,
+    "id": 50053,
     "Key": "Jesseths Denial",
     "enUS": "Jesseth's Denial",
     "zhTW": "潔賽斯的否決",
@@ -27013,7 +27013,7 @@
     "zhCN": "洁赛斯的否决"
   },
   {
-    "id": 27404,
+    "id": 50054,
     "Key": "Jurdanns Death",
     "enUS": "Jurdann's Death",
     "zhTW": "尤爾丹的死亡",
@@ -27030,7 +27030,7 @@
     "zhCN": "尤尔丹的死亡"
   },
   {
-    "id": 27405,
+    "id": 50055,
     "Key": "Karas Shadow",
     "enUS": "Kara's Shadow",
     "zhTW": "卡拉的暗影",
@@ -27047,7 +27047,7 @@
     "zhCN": "卡拉的暗影"
   },
   {
-    "id": 27406,
+    "id": 50056,
     "Key": "Mehtans Choice",
     "enUS": "Mehtan's Choice",
     "zhTW": "梅赫坦的抉擇",
@@ -27064,7 +27064,7 @@
     "zhCN": "梅赫坦的抉择"
   },
   {
-    "id": 27407,
+    "id": 50057,
     "Key": "Jondars Horde",
     "enUS": "Jondar's Horde",
     "zhTW": "瓊達的部族",
@@ -27081,7 +27081,7 @@
     "zhCN": "琼达的部族"
   },
   {
-    "id": 27408,
+    "id": 50058,
     "Key": "Rathmas Wrath",
     "enUS": "Rathma's Wrath",
     "zhTW": "拉斯瑪的憤怒",
@@ -27098,7 +27098,7 @@
     "zhCN": "拉斯玛的愤怒"
   },
   {
-    "id": 27409,
+    "id": 50059,
     "Key": "Carthas Targe",
     "enUS": "Carthas' Targe",
     "zhTW": "卡薩斯的圓盾",
@@ -27115,7 +27115,7 @@
     "zhCN": "卡萨斯的圆盾"
   },
   {
-    "id": 27410,
+    "id": 50060,
     "Key": "Jondars Betrayal",
     "enUS": "Jondar's Betrayal",
     "zhTW": "瓊達的背叛",
@@ -27132,7 +27132,7 @@
     "zhCN": "琼达的背叛"
   },
   {
-    "id": 27411,
+    "id": 50061,
     "Key": "Shield of Westmarch",
     "enUS": "Shield of Westmarch",
     "zhTW": "威斯特瑪之盾",
@@ -27149,7 +27149,7 @@
     "zhCN": "威斯特玛之盾"
   },
   {
-    "id": 27412,
+    "id": 50062,
     "Key": "Warden of Light",
     "enUS": "Warden of Light",
     "zhTW": "光明的守衛",
@@ -27166,7 +27166,7 @@
     "zhCN": "光明的守卫"
   },
   {
-    "id": 27413,
+    "id": 50063,
     "Key": "Faras Legacy",
     "enUS": "Fara's Legacy",
     "zhTW": "法拉的遺產",
@@ -27183,7 +27183,7 @@
     "zhCN": "法拉的遗产"
   },
   {
-    "id": 27414,
+    "id": 50064,
     "Key": "Kormacs Targe",
     "enUS": "Kormac's Targe",
     "zhTW": "寇馬克的圓盾",
@@ -27200,7 +27200,7 @@
     "zhCN": "寇马克的圆盾"
   },
   {
-    "id": 27415,
+    "id": 50065,
     "Key": "Izuuls Guide",
     "enUS": "Izual's Guide",
     "zhTW": "伊祖爾的指引",
@@ -27217,7 +27217,7 @@
     "zhCN": "伊祖尔的指引"
   },
   {
-    "id": 27416,
+    "id": 50066,
     "Key": "Itheraels Path",
     "enUS": "Itherael's Path",
     "zhTW": "伊瑟瑞爾的道路",
@@ -27234,7 +27234,7 @@
     "zhCN": "伊瑟瑞尔的道路"
   },
   {
-    "id": 27417,
+    "id": 50067,
     "Key": "Yaerius Defense",
     "enUS": "Yaerius' Defense",
     "zhTW": "亞瑞斯的防禦",
@@ -27251,7 +27251,7 @@
     "zhCN": "亚瑞斯的防御"
   },
   {
-    "id": 27418,
+    "id": 50068,
     "Key": "Urzaels Betrayal",
     "enUS": "Urzael's Betrayal",
     "zhTW": "烏札艾爾的背叛",
@@ -27268,7 +27268,7 @@
     "zhCN": "乌扎艾尔的背叛"
   },
   {
-    "id": 27419,
+    "id": 50069,
     "Key": "Rakkis Crusade",
     "enUS": "Rakkis' Crusade",
     "zhTW": "拉基斯的遠征",
@@ -27285,7 +27285,7 @@
     "zhCN": "拉基斯的远征"
   },
   {
-    "id": 27420,
+    "id": 50070,
     "Key": "Warrivs Mail",
     "enUS": "Warriv's Mail",
     "zhTW": "瓦瑞夫的鎧甲",
@@ -27302,7 +27302,7 @@
     "zhCN": "瓦瑞夫的铠甲"
   },
   {
-    "id": 27421,
+    "id": 50071,
     "Key": "Elzixs Hide",
     "enUS": "Elzix's Hide",
     "zhTW": "艾爾席克的皮甲",
@@ -27319,7 +27319,7 @@
     "zhCN": "艾尔席克的皮甲"
   },
   {
-    "id": 27422,
+    "id": 50072,
     "Key": "Radaments Husk",
     "enUS": "Radament's Husk",
     "zhTW": "拉達曼特的殘骸",
@@ -27336,7 +27336,7 @@
     "zhCN": "拉达曼特的残骸"
   },
   {
-    "id": 27423,
+    "id": 50073,
     "Key": "Jamellas Plate",
     "enUS": "Jamella's Plate",
     "zhTW": "賈梅拉的鎧甲",
@@ -27353,7 +27353,7 @@
     "zhCN": "贾梅拉的铠甲"
   },
   {
-    "id": 27424,
+    "id": 50074,
     "Key": "Charsis Mail",
     "enUS": "Charsi's Mail",
     "zhTW": "恰西的鎖甲",
@@ -27370,7 +27370,7 @@
     "zhCN": "恰西的锁甲"
   },
   {
-    "id": 27425,
+    "id": 50075,
     "Key": "Hadriels Gift",
     "enUS": "Hadriel's Gift",
     "zhTW": "哈德瑞爾的贈禮",
@@ -27387,7 +27387,7 @@
     "zhCN": "哈德瑞尔的赠礼"
   },
   {
-    "id": 27426,
+    "id": 50076,
     "Key": "Larzuks Plate",
     "enUS": "Larzuk's Plate",
     "zhTW": "拉蘇克的鎧甲",
@@ -27404,7 +27404,7 @@
     "zhCN": "拉苏克的铠甲"
   },
   {
-    "id": 27427,
+    "id": 50077,
     "Key": "Natalyas Plate",
     "enUS": "Natalya's Plate",
     "zhTW": "娜塔亞的鎧甲",
@@ -27421,7 +27421,7 @@
     "zhCN": "娜塔亚的铠甲"
   },
   {
-    "id": 27428,
+    "id": 50078,
     "Key": "Ashearas Guard",
     "enUS": "Asheara's Guard",
     "zhTW": "阿夏拉的護衛",
@@ -27438,7 +27438,7 @@
     "zhCN": "阿夏拉的护卫"
   },
   {
-    "id": 27429,
+    "id": 50079,
     "Key": "Nihlathaks Weave",
     "enUS": "Nihlathak's Weave",
     "zhTW": "尼拉塞克的織網",
@@ -27455,7 +27455,7 @@
     "zhCN": "尼拉塞克的织网"
   },
   {
-    "id": 27430,
+    "id": 50080,
     "Key": "Kaelans Cap",
     "enUS": "Kaelan's Cap",
     "zhTW": "凱蘭的軟帽",
@@ -27472,7 +27472,7 @@
     "zhCN": "凯兰的软帽"
   },
   {
-    "id": 27431,
+    "id": 50081,
     "Key": "Andariels Mitts",
     "enUS": "Andariel's Mitts",
     "zhTW": "安達利爾的護手",
@@ -27489,7 +27489,7 @@
     "zhCN": "安达利尔的护手"
   },
   {
-    "id": 27432,
+    "id": 50082,
     "Key": "Zakarums Crusade",
     "enUS": "Zakarum's Crusade",
     "zhTW": "薩卡蘭的聖戰",
@@ -27506,7 +27506,7 @@
     "zhCN": "萨卡兰的圣战"
   },
   {
-    "id": 27433,
+    "id": 50083,
     "Key": "Diablos Heater",
     "enUS": "Diablo's Heater",
     "zhTW": "迪亞布羅的加熱盾",
@@ -27522,5 +27522,4 @@
     "ruRU": "Щит Диабло",
     "zhCN": "迪亚布罗的加热盾"
   }
-
 ]
