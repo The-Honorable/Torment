@@ -171,7 +171,7 @@ Runeword170	Zephyr	1		109	miss									OrtEth	r09	r05					move2		25	25	swing2		2
 Runeword171	Hustle (armor)	1		D2R Ladder 3	tors									ShaelKoEld	r13	r18	r02				move2		65	65	stamdrain		35	35	swing2		40	40	res-all		10	10	oskill	Evade	6	6									0
 Runeword172	Hustle (weapon)	1		D2R Ladder 3	weap									ShaelKoEld	r13	r18	r02				hit-skill	Quickness	9	5	swing2		10	10	dmg%		180	200	aura	Fanaticism	2	3													0
 Runeword173	Mosaic			D2R Ladder 3	h2h									MalGulAmn	r23	r25	r11				skilltab	20	2	2	charge-noconsume		50	50	swing2		20	20	dmg%		200	250	extra-fire		8	15	extra-cold		8	15	extra-ltng		8	15	0
-Runeword174	Metamorphosis			D2R Ladder 3	helm									IoChamFal	r16	r32	r19				hit-skill	Mark of the Bear	100	1	hit-skill	Mark of the Wolf	100	1	skilltab	16	5	5	ac%		50	80	res-all		10	10	crush		25	25					0
+Runeword174	Metamorphosis			D2R Ladder 3	helm									IoChamFal	r16	r32	r19												skilltab	16	5	5	ac%		50	80	res-all		10	10	crush		25	25					0
 Runeword175	Ground	1		D2R Ladder 3	helm									ShaelIoOrt	r13	r16	r09				hp%		5	10	ac%		75	100	res-ltng		10	30	abs-ltng%		10	15													0
 Runeword176	Temper	1		D2R Ladder 3	helm									ShaelIoRal	r13	r16	r08				hp%		5	10	ac%		75	100	res-fire		10	30	abs-fire%		10	15													0
 Runeword177	Hearth	1		D2R Ladder 3	helm									ShaelIoThul	r13	r16	r10				hp%		5	10	ac%		75	100	res-cold		10	30	abs-cold%		10	15	nofreeze		1	1									0
