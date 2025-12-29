@@ -69,7 +69,7 @@ Runeword67	Knight's Vigil																																																0
 Runeword68	Knowledge	1			helm									ElTirEl	r01	r03	r01				addxp		10	20	light		1	4	move1		15	15	ac%		50	50													0
 Runeword69	Last Wish	1		Previously Ladder Only	mele									JahMalJahSurJahBer	r31	r23	r31	r29	r31	r30	dmg%		350	350	hit-skill	Charged Bolt	20	40	hit-skill	Life Tap	10	18	gethit-skill	Fade	9	11	deadly		50	50	mag%/lvl	16			aura	Might	17	17	0
 Runeword70	Law																																																0
-Runeword71	Lawbringer	1		Previously Ladder Only	mele									AmnLemKo	r11	r20	r18				dmg-cold		130	180	dmg-fire		150	210	aura	Sanctuary	10	15	hit-skill	Decrepify	20	15	ac-miss		200	250	rip		1	1	reduce-ac		50	50	0
+Runeword71	Lawbringer	1		Previously Ladder Only	mele									AmnLemKo	r11	r20	r18				dmg-cold		130	180	dmg-fire		150	210	aura	Sanctuary	10	15	hit-skill	Attract	9	10	ac-miss		200	250	rip		1	1	reduce-ac		50	50	0
 Runeword72	Leaf	1		109	staf									TirRal	r03	r08					fireskill		3	3	ac/lvl		16	16	res-cold		33	33	skill	Fire Bolt	3	3	skill	Fire Bolt	3	3	skill	Fire Bolt	3	3					0
 Runeword73	Lightning																																																0
 Runeword74	Lionheart	1		109	tors									HelLumFal	r15	r17	r19				str		15	15	vit		20	20	dex		15	15	dmg%		50	100	hp		50	50	res-all		30	30					0
@@ -100,7 +100,7 @@ Runeword99	Voice of Reason	1		Previously Ladder Only	mele									LemKoElEld	r20
 Runeword100	Penitence																																																0
 Runeword101	Peril																																																0
 Runeword102	Pestilence																																																0
-Runeword103	Phoenix	1		Previously Ladder Only	weap	shld								VexVexLoJah	r26	r26	r28	r31			dmg%		300	300	ac-miss		350	400	hit-skill	Firestorm	15	30	Phoenix	Blaze	15	30	pierce-fire		25	25	aura	Redemption	10	15	abs-fire		10	10	0
+Runeword103	Phoenix	1		Previously Ladder Only	weap	shld								VexVexLoJah	r26	r26	r28	r31			dmg%		300	300	ac-miss		350	400	hit-skill	Firestorm	15	30	hit-skill	Blaze	15	30	pierce-fire		25	25	aura	Redemption	10	15	abs-fire		10	10	0
 Runeword104	Piety																																																0
 Runeword105	Pillar of Faith																																																0
 Runeword106	Plague	1	2	D2R Ladder 1	mele									ChamShaelUm	r32	r13	r22				dmg%		220	320	gethit-skill	Lower Resist	20	12	hit-skill	Poison Nova	12	25	pierce-pois		20	25	deadly		25	25	aura	Cleansing	10	15	allskills		1	2	0
@@ -113,7 +113,7 @@ Runeword112	Prudence	1		110	tors									MalTir	r23	r03					ac%		140	170	red-mag
 Runeword113	Punishment																																																0
 Runeword114	Purity																																																0
 Runeword115	Question																																																0
-Runeword116	Radiance	1		109	helm									NefSolIth	r04	r12	r06				light		3	3	all-stats		5	10	ac%		100	100	aura	Sanctuary		1	1												0
+Runeword116	Radiance	1		109	helm									NefSolIth	r04	r12	r06				light		3	3	all-stats		5	10	ac%		100	100	aura	Sanctuary	1	1													0
 Runeword117	Rain	1		111	tors									OrtMalIth	r09	r23	r06				hit-skill	Twister	9	20	gethit-skill	Cyclone Armor	11	20	dru		2	2	mana		100	150	swing1		15	15									0
 Runeword118	Reason																																																0
 Runeword119	Red																																																0

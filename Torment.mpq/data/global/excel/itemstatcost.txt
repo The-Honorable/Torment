@@ -75,11 +75,11 @@ durability	72		1	9														8	0	9	0									1	maxdurability																	
 maxdurability	73		1	9											9	4		8	0	8	0																														0
 hpregen	74		1	16											451	410		16	1024	16	1024																56	19		ModStr2l	ModStr2w									2	0
 item_maxdurability_percent	75		1	7											117	10		7	20	7	20			13			maxdurability										3	19		ModStr2i	ModStr2i										0
-item_maxhp_percent	76		1	16											32093	204		6	10	6	10			11			maxhp										58	19		ModStr2g	ModStr2g										0
-item_maxmana_percent	77		1	16											56452	204		6	10	6	10			11			maxmana										54	19		ModStr2h	ModStr2h										0
+item_maxhp_percent	76		1	16											32093	204		7	50	7	50			11			maxhp										58	19		ModStr2g	ModStr2g										0
+item_maxmana_percent	77		1	16											56452	204		7	50	7	50			11			maxmana										54	19		ModStr2h	ModStr2h										0
 item_attackertakesdamage	78		1	16							1				112	128		16	8192	16	8192												attackedinmelee	6	damagedbymissile	6	13	19		ModStr1v	ModStr1v									2	0
-item_goldbonus	79		1	10											187	34		9	100	9	100																10	19		ModStr1w	ModStr1w									2	0
-item_magicbonus	80		1	10											577	102		10	100	10	100																8	19		ModStr1x	ModStr1x									2	0
+item_goldbonus	79		1	10											187	34		10	200	10	200																10	19		ModStr1w	ModStr1w									2	0
+item_magicbonus	80		1	10											577	102		10	200	10	200																8	19		ModStr1x	ModStr1x									2	0
 item_knockback	81		1	8							1				105	0		7	0	7	0											1	domeleedamage	7	domissiledamage	7	76	19		ModStr1y	ModStr1y									2	0
 item_timeduration	82		1	10														9	20	9	20																														0
 item_addclassskills	83		1	4	3						1				49523	1560		3	0	3	0	3															150	13		ModStr3a	ModStr3a										0
@@ -382,31 +382,31 @@ splash_multi	379		1	7	16						1			2	190	256		21	0	7	0	16										1	domeleedamag
 splash_nova	380		1	7	16						1			2	190	256		21	0	7	0	16										1	domeleedamage	20			998	19	0	SplashN	SplashN										0
 splash_spear	381		1	7	16						1			2	190	256		21	0	7	0	16										1	domeleedamage	20			998	19	0	SplashS	SplashS										0
 item_level	382			16											0	0	1024	10	10	11	10																														0
-extra_bonespears	383		1	16										0		0		16	0	16	0																500	19		extra_bonespears	extra_bonespears										0
-extra_firebolts	384		1	16										0		0		16	0	16	0																500	19		extra_firebolts	extra_firebolts										0
-extra_icebolts	385		1	16										0		0		16	0	16	0																500	19		extra_icebolts	extra_icebolts										0
-extra_fireballs	386		1	16										0		0		16	0	16	0																500	19		extra_fireballs	extra_fireballs										0
-item_elemskill_fire	387		1	16	16						1							16	0	16	0	16															499	19		item_elemskill_fire	item_elemskill_fire										0
-item_elemskill_light	388		1	16	16						1							16	0	16	0	16															499	19		item_elemskill_light	item_elemskill_light										0
-item_elemskill_cold	389		1	16	16						1							16	0	16	0	16															499	19		item_elemskill_cold	item_elemskill_cold										0
-item_elemskill_poison	390		1	16	16						1							16	0	16	0	16															499	19		item_elemskill_poison	item_elemskill_poison										0
-item_elemskill_magic	391		1	16	16						1							16	0	16	0	16															499	19		item_elemskill_magic	item_elemskill_magic										0
-extra_magic_arrows	392		1	16										0		0		16	0	16	0																500	19		extra_magic_arrows	extra_magic_arrows										0
-extra_clay_golems	393		1	16										0		0		16	0	16	0																500	19		extra_clay_golems	extra_clay_golems										0
-extra_skele_warriors	394		1	16										0		0		16	0	16	0																500	19		extra_skele_warriors	extra_skele_warriors										0
-extra_skele_mages	395		1	16										0		0		16	0	16	0																500	19		extra_skele_mages	extra_skele_mages										0
-extra_holy_bolts	396		1	16										0		0		16	0	16	0																500	19		extra_holy_bolts	extra_holy_bolts										0
-extra_fire_golems	397		1	16										0		0		16	0	16	0																500	19		extra_fire_golems	extra_fire_golems										0
-extra_immolation_arrow	398		1	16										0		0		16	0	16	0																500	19		extra_immolation_arrow	extra_immolation_arrow										0
-extra_ravens	399		1	16										0		0		16	0	16	0																500	19		extra_ravens	extra_ravens										0
-extra_shadow_masters	400		1	16										0		0		16	0	16	0																500	19		extra_shadow_masters	extra_shadow_masters										0
-extra_iceblasts	401		1	16										0		0		16	0	16	0																500	19		extra_iceblasts	extra_iceblasts										0
-extra_glacialspikes	402		1	16										0		0		16	0	16	0																500	19		extra_glacialspikes	extra_glacialspikes										0
-extra_dire_wolves	403		1	16										0		0		16	0	16	0																500	19		extra_dire_wolves	extra_dire_wolves										0
-extra_spirit_wolves	404		1	16										0		0		16	0	16	0																500	19		extra_spirit_wolves	extra_spirit_wolves										0
-extra_grizzlys	405		1	16										0		0		16	0	16	0																500	19		extra_grizzlys	extra_grizzlys										0
-extra_blood_golems	406		1	16										0		0		16	0	16	0																500	19		extra_blood_golems	extra_blood_golems										0
-extra_exploding_arrows	407		1	16										0		0		16	0	16	0																500	19		extra_exploding_arrows	extra_exploding_arrows										0
-extra_ice_arrows	408		1	16										0		0		16	0	16	0																500	19		extra_ice_arrows	extra_ice_arrows										0
-extra_freezing_arrows	409		1	16										0		0		16	0	16	0																500	19		extra_freezing_arrows	extra_freezing_arrows										0
-extra_molten_boulders	410		1	16										0		0		16	0	16	0																500	19		extra_molten_boulders	extra_molten_boulders										0
+extra_bonespears	383		1	16										0		0		16	10	16	10																500	19		extra_bonespears	extra_bonespears										0
+extra_firebolts	384		1	16										0		0		16	10	16	10																500	19		extra_firebolts	extra_firebolts										0
+extra_icebolts	385		1	16										0		0		16	10	16	10																500	19		extra_icebolts	extra_icebolts										0
+extra_fireballs	386		1	16										0		0		16	10	16	10																500	19		extra_fireballs	extra_fireballs										0
+item_elemskill_fire	387		1	16	16						1							16	10	16	10	16															499	19		item_elemskill_fire	item_elemskill_fire										0
+item_elemskill_light	388		1	16	16						1							16	10	16	10	16															499	19		item_elemskill_light	item_elemskill_light										0
+item_elemskill_cold	389		1	16	16						1							16	10	16	10	16															499	19		item_elemskill_cold	item_elemskill_cold										0
+item_elemskill_poison	390		1	16	16						1							16	10	16	10	16															499	19		item_elemskill_poison	item_elemskill_poison										0
+item_elemskill_magic	391		1	16	16						1							16	10	16	10	16															499	19		item_elemskill_magic	item_elemskill_magic										0
+extra_magic_arrows	392		1	16										0		0		16	10	16	10																500	19		extra_magic_arrows	extra_magic_arrows										0
+extra_clay_golems	393		1	16										0		0		16	10	16	10																500	19		extra_clay_golems	extra_clay_golems										0
+extra_skele_warriors	394		1	16										0		0		16	10	16	10																500	19		extra_skele_warriors	extra_skele_warriors										0
+extra_skele_mages	395		1	16										0		0		16	10	16	10																500	19		extra_skele_mages	extra_skele_mages										0
+extra_holy_bolts	396		1	16										0		0		16	10	16	10																500	19		extra_holy_bolts	extra_holy_bolts										0
+extra_fire_golems	397		1	16										0		0		16	10	16	10																500	19		extra_fire_golems	extra_fire_golems										0
+extra_immolation_arrow	398		1	16										0		0		16	10	16	10																500	19		extra_immolation_arrow	extra_immolation_arrow										0
+extra_ravens	399		1	16										0		0		16	10	16	10																500	19		extra_ravens	extra_ravens										0
+extra_shadow_masters	400		1	16										0		0		16	10	16	10																500	19		extra_shadow_masters	extra_shadow_masters										0
+extra_iceblasts	401		1	16										0		0		16	10	16	10																500	19		extra_iceblasts	extra_iceblasts										0
+extra_glacialspikes	402		1	16										0		0		16	10	16	10																500	19		extra_glacialspikes	extra_glacialspikes										0
+extra_dire_wolves	403		1	16										0		0		16	10	16	10																500	19		extra_dire_wolves	extra_dire_wolves										0
+extra_spirit_wolves	404		1	16										0		0		16	10	16	10																500	19		extra_spirit_wolves	extra_spirit_wolves										0
+extra_grizzlys	405		1	16										0		0		16	10	16	10																500	19		extra_grizzlys	extra_grizzlys										0
+extra_blood_golems	406		1	16										0		0		16	10	16	10																500	19		extra_blood_golems	extra_blood_golems										0
+extra_exploding_arrows	407		1	16										0		0		16	10	16	10																500	19		extra_exploding_arrows	extra_exploding_arrows										0
+extra_ice_arrows	408		1	16										0		0		16	10	16	10																500	19		extra_ice_arrows	extra_ice_arrows										0
+extra_freezing_arrows	409		1	16										0		0		16	10	16	10																500	19		extra_freezing_arrows	extra_freezing_arrows										0
+extra_molten_boulders	410		1	16										0		0		16	10	16	10																500	19		extra_molten_boulders	extra_molten_boulders										0
