@@ -171,5 +171,4 @@ Wirt's Leg + Tome of Town Portal -> Portal to The Secret Cow Level	1			0	28				2
 1 Festering Essence of Destruction + Rare Weapon -> Set Weapon	1			100					2	"weap,rar"	fed						"weap,set"	99																																																																																						0
 add random sockets to armor	1			100					2	"armo,nru"	mos						useitem			100	sock			1	4																																																																															0
 add random sockets to weapon	1			100					2	"weap,nru"	mos						useitem			100	sock			1	6																																																																															0
-remove sockets from all items	1			100					2	"any,sock"	jwp						"useitem,rem"																																																																																							0
-SOCKET RETRIEVE - Rune Pliers & Socketed Item = Unsocket Runeword Item	1				100					2	"any,sock"	rup						"useitem,rem"																																																																																						0
+remove sockets from all items	1			100					2	"any,sock"	mou						"useitem,rem"																																																																																							0
