@@ -6339,5 +6339,22 @@
     "ptBR": "%+d ao máximo de Golens de Sangue",
     "ruRU": "%+d к максимуму кровавых големов",
     "zhCN": "血之魔像最大数量 %+d"
+  },
+  {
+    "id": 27404,
+    "Key": "extra_traps",
+    "enUS": "%+d to Max Traps",
+    "zhTW": "陷阱最大數量 %+d",
+    "deDE": "%+d zu maximalen Fallen",
+    "esES": "%+d al máximo de trampas",
+    "frFR": "%+d au nombre maximal de pièges",
+    "itIT": "%+d al numero massimo di trappole",
+    "koKR": "함정 최대 개수 %+d",
+    "plPL": "%+d do maksymalnej liczby pułapek",
+    "esMX": "%+d al máximo de trampas",
+    "jaJP": "トラップの最大数 +%d",
+    "ptBR": "%+d ao máximo de armadilhas",
+    "ruRU": "%+d к максимуму ловушек",
+    "zhCN": "陷阱最大数量 %+d"
   }
 ]

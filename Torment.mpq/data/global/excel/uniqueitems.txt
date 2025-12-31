@@ -189,11 +189,11 @@ Chromatic Ire	185	100	1		1	1	43	45	8cs	Cedar Staff		5	5000				invcstu				sor		4	
 Warpspear	186	100	1		1	1	43	43	8bs	Gothic Staff		5	5000	cblu	cblu						sor		3	3	ignore-ac		1	1	hit-skill	Charged Bolt	12	20	hit-skill	Chain Lightning	12	20	pierce-ltng		10	10	skill	Teleport	3	3																										0
 Skullcollector	187	100	1		1	1	43	46	8ws	Rune Staff		5	5000	blac	blac		inv8wsu				mana%		20	20	mana-kill		20	20	allskills		2	2	mag%/lvl	16			gold%/lvl	16																																0
 Skystrike	188	100	1		1	1	25	28	8sb	Edge Bow		5	5000								dmg-ltng		1	300	att		100	100	enr		10	10	swing3		30	30	dmg%		150	200	hit-skill	Nova	10	25	ama		1	1																						0
-Riphook	189	100	1		1	1	28	31	8hb	Razor Bow		5	5000	cred	cred						openwounds		30	30	dmg%		180	220	slow		10	10	mana		35	35	swing2		30	30	lifesteal		7	10	dmg/lvl		4																							0
+Riphook	189	100	1		1	1	28	31	8hb	Razor Bow		5	5000	cred	cred						openwounds		30	30	dmg%		180	220	slow		10	10	mana		35	35	swing2		30	30	lifesteal		7	10	dmg/lvl	4																								0
 Kuko Shakaku	190	100	1		1	1	28	37	8lb	Cedar Bow		5	5000	lpur	lpur		inv8lbu				skill	Immolation Arrow	3	3	extra_immolation_arrow		2	2	dmg%		200	233	pierce		25	25	dmg-fire		50	200	skilltab	0	3	3																										0
-Endlesshail	191	100	1		1	1	43	50	8cb	Double Bow		5	5000				invcbwu				res-cold		35	35	mana		40	40	ac-miss		50	50	skill	26	3	5	dmg%		180	220	dmg-cold	75	15	30																										0
+Endlesshail	191	100	1		1	1	43	50	8cb	Double Bow		5	5000				invcbwu				res-cold		35	35	mana		40	40	ac-miss		50	50	skill	Strafe	3	5	dmg%		180	220	dmg-cold	75	15	30																										0
 Whichwild String	192	100	1		1	1	37	39	8s8	Short Siege Bow		5	5000	lblu	lblu		inv8s8u				hit-skill	Attract	9	3	res-all		40	40	deadly/lvl	8			dmg%		150	170	magicarrow		20	20	dmg-mag		50	100																										0
-Cliffkiller	193	100	1		1	1	49	55	8l8	Large Siege Bow		5	5000	dgld							ama		2	2	dmg%		200	277	knock		1	1	hp		50	50	dmg-min		10	30	dmg-max		30	50	dmg/lvl		4																							0
+Cliffkiller	193	100	1		1	1	49	55	8l8	Large Siege Bow		5	5000	dgld							ama		2	2	dmg%		200	277	knock		1	1	hp		50	50	dmg-min		10	30	dmg-max		30	50	dmg/lvl	4																								0
 Magewrath	194	100	1		1	1	43	43	8sw	Rune Bow		5	5000	oran			invswbu				manasteal		15	15	red-mag		9	13	skill	Guided Arrow	3	3	att		200	250	dex		10	10	ama		1	1	dmg-norm		25	50	dmg%		150	250																		0
 Godstrike Arch	195	100	1		1	1	43	49	8lw	Gothic Bow		5	5000	lgry	lgry						dmg%		200	250	att%		100	150	dmg-undead		100	200	dmg-demon		100	200	hit-skill	Fist of the Heavens	10	20	swing2		50	50	oskill	Multiple Shot	1	1																						0
 Langer Briser	196	100	1		1	1	25	32	8lx	Arbalest		5	5000				inv8lxu				knock		1	1	dmg%		170	200	mag%		50	100	hp		30	30	dmg-max		30	50	openwounds		33	33	dmg-ltng		1	212	aura	Holy Shock	5	5																		0
