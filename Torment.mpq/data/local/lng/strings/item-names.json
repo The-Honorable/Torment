@@ -29340,5 +29340,39 @@
     "ptBR": "Presas de Sszark",
     "ruRU": "Клыки Сшарка",
     "zhCN": "斯扎克的利牙"
+  },
+  {
+    "id": 50191,
+    "Key": "mos",
+    "enUS": "Malus of Socketing",
+    "zhTW": "地獄火護身符",
+    "deDE": "Höllenfeuer-Amulett",
+    "esES": "Amuleto de Fuego Infernal",
+    "frFR": "Amulette de Feu de l'Enfer",
+    "itIT": "Zanne di Sszark",
+    "koKR": "스자르크의 송곳니",
+    "plPL": "Kły Sszarka",
+    "esMX": "Colmillos de Sszark",
+    "jaJP": "スザークの牙",
+    "ptBR": "Presas de Sszark",
+    "ruRU": "Клыки Сшарка",
+    "zhCN": "斯扎克的利牙"
+  },
+  {
+    "id": 50192,
+    "Key": "mou",
+    "enUS": "Malus of UnSocketing",
+    "zhTW": "地獄火護身符",
+    "deDE": "Höllenfeuer-Amulett",
+    "esES": "Amuleto de Fuego Infernal",
+    "frFR": "Amulette de Feu de l'Enfer",
+    "itIT": "Zanne di Sszark",
+    "koKR": "스자르크의 송곳니",
+    "plPL": "Kły Sszarka",
+    "esMX": "Colmillos de Sszark",
+    "jaJP": "スザークの牙",
+    "ptBR": "Presas de Sszark",
+    "ruRU": "Клыки Сшарка",
+    "zhCN": "斯扎克的利牙"
   }
 ]
