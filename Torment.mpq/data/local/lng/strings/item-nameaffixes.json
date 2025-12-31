@@ -17066,5 +17066,39 @@
     "ptBR": "Berserker",
     "ruRU": "[ms]лютый[fs]лютая[ns]лютое[pl]лютые",
     "zhCN": "狂战士"
+  },
+  {
+    "id": 22476,
+    "Key": "Supposing",
+    "enUS": "Supposing",
+    "zhTW": "假設的",
+    "deDE": "[ms]vermuteter[fs]vermutete[ns]vermutetes[pl]vermutete",
+    "esES": "[ms]supuesto[fs]supuesta[mp]supuestos[fp]supuestas",
+    "frFR": "[ms]supposé[fs]supposée[mp]supposés[fp]supposées",
+    "itIT": "[ms]supposto[fs]supposta[mp]supposti[fp]supposte",
+    "koKR": "가정된",
+    "plPL": "[ms]przypuszczalny[fs]przypuszczalna[ns]przypuszczalne[pl]przypuszczalni",
+    "esMX": "[ms]supuesto[fs]supuesta[mp]supuestos[fp]supuestas",
+    "jaJP": "仮定の",
+    "ptBR": "[ms]suposto[fs]suposta[mp]supostos[fp]supostas",
+    "ruRU": "[ms]предполагаемый[fs]предполагаемая[ns]предполагаемое[pl]предполагаемые",
+    "zhCN": "假设的"
+  },
+  {
+    "id": 22477,
+    "Key": "of Purpose",
+    "enUS": "of Purpose",
+    "zhTW": "之意志",
+    "deDE": "[ms]zielstrebiger[fs]zielstrebige[ns]zielstrebiges[pl]zielstrebige",
+    "esES": "[ms]decidido[fs]decidida[mp]decididos[fp]decididas",
+    "frFR": "[ms]résolu[fs]résolue[mp]résolus[fp]résolues",
+    "itIT": "[ms]determinato[fs]determinata[mp]determinati[fp]determinate",
+    "koKR": "의지의",
+    "plPL": "[ms]zdecydowany[fs]zdecydowana[ns]zdecydowane[pl]zdecydowani",
+    "esMX": "[ms]decidido[fs]decidida[mp]decididos[fp]decididas",
+    "jaJP": "意思ある",
+    "ptBR": "[ms]determinado[fs]determinada[mp]determinados[fp]determinadas",
+    "ruRU": "[ms]целеустремлённый[fs]целеустремлённая[ns]целеустремлённое[pl]целеустремлённые",
+    "zhCN": "之意志"
   }
 ]

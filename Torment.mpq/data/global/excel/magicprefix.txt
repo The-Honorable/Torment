@@ -669,3 +669,17 @@ Tangerine	1	1	1	1	4	1				3	119	res-ltng		5	5										armo	ring	amul	orb	circ			
 Beryl	1	1	1	1	4	1				3	120	res-pois		5	5										armo	ring	amul	orb	circ								0	0
 Godly	100	1	1	50		43				1	101	ac%		101	200									dgld	armo												0	0
 Cruel	100	1	1	56		48				1	105	dmg%		201	300									blac	weap							staf	wand	orb			0	0
+Supposing	100	1	1	12		15				2	300	skill-rand	1	6	35									whit	ring	amul	circ	belt	mcha									0
+Supposing	100	1	1	60		60				2	300	skill-rand	2	6	35									whit	ring	amul	circ	belt	mcha									0
+Supposing	100	1	1	12		15				2	300	skill-rand	1	36	65									whit	ring	amul	circ	belt	mcha									0
+Supposing	100	1	1	60		60				2	300	skill-rand	2	36	65									whit	ring	amul	circ	belt	mcha									0
+Supposing	100	1	1	12		15				2	300	skill-rand	1	66	95									whit	ring	amul	circ	belt	mcha									0
+Supposing	100	1	1	60		60				2	300	skill-rand	2	66	95									whit	ring	amul	circ	belt	mcha									0
+Supposing	100	1	1	12		15				2	300	skill-rand	1	96	125									whit	ring	amul	circ	belt	mcha									0
+Supposing	100	1	1	60		60				2	300	skill-rand	2	96	125									whit	ring	amul	circ	belt	mcha									0
+Supposing	100	1	1	12		15				2	300	skill-rand	1	126	155									whit	ring	amul	circ	belt	mcha									0
+Supposing	100	1	1	60		60				2	300	skill-rand	2	126	155									whit	ring	amul	circ	belt	mcha									0
+Supposing	100	1	1	12		15				2	300	skill-rand	1	221	250									whit	ring	amul	circ	belt	mcha									0
+Supposing	100	1	1	60		60				2	300	skill-rand	2	221	250									whit	ring	amul	circ	belt	mcha									0
+Supposing	100	1	1	12		15				2	300	skill-rand	1	251	280									whit	ring	amul	circ	belt	mcha									0
+Supposing	100	1	1	60		60				2	300	skill-rand	2	251	280									whit	ring	amul	circ	belt	mcha									0

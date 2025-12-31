@@ -159,7 +159,7 @@ Act	Place	*ds1
 4	hellmeteor	12
 4	izual	13
 4	diablo	14
-4	Winged Death	15
+4	Darkwing	15
 4	The Tormentor	16
 4	Taintbreeder	17
 4	Riftwraith the Cannibal	18
@@ -172,6 +172,7 @@ Act	Place	*ds1
 4	cain4	25
 4	malachai	26
 4	The Feature Creep	27
+4	Wing of Izual	28
 5	larzuk	0
 5	drehya	1
 5	malah	2
