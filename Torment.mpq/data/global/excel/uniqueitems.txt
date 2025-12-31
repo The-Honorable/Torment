@@ -511,7 +511,7 @@ Sphere of Yshari	507	100	1		1	1	12	15	ob3	Smoked Sphere		3	5000								cast1		15
 Wrath of Athulua	508	100	1		1	1	30	37	9ja	War Javelin		3	5000								oskill	Lightning Fury	5	5	dmg-ltng		1	150	lifesteal		5	5	manasteal		5	5	pierce-ltng		10	10	dmg-norm		15	50																										0
 Kethryes Regards	509	100	1		1	1	53	57	9ts	Harpoon		3	5000								oskill	Lightning Bolt	10	10	dmg-ltng		30	230	pierce-ltng		15	15	dmg-norm		35	75	lifesteal		5	5	aura	Holy Shock	10	10																										0
 Secret of Drognan	510	100	1		1	1	15	18	bkf	Balanced Knife		3	5000								dmg-norm		10	15	dmg-pois	100	300	300	oskill	Poison Dagger	3	3	extra-pois		10	15	mana-kill		5	5																														0
-Atma's Revenge	511	100	1		1	1	15	20	ces	Cestus		3	5000								skilltab	18	1	2	extra-ele		10	10	swing1		10	10	regen-mana		25	50	mag%		25	40	gold%		30	30																										0
+Atmas Revenge	511	100	1		1	1	15	20	ces	Cestus		3	5000								skilltab	18	1	2	extra-ele		10	10	swing1		10	10	regen-mana		25	50	mag%		25	40	gold%		30	30																										0
 Spear of Kaelan	512	100	1		1	1	15	22	ssp	Short Spear		3	5000								dmg%		120	140	dmg-min		8	11	dmg-max		20	25	move1		15	15	dmg/lvl	5	deadly/lvl	4																														0
 Balance of the Steppes	513	100	1		1	1	16	25	bal	Balanced Axe		3	5000								dmg%		150	180	dmg-norm		5	10	balance1		25	25	move1		15	15	rep-quant	30			deadly		20	20	allskills		1	1																						0
 Twin Seas Release	514	100	1		1	1	60	70	7ja	Hyperion Javelin		3	5000								dmg%		250	350	dmg-ltng		1	300	extra-ltng		10	20	pierce-ltng		10	10	heal-kill		5	5	mana-kill		5	5	allskills		1	2	pierce		25	25																		0
