@@ -109,7 +109,7 @@ Runeword108	Prayer																																																0
 Runeword109	Pride	1		Previously Ladder Only	pole	spea								ChamSurIoLo	r32	r29	r16	r28			dmg-dem/lvl	8			dmg-ltng		50	400	att%		260	300	aura	Concentration	16	20	gethit-skill	Fire Wall	15	30	regen		-20	-20	gold%/lvl	16			0
 Runeword110	Principle	1		111	tors									RalGulEld	r08	r25	r02				hit-skill	Holy Bolt	25	15	pal		2	2	hp		100	150	dmg-undead		100	100	dmg%		50	50									0
 Runeword111	Prowess in Battle																																																0
-Runeword112	Prudence	1		110	tors									MalTir	r23	r03					ac%		140	170	red-mag		10	10	red-dmg		5	5	res-all		25	35	balance2		25	25	rep-dur	25	move1		15	15			0
+Runeword112	Prudence	1		110	tors									MalTir	r23	r03					ac%		140	170	red-mag		10	10	red-dmg		5	5	res-all		25	35	balance2		25	25	rep-dur	25			move1		15	15	0
 Runeword113	Punishment																																																0
 Runeword114	Purity																																																0
 Runeword115	Question																																																0
@@ -170,7 +170,7 @@ Runeword169	Youth																																																0
 Runeword170	Zephyr	1		109	miss									OrtEth	r09	r05					move2		25	25	swing2		25	25	dmg%		50	80	att		66	66	gethit-skill	Twister	15	5	ac		25	25					0
 Runeword171	Hustle (armor)	1		D2R Ladder 3	tors									ShaelKoEld	r13	r18	r02				move2		65	65	stamdrain		35	35	swing2		40	40	res-all		10	10	oskill	Evade	6	6									0
 Runeword172	Hustle (weapon)	1		D2R Ladder 3	weap									ShaelKoEld	r13	r18	r02				hit-skill	Quickness	9	5	swing2		10	10	dmg%		180	200	aura	Fanaticism	2	3													0
-Runeword173	Mosaic			D2R Ladder 3	h2h									MalGulAmn	r23	r25	r11				skilltab	20	2	2	charge-noconsume		50	50	swing2		20	20	dmg%		200	250	extra-fire		8	15	extra-cold		8	15	extra-ltng		8	15	0
+Runeword173	Mosaic			D2R Ladder 3	h2h									MalGulAmn	r23	r25	r11				skilltab	20	2	2					swing2		20	20	dmg%		200	250	extra-fire		8	15	extra-cold		8	15	extra-ltng		8	15	0
 Runeword174	Metamorphosis			D2R Ladder 3	helm									IoChamFal	r16	r32	r19												skilltab	16	5	5	ac%		50	80	res-all		10	10	crush		25	25					0
 Runeword175	Ground	1		D2R Ladder 3	helm									ShaelIoOrt	r13	r16	r09				hp%		5	10	ac%		75	100	res-ltng		10	30	abs-ltng%		10	15													0
 Runeword176	Temper	1		D2R Ladder 3	helm									ShaelIoRal	r13	r16	r08				hp%		5	10	ac%		75	100	res-fire		10	30	abs-fire%		10	15													0
