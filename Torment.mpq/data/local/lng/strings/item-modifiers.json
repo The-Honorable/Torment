@@ -5595,19 +5595,19 @@
   {
     "id": 23005,
     "Key": "ItemModifierNonClassSkill",
-    "enUS": "%+d to %s",
-    "zhTW": "%+d 至%s",
-    "deDE": "%+d zu %s",
-    "esES": "%+d a %s",
-    "frFR": "%+d à %s",
-    "itIT": "%+d a %s",
-    "koKR": "%+d %s",
-    "plPL": "%+d do umiejętności %s",
-    "esMX": "%+d a %s",
-    "jaJP": "〈%1〉向上（%+0）",
-    "ptBR": "%+d para %s",
-    "ruRU": "%+d к умению «%s»",
-    "zhCN": "%+d 至%s"
+    "enUS": "%+d to %s (oskill)",
+    "zhTW": "%+d 至%s (oskill)",
+    "deDE": "%+d zu %s (oskill)",
+    "esES": "%+d a %s (oskill)",
+    "frFR": "%+d à %s (oskill)",
+    "itIT": "%+d a %s (oskill)",
+    "koKR": "%+d %s (oskill)",
+    "plPL": "%+d do umiejętności %s (oskill)",
+    "esMX": "%+d a %s (oskill)",
+    "jaJP": "〈oskill〉〈%S〉向上（%+d）",
+    "ptBR": "%+d para %s (oskill)",
+    "ruRU": "%+d к умению «%s» (oskill)",
+    "zhCN": "%+d 至%s (oskill)"
   },
   {
     "id": 23049,
@@ -6171,23 +6171,6 @@
     "zhCN": "灰熊最大数量 %+d"
   },
   {
-    "id": 27393,
-    "Key": "extra_blood_golems",
-    "enUS": "%+d to Max Blood Golems",
-    "zhTW": "血之魔像最大數量 %+d",
-    "deDE": "%+d zu maximalen Blutgolems",
-    "esES": "%+d al máximo de Gólems de Sangre",
-    "frFR": "%+d au nombre maximal de golems de sang",
-    "itIT": "%+d al numero massimo di Golem di Sangue",
-    "koKR": "블러드 골렘 최대 수량 %+d",
-    "plPL": "%+d do maksymalnej liczby Golemów Krwi",
-    "esMX": "%+d al máximo de Gólems de Sangre",
-    "jaJP": "ブラッドゴーレムの最大数 +%d",
-    "ptBR": "%+d ao máximo de Golens de Sangue",
-    "ruRU": "%+d к максимуму кровавых големов",
-    "zhCN": "血之魔像最大数量 %+d"
-  },
-  {
     "id": 27394,
     "Key": "extra_exploding_arrows",
     "enUS": "%+d Exploding Arrow Projectiles",
@@ -6339,5 +6322,22 @@
     "ptBR": "%+d projéteis de Rocha Fundida",
     "ruRU": "%+d снарядов Расплавленного валуна",
     "zhCN": "熔岩巨石投射物 %+d"
+  },
+  {
+    "id": 27403,
+    "Key": "extra_blood_golems",
+    "enUS": "%+d to Max Blood Golems",
+    "zhTW": "血之魔像最大數量 %+d",
+    "deDE": "%+d zu maximalen Blutgolems",
+    "esES": "%+d al máximo de Gólems de Sangre",
+    "frFR": "%+d au nombre maximal de golems de sang",
+    "itIT": "%+d al numero massimo di Golem di Sangue",
+    "koKR": "블러드 골렘 최대 수량 %+d",
+    "plPL": "%+d do maksymalnej liczby Golemów Krwi",
+    "esMX": "%+d al máximo de Gólems de Sangre",
+    "jaJP": "ブラッドゴーレムの最大数 +%d",
+    "ptBR": "%+d ao máximo de Golens de Sangue",
+    "ruRU": "%+d к максимуму кровавых големов",
+    "zhCN": "血之魔像最大数量 %+d"
   }
 ]

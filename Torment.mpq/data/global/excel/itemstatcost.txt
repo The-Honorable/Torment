@@ -92,7 +92,7 @@ item_lightradius	89		1	5							1				15	51		4	4	4	4																6	19		ModStr3f
 item_lightcolor	90		1	24							1				155	0		5	0	24	0																														0
 item_req_percent	91		1	8											26	-34		8	100	8	100																0	19		ModStr3h	ModStr3h										0
 item_levelreq	92																	6	20	7																															0
-item_fasterattackrate	93	1	1	9											1042	156		7	20	7	20											1					145	19		ModStr4m	ModStr4m									2	0
+item_fasterattackrate	93	1	1	9											1042	156		10	100	10	100											1					145	19		ModStr4m	ModStr4m									2	0
 item_levelreqpct	94																	7	20	7	64			13			item_levelreq																								0
 lastblockframe	95																	6	20																																0
 item_fastermovevelocity	96	1	1	9											4083	156		7	20	7	20																148	19		ModStr4s	ModStr4s									2	0
@@ -104,7 +104,7 @@ skill_poison_override_length	101			8														6	20																										
 item_fasterblockrate	102	1	1	9											1484	72		7	20	7	20																136	19		ModStr4y	ModStr4y									2	0
 skill_bypass_undead	103			1														7	20																																0
 skill_bypass_demons	104			1														6	20																																0
-item_fastercastrate	105	1	1	9											3876	156		7	20	7	20																142	19		ModStr4v	ModStr4v									2	0
+item_fastercastrate	105	1	1	9											3876	156		10	100	10	100																142	19		ModStr4v	ModStr4v									2	0
 skill_bypass_beasts	106			1														7	20																																0
 item_singleskill	107		1	15	9						1			1	181	256		14	0	3	0	9															81	27		ItemModifierClassSkill	ItemModifierClassSkill										0
 item_restinpeace	108			1							1				1987	0		14	0	1	0											1	kill	29			81	19		ModitemSMRIP	ModitemSMRIP									2	0
@@ -410,3 +410,4 @@ extra_exploding_arrows	407		1	16										0		0		16	10	16	10																500	1
 extra_ice_arrows	408		1	16										0		0		16	10	16	10																500	19		extra_ice_arrows	extra_ice_arrows										0
 extra_freezing_arrows	409		1	16										0		0		16	10	16	10																500	19		extra_freezing_arrows	extra_freezing_arrows										0
 extra_molten_boulders	410		1	16										0		0		16	10	16	10																500	19		extra_molten_boulders	extra_molten_boulders										0
+extra_traps	411		1	16										0		0		16	10	16	10																500	19		extra_traps	extra_traps										0

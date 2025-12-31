@@ -267,7 +267,7 @@ levelreq	1	1	item_levelreq																											Required Level: #		Min #	Ma
 ethereal	1	23																												Ethereal		1	1		0
 oskill	1	22	item_nonclassskill																											+# to [Skill]	Skill	Min #	Max #		0
 state	1	24	state																												State	1	1	Applies a State on the unit	0
-randclassskill	1	36	item_addclassskills		3																									+# to [Class] Skill Levels		Min Class ID	Max Class ID	val1 = # of Skill levels	0
+randclassskill	1	12	item_addclassskills																											+# to [Class] Skill Levels	+levels	Min Class ID	Max Class ID	val1 = # of Skill levels	0
 noconsume		1	item_noconsume																											+# to not Consume Quantity		Min %	Max %		0
 pierce-immunity-cold	1	1	item_pierce_cold_immunity																											Monster Cold Immunity is Sundered		Min %	Max %		0
 pierce-immunity-fire	1	1	item_pierce_fire_immunity																											Monster Fire Immunity is Sundered		Min %	Max %		0
@@ -302,7 +302,8 @@ extra_blood_golems	1	1	extra_blood_golems																																0
 extra_exploding_arrows	1	1	extra_exploding_arrows																																0
 extra_ice_arrows	1	1	extra_ice_arrows																																0
 extra_freezing_arrows	1	1	extra_freezing_arrows																																0
-extra-ele	1	1	passive_fire_mastery			3	passive_cold_mastery			3	passive_cold_mastery																								0
-pierce-ele	1	1	passive_fire_pierce			3	passive_cold_pierce			3	passive_cold_pierce																								0
+extra-ele	1	1	passive_fire_mastery			3	passive_cold_mastery			3	passive_ltng_mastery																								0
+pierce-ele	1	1	passive_fire_pierce			3	passive_cold_pierce			3	passive_ltng_pierce																								0
 extra_molten_boulders	1	1	extra_molten_boulders																																0
 tab-rand	1	12	item_addskill_tab																																0
+extra_traps	1	1	extra_traps																																0
