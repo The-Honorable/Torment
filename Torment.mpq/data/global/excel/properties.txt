@@ -307,3 +307,5 @@ pierce-ele	1	1	passive_fire_pierce			3	passive_cold_pierce			3	passive_ltng_pier
 extra_molten_boulders	1	1	extra_molten_boulders																																0
 tab-rand	1	12	item_addskill_tab																																0
 extra_traps	1	1	extra_traps																																0
+extra_hydras	1	1	extra_hydras																																0
+skill_concentration	1	1	skill_concentration																																0

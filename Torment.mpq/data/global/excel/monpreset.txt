@@ -144,6 +144,7 @@ Act	Place	*ds1
 3	Toorc Icefist	36
 3	Wyand Voidfinger	37
 3	Maffer Dragonhand	38
+3	gargoyletrap	39
 4	place_champion	0
 4	trap-horzmissile	1
 4	trap-vertmissile	2

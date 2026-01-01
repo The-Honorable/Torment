@@ -175,3 +175,4 @@ remove sockets from all items	1			100					2	"any,sock"	mou						"useitem,rem"			
 reroll charms 3:1 100% plvl	1			100					3	"cm1,mag,qty=3"							"cm1,mag"		100																																																																																					0
 reroll charms 3:1 100% plvl	1			100					3	"cm2,mag,qty=3"							"cm2,mag"		100																																																																																					0
 reroll charms 3:1 100% plvl	1			100					3	"cm3,mag,qty=3"							"cm3,mag"		100																																																																																					0
+craft leap of faith unique ring	1			100					4	r08	r07	r09	ring				Leap of Faith	111																																																																																						0

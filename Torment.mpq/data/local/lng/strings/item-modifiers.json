@@ -6356,5 +6356,22 @@
     "ptBR": "%+d ao máximo de armadilhas",
     "ruRU": "%+d к максимуму ловушек",
     "zhCN": "陷阱最大数量 %+d"
+  },
+  {
+    "id": 27405,
+    "Key": "extra_hydras",
+    "enUS": "%+d to Max Hydras",
+    "zhTW": "九頭蛇最大數量 %+d",
+    "deDE": "%+d zu maximalen Hydras",
+    "esES": "%+d al máximo de Hidras",
+    "frFR": "%+d au nombre maximal d'Hydras",
+    "itIT": "%+d al numero massimo di Idre",
+    "koKR": "히드라 최대 개수 %+d",
+    "plPL": "%+d do maksymalnej liczby Hydr",
+    "esMX": "%+d al máximo de Hidras",
+    "jaJP": "ヒドラの最大数 +%d",
+    "ptBR": "%+d ao máximo de Hidras",
+    "ruRU": "%+d к максимальному числу гидр",
+    "zhCN": "九头蛇最大数量 %+d"
   }
 ]

@@ -18,3 +18,4 @@ mon_death_explode_fire	death-skill		373	1	1																										death-skill
 mon_death_explode_cold	death-skill		374	1	1																										death-skill		374	5	5																										death-skill		374	15	15																										0
 mon_death_explode_ltng	death-skill		375	1	1																										death-skill		375	5	5																										death-skill		375	15	15																										0
 mon_death_explode_mag	death-skill		376	1	1																										death-skill		376	5	5																										death-skill		376	15	15																										0
+mon_conc	skill_concentration			100	100																										skill_concentration			100	100																										skill_concentration			100	100																										0
