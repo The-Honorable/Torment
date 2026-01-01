@@ -702,5 +702,10 @@
     "mon_death_explode_fire": "firebolt",
     "mon_death_explode_cold": "frost_nova",
     "mon_death_explode_ltng": "electric_nova",
-    "mon_death_explode_mag": "holy_bolt_missile"
+    "mon_death_explode_mag": "holy_bolt_missile",
+    "carnage_explode": "carnage_explode",
+    "carnage_nado": "carnage",
+    "carnage_hit": "carnage_explode",
+    "carnage_blood": "carnage_explode_2",
+    "berserk_aoe_explode": "berserk_aoe_explode"
 }
