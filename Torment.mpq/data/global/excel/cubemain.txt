@@ -172,3 +172,6 @@ Wirt's Leg + Tome of Town Portal -> Portal to The Secret Cow Level	1			0	28				2
 add random sockets to armor	1			100					2	"armo,nru"	mos						useitem			100	sock			1	4																																																																															0
 add random sockets to weapon	1			100					2	"weap,nru"	mos						useitem			100	sock			1	6																																																																															0
 remove sockets from all items	1			100					2	"any,sock"	mou						"useitem,rem"																																																																																							0
+reroll charms 3:1 100% plvl	1			100					3	"cm1,mag,qty=3"							"cm1,mag"		100																																																																																					0
+reroll charms 3:1 100% plvl	1			100					3	"cm2,mag,qty=3"							"cm2,mag"		100																																																																																					0
+reroll charms 3:1 100% plvl	1			100					3	"cm3,mag,qty=3"							"cm3,mag"		100																																																																																					0

@@ -707,5 +707,6 @@
     "carnage_nado": "carnage",
     "carnage_hit": "carnage_explode",
     "carnage_blood": "carnage_explode_2",
-    "berserk_aoe_explode": "berserk_aoe_explode"
+    "berserk_aoe_explode": "warcry_shockwave",
+    "fireclaws_aoe_explode": "ground_fire_small"
 }
