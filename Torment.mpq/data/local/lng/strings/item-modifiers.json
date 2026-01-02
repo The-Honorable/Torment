@@ -6373,5 +6373,39 @@
     "ptBR": "%+d ao máximo de Hidras",
     "ruRU": "%+d к максимальному числу гидр",
     "zhCN": "九头蛇最大数量 %+d"
+  },
+  {
+    "id": 27406,
+    "Key": "ModitemdamAllElesk",
+    "enUS": "%+d%% to All Elemental Skill Damage", 
+    "zhTW": "所有元素技能傷害 %+d%%",
+    "deDE": "%+d%% zu allem elementaren Fertigkeitsschaden",
+    "esES": "%+d%% al daño de todas las habilidades elementales",
+    "frFR": "%+d%% aux dégâts de toutes les compétences élémentaires",
+    "itIT": "%+d%% ai danni di tutte le abilità elementali",
+    "koKR": "모든 원소 기술 피해 %+d%%",
+    "plPL": "%+d%% do obrażeń wszystkich umiejętności żywiołów",
+    "esMX": "%+d%% al daño de todas las habilidades elementales",
+    "jaJP": "すべての属性スキルダメージ +%d%%",
+    "ptBR": "%+d%% ao dano de todas as habilidades elementais",
+    "ruRU": "%+d%% к урону всех стихийных умений",
+    "zhCN": "所有元素技能伤害 %+d%%"
+  },
+  {
+    "id": 27407,
+    "Key": "ModitemenresAllElesk",
+    "enUS": "-%d%% to All Enemy Elemental Resistances", 
+    "zhTW": "所有敵人元素抗性 -%d%%",
+    "deDE": "-%d%% zu allen Elementarwiderständen der Gegner",
+    "esES": "-%d%% a todas las resistencias elementales de los enemigos",
+    "frFR": "-%d%% aux résistances élémentaires de tous les ennemis",
+    "itIT": "-%d%% alle resistenze elementali dei nemici",
+    "koKR": "모든 적의 원소 저항 -%d%%",
+    "plPL": "-%d%% do wszystkich odporności żywiołów wrogów",
+    "esMX": "-%d%% a todas las resistencias elementales de los enemigos",
+    "jaJP": "すべての敵の属性耐性 -%d%%",
+    "ptBR": "-%d%% às resistências elementais de todos os inimigos",
+    "ruRU": "-%d%% ко всем стихийным сопротивлениям противников",
+    "zhCN": "所有敌人的元素抗性 -%d%%"
   }
 ]

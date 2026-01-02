@@ -20,7 +20,7 @@ Runeword18	Darkness																																																0
 Runeword19	Daylight																																																0
 Runeword20	Death	1		Previously Ladder Only	swor	axe								HelElVexOrtGul	r15	r01	r26	r09	r25		dmg%		300	350	deadly/lvl	6			oskill	BloodGolem	5	5	att-skill	Glacial Spike	12	30	death-skill	Chain Lightning	100	44	indestruct		1	1					0
 Runeword21	Deception																																																0
-Runeword22	Delirium	1		110	helm									LemIstIo	r20	r24	r16				hit-skill	Confuse	11	18	charged	Attract	60	17	gethit-skill	Terror	14	13	ac		261	261	gethit-skill	Mind Blast	6	14	gethit-skill	Delerium Change	1	50	allskills		2	2	0
+Runeword22	Delirium	1		110	helm									LemIstIo	r20	r24	r16				hit-skill	Confuse	11	18	charged	Attract	60	17	gethit-skill	Terror	14	13	ac		261	261	gethit-skill	Bone Spirit	12	30	gethit-skill	Delerium Change	1	50	allskills		2	2	0
 Runeword23	Desire																																																0
 Runeword24	Despair																																																0
 Runeword25	Destruction	1		Previously Ladder Only	pole	swor								VexLoBerJahKo	r26	r28	r30	r31	r18		dmg%		300	350	dmg-mag		100	180	hit-skill	Molten Boulder	9	25	hit-skill	Volcano	12	25	hit-skill	Firestorm	12	25	openwounds		20	20					0
@@ -170,8 +170,8 @@ Runeword169	Youth																																																0
 Runeword170	Zephyr	1		109	miss									OrtEth	r09	r05					move2		25	25	swing2		25	25	dmg%		50	80	att		66	66	gethit-skill	Twister	15	5	ac		25	25					0
 Runeword171	Hustle (armor)	1		D2R Ladder 3	tors									ShaelKoEld	r13	r18	r02				move2		65	65	stamdrain		35	35	swing2		40	40	res-all		10	10	oskill	Evade	6	6									0
 Runeword172	Hustle (weapon)	1		D2R Ladder 3	weap									ShaelKoEld	r13	r18	r02				hit-skill	Quickness	9	5	swing2		10	10	dmg%		180	200	aura	Fanaticism	2	3													0
-Runeword173	Mosaic			D2R Ladder 3	h2h									MalGulAmn	r23	r25	r11				skilltab	20	2	2					swing2		20	20	dmg%		200	250	extra-fire		8	15	extra-cold		8	15	extra-ltng		8	15	0
-Runeword174	Metamorphosis			D2R Ladder 3	helm									IoChamFal	r16	r32	r19												skilltab	16	5	5	ac%		50	80	res-all		10	10	crush		25	25					0
+Runeword173	Mosaic	1		D2R Ladder 3	h2h									MalGulAmn	r23	r25	r11				skilltab	20	2	2	swing2		20	20	dmg%		200	250	extra-fire		8	15	extra-cold		8	15	extra-ltng		8	15					0
+Runeword174	Metamorphosis			D2R Ladder 3	helm									IoChamFal	r16	r32	r19												skilltab	16	5	5	ac%		50	80	res-all		10	10									0
 Runeword175	Ground	1		D2R Ladder 3	helm									ShaelIoOrt	r13	r16	r09				hp%		5	10	ac%		75	100	res-ltng		10	30	abs-ltng%		10	15													0
 Runeword176	Temper	1		D2R Ladder 3	helm									ShaelIoRal	r13	r16	r08				hp%		5	10	ac%		75	100	res-fire		10	30	abs-fire%		10	15													0
 Runeword177	Hearth	1		D2R Ladder 3	helm									ShaelIoThul	r13	r16	r10				hp%		5	10	ac%		75	100	res-cold		10	30	abs-cold%		10	15	nofreeze		1	1									0
