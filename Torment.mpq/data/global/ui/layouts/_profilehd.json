@@ -88,6 +88,7 @@
     "FontColorPartyOrange": { "r": 196, "g": 129, "b": 0, "a": 255 },
     "FontColorPartyGreen": {"r": 79, "g": 194, "b": 56, "a": 255 },
     "FontColorBonesyRed": { "r": 230, "g": 5, "b": 10, "a": 255 },
+    "FontColorTorment": { "r": 221, "g": 70, "b": 0, "a": 255 },
 
     // Text color presets
     "CarouselEnabledColor": "$FontColorLightGold",

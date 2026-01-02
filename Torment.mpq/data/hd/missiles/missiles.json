@@ -709,6 +709,9 @@
     "carnage_blood": "carnage_explode_2",
     "berserk_aoe_explode": "warcry_shockwave",
     "fireclaws_aoe_explode": "ground_fire_small",
-    "reap_explode": "carnage_explode",
-    "reap_hit": "spike_fiend_missle"
+    "reap_explode": "bone_spirit",
+    "reap_nado": "",
+    "reap_hit": "bone_spirit",
+    "reap_blood": "",
+    "bonereap": "bone_spirit"
 }

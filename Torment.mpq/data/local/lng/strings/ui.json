@@ -9879,7 +9879,7 @@
   {
     "id": 5272,
     "Key": "strDelete",
-    "enUS": "Delete",
+    "enUS": "Retire Hero Permanently",
     "zhTW": "刪除",
     "deDE": "Entfernen",
     "esES": "Eliminar",
@@ -19433,7 +19433,7 @@
   {
     "id": 26135,
     "Key": "PlayTab",
-    "enUS": "PLAY",
+    "enUS": "PLAY SOLO",
     "zhTW": "進行遊戲",
     "deDE": "SPIELEN",
     "esES": "JUGAR",

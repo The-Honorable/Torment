@@ -261,7 +261,7 @@
                 "anchor": {"x": 0.5 },
                 "rect": { "x": 100, "y": 1865 },
                 "filename": "FrontEnd\\HD\\Final\\FrontEnd_ButtonLarge",
-                "textString": "TCP/IP",
+                "textString": "HOST/JOIN TCP",
                 "onClickMessage": "PanelManager:OpenPanel:TCPIPPanel",
                 "text/style": "$StyleFEButtonText",
                 "pointSize": "$ExtraLargeFontSize",
