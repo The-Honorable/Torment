@@ -241,6 +241,19 @@
                                     }
                                 }
                             ]
+                        },
+                        {
+                            "type": "TextBoxWidget", "name": "modversion",
+                            "fields": {
+                                "rect": { "x": 140, "y": 2062, "width": 400 },
+                                "text":"Mod Version v0.0.1",
+                                "style": {
+                                    "fontColor": "$FontColorTorment",
+                                    "pointSize": "$XMediumFontSize",
+                                    "spacing": "$ReducedSpacing",
+                                    "dropShadow": "$DefaultDropShadow"
+                                }
+                            }
                         }
                     ]
                 }
