@@ -1,0 +1,137 @@
+{
+    "MonsterStatsDisplay": true,
+    "SunderedMonUMods": true,
+    "SunderValue": 95,
+    "MemoryConfigs": [
+        {
+            "Name": "Player Difficulty Scaling Override (Max/UI)",
+            "Description": "Allows you to control the maximum player difficulty. These addresses are for UI and client checks",
+            "Category": "Important",
+            "Addresses": [
+                "135EF8",
+                "135F16",
+                "1E31CCC",
+                "1E31D64"
+            ],
+            "Length": 4,
+            "Type": "Integer",
+            "Values": "8",
+            "OriginalValues": "8",
+            "ModdedValues": "65535"
+        },
+        {
+            "Name": "Force Classic Whirlwind",
+            "Description": "Changes the WW BP calcs to use 1FPA attacks instead of 4FPA for max speed",
+            "Category": "Alteration",
+            "Address": "3748C6",
+            "Length": 1,
+            "Type": "Hex",
+            "Values": "EB",
+            "OriginalValues": "74",
+            "ModdedValues": "EB"
+        },
+        {
+            "Name": "Increase Max Item Level (Drop)",
+            "Description": "Changes the maximum item level that is allowed to drop. This address controls the check value",
+            "Category": "Enhancement",
+            "Address": "205E30",
+            "Length": 1,
+            "Type": "Integer",
+            "Values": "115",
+            "OriginalValues": "99",
+            "ModdedValues": "125"
+        },
+        {
+            "Name": "Increase Max Item Level (Drop)",
+            "Description": "Changes the maximum item level that is allowed to drop. This address controls the forced value",
+            "Category": "Enhancement",
+            "Address": "205E94",
+            "Length": 1,
+            "Type": "Integer",
+            "Values": "115",
+            "OriginalValues": "99",
+            "ModdedValues": "125"
+        },
+        {
+            "Name": "Expose Item Level to Clients",
+            "Description": "Allows for non-hosts in TCP/IP games to see the ilvls of items via the loot filter",
+            "Category": "Optional Fix",
+            "Address": "205E25",
+            "Length": 1,
+            "Type": "Hex",
+            "Values": "EB",
+            "OriginalValues": "75",
+            "ModdedValues": "EB"
+        },
+        {
+            "Name": "Hit Chance % (Lower Bound)",
+            "Description": "Changes the lower bound for hit% rates (monster and player)",
+            "Category": "Alteration",
+            "Addresses": [
+                "329CE1",
+                "BCD385",
+                "BFE863"
+            ],
+            "Length": 1,
+            "Type": "Integer",
+            "Values": "5",
+            "OriginalValues": "5",
+            "ModdedValues": "0"
+        },
+        {
+            "Name": "Hit Chance % (Upper Bound)",
+            "Description": "Changes the lower bound for hit% rates (monster and player)",
+            "Category": "Alteration",
+            "Addresses": [
+                "329CCE",
+                "BCD390",
+                "BFE893"
+            ],
+            "Length": 1,
+            "Type": "Integer",
+            "Values": "95",
+            "OriginalValues": "95",
+            "ModdedValues": "100"
+        },
+        {
+            "Name": "Hit Chance % (Display Fix)",
+            "Description": "This will allow 0% value to be shown on character stats screen if lower bound edits are used",
+            "Category": "Optional Fix",
+            "Address": "BCD36A",
+            "Length": 1,
+            "Type": "Hex",
+            "Values": "75",
+            "OriginalValues": "75",
+            "ModdedValues": "EB"
+        },
+        {
+            "Name": "Disable Run Penalty for Defense",
+            "Description": "This will disable run penalties. The animation mode used for the check is invalid",
+            "Category": "Alteration",
+            "Addresses": [
+                "329F70",
+                "BCA5A0"
+            ],
+            "Length": 1,
+            "Type": "Integer",
+            "Values": "3",
+            "OriginalValues": "3",
+            "ModdedValues": "255"
+        },
+        {
+            "Name": "Sundered MonUMods Patch",
+            "Description": "This will change the monumod application condition from >=100 to >=99. Recommended if using our customized Sunder mechanic",
+            "Category": "Optional Fix",
+            "Addresses": [
+                "2FC7DA",
+                "2FC89C",
+                "2FC95E"
+            ],
+            "Length": 1,
+            "Type": "Integer",
+            "Values": "99",
+            "OriginalValues": "100",
+            "ModdedValues": "99"
+        }
+    ]
+}
