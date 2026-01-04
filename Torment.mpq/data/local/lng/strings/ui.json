@@ -31023,22 +31023,5 @@
     "ptBR": "desconhecida",
     "ruRU": "неизвестно",
     "zhCN": "未知"
-  },
-  {
-    "id": 27230,
-    "Key": "strUITraps",
-    "enUS": "Traps",
-    "zhTW": "陷阱",
-    "deDE": "Fallen",
-    "esES": "Trampas",
-    "frFR": "Pièges",
-    "itIT": "Trappole",
-    "koKR": "함정",
-    "plPL": "Pułapki",
-    "esMX": "Trampas",
-    "jaJP": "トラップ",
-    "ptBR": "Armadilhas",
-    "ruRU": "Ловушки",
-    "zhCN": "陷阱"
   }
 ]

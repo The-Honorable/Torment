@@ -14826,36 +14826,36 @@
   {
     "id": 4878,
     "Key": "skillsd126",
-    "enUS": "powerful blow that increases damage",
-    "zhTW": "提高傷害的強力打擊",
-    "deDE": "Ein mächtiger Schlag, der den Schaden erhöht.",
-    "esES": "Golpe potente que aumenta el daño.",
-    "frFR": "coup puissant qui augmente les dégâts",
-    "itIT": "Un potente colpo che aumenta i danni",
-    "koKR": "공격력을 증가시키는 강력한 타격",
-    "plPL": "Potężny cios, który zadaje zwiększone obrażenia",
-    "esMX": "Un poderoso golpe que aumenta el daño",
-    "jaJP": "強烈な一撃で大ダメージを与える",
-    "ptBR": "golpe poderoso que aumenta o dano",
-    "ruRU": "Мощный удар, увеличивающий урон.",
-    "zhCN": "强力挥击造成更高的伤害 "
+    "enUS": "attack that releases a powerful boulder\n bulldozing through all enemies in its path",
+    "zhTW": "釋放一顆強力巨石的攻擊，\n一路碾壓前方的所有敵人",
+    "deDE": "Ein Angriff, der einen mächtigen Fels freisetzt,\nder alle Gegner auf seinem Weg niederwalzt.",
+    "esES": "Ataque que libera una poderosa roca\narrollando a todos los enemigos en su camino.",
+    "frFR": "attaque qui libère un rocher puissant\nbalayant tous les ennemis sur son passage",
+    "itIT": "Un attacco che sprigiona un masso potente,\ntravolgendo tutti i nemici sul suo cammino.",
+    "koKR": "강력한 바위를 방출하여\n경로상의 모든 적을 밀어버리는 공격",
+    "plPL": "Atak uwalniający potężny głaz,\nktóry miażdży wszystkich wrogów na swojej drodze",
+    "esMX": "Ataque que libera una poderosa roca\narrollando a todos los enemigos en su camino.",
+    "jaJP": "強力な岩を放ち、\n進路上のすべての敵を押し潰す攻撃",
+    "ptBR": "ataque que libera uma rocha poderosa,\nesmagando todos os inimigos em seu caminho",
+    "ruRU": "Атака, высвобождающая мощный валун,\nсметающий всех врагов на своём пути.",
+    "zhCN": "释放一颗强力巨石的攻击，\n一路碾压前方的所有敌人"
   },
   {
     "id": 4879,
     "Key": "skillld126",
-    "enUS": "powerful blow that increases the damage done\nto enemies and knocks them back",
-    "zhTW": "造成大量傷害並將敵人擊退的強力打擊",
-    "deDE": "Ein mächtiger Schlag, der den verursachten\nSchaden erhöht und Gegner zurückstößt.",
-    "esES": "Golpe potente que aumenta el daño\ninfligido a los enemigos y los repele.",
-    "frFR": "coup puissant qui augmente les dégâts causés\nà vos ennemis et les renverse",
-    "itIT": "Un potente colpo che aumenta i danni inflitti\nai nemici e li respinge indietro",
-    "koKR": "강력한 타격으로 적에게 주는 피해량이 증가하고\n적을 뒤로 밀쳐냅니다.",
-    "plPL": "Potężny cios, który zadaje\ndodatkowe obrażenia i odrzuca wroga",
-    "esMX": "Un poderoso golpe que aumenta el daño infligido\na los enemigos y los hace retroceder",
-    "jaJP": "強烈な一撃で敵に大ダメージを\n与えて吹き飛ばす",
-    "ptBR": "golpe poderoso que aumenta o dano causado\ne repele os inimigos",
-    "ruRU": "Наносит повышенный урон\nи отбрасывает врагов.",
-    "zhCN": "强力的一击, 对怪物造成更高的伤害\n并将其击退"
+    "enUS": "attack that releases a powerful boulder\n bulldozing through all enemies in its path",
+    "zhTW": "釋放一顆強力巨石的攻擊，\n一路碾壓前方的所有敵人",
+    "deDE": "Ein Angriff, der einen mächtigen Fels freisetzt,\nder alle Gegner auf seinem Weg niederwalzt.",
+    "esES": "Ataque que libera una poderosa roca\narrollando a todos los enemigos en su camino.",
+    "frFR": "attaque qui libère un rocher puissant\nbalayant tous les ennemis sur son passage",
+    "itIT": "Un attacco che sprigiona un masso potente,\ntravolgendo tutti i nemici sul suo cammino.",
+    "koKR": "강력한 바위를 방출하여\n경로상의 모든 적을 밀어버리는 공격",
+    "plPL": "Atak uwalniający potężny głaz,\nktóry miażdży wszystkich wrogów na swojej drodze",
+    "esMX": "Ataque que libera una poderosa roca\narrollando a todos los enemigos en su camino.",
+    "jaJP": "強力な岩を放ち、\n進路上のすべての敵を押し潰す攻撃",
+    "ptBR": "ataque que libera uma rocha poderosa,\nesmagando todos os inimigos em seu caminho",
+    "ruRU": "Атака, высвобождающая мощный валун,\nсметающий всех врагов на своём пути.",
+    "zhCN": "释放一颗强力巨石的攻击，\n一路碾压前方的所有敌人"
   },
   {
     "id": 4880,
@@ -35717,7 +35717,7 @@
     "zhCN": "暴击时补充数量"
   },
   {
-    "id": 27212,
+    "id": 45000,
     "Key": "GolemMax",
     "enUS": "Golems: %d",
     "zhTW": "魔像：%d",
@@ -35734,7 +35734,7 @@
     "zhCN": "魔像：%d"
   },
   {
-    "id": 27213,
+    "id": 45001,
     "Key": "GrizzlyMax",
     "enUS": "Max Grizzly Bears: %d",
     "zhTW": "灰熊上限：%d",
@@ -35751,7 +35751,7 @@
     "zhCN": "灰熊最大数量: %d只"
   },
   {
-    "id": 27214,
+    "id": 45002,
     "Key": "ProjectileCount",
     "enUS": "%d projectiles",
     "zhTW": "投射物：%d",
@@ -35768,7 +35768,7 @@
     "zhCN": "投射物：%d"
   },
   {
-    "id": 27215,
+    "id": 45003,
     "Key": "SkillNameBlink",
     "enUS": "Blink",
     "zhTW": "投射物：%d",
@@ -35785,7 +35785,7 @@
     "zhCN": "投射物：%d"
   },
   {
-    "id": 27216,
+    "id": 45004,
     "Key": "SpikeSynergy",
     "enUS": "%s: +%d spikes per %d levels",
     "zhTW": "%s：每 %d 級 +%d 根尖刺",
@@ -35802,7 +35802,7 @@
     "zhCN": "%s：每 %d 级 +%d 根尖刺"
   },
   {
-    "id": 27217,
+    "id": 45005,
     "Key": "ShotsSynergy",
     "enUS": "%s: +%d shots per %d levels",
     "zhTW": "%s：每 %d 級 投射物數量 +%d",
@@ -35819,7 +35819,7 @@
     "zhCN": "%s：每 %d 级 投射物数量 +%d"
   },
   {
-    "id": 27217,
+    "id": 45006,
     "Key": "TrapSkillsSynergy",
     "enUS": "All Trap Skills",
     "zhTW": "%s：每 %d 級 +%d 根尖刺",
@@ -35834,5 +35834,39 @@
     "ptBR": "%s: +%d espinhos a cada %d níveis",
     "ruRU": "%s: +%d шипов за каждые %d уровня",
     "zhCN": "%s：每 %d 级 +%d 根尖刺"
+  },
+  {
+    "id": 45019,
+    "Key": "SKillMageDmgPFC",
+    "enUS": "Physical/Cold/Fire Damage: %d-%d",
+    "zhTW": "物理/冰冷/火焰傷害：%d-%d",
+    "deDE": "Physischer/Kälte-/Feuerschaden: %d–%d",
+    "esES": "Daño físico/frío/fuego: %d-%d",
+    "frFR": "Dégâts physiques/froid/feu : %d-%d",
+    "itIT": "Danno fisico/freddo/fuoco: %d-%d",
+    "koKR": "물리/냉기/화염 피해: %d-%d",
+    "plPL": "Obrażenia fizyczne/zimna/ognia: %d-%d",
+    "esMX": "Daño físico/frío/fuego: %d-%d",
+    "jaJP": "物理/冷気/火炎ダメージ: %d-%d",
+    "ptBR": "Dano físico/frio/fogo: %d-%d",
+    "ruRU": "Физический/холодный/огненный урон: %d–%d",
+    "zhCN": "物理/冰霜/火焰伤害：%d-%d"
+  },
+  {
+    "id": 45020,
+    "Key": "strUITraps",
+    "enUS": "Traps",
+    "zhTW": "陷阱",
+    "deDE": "Fallen",
+    "esES": "Trampas",
+    "frFR": "Pièges",
+    "itIT": "Trappole",
+    "koKR": "함정",
+    "plPL": "Pułapki",
+    "esMX": "Trampas",
+    "jaJP": "トラップ",
+    "ptBR": "Armadilhas",
+    "ruRU": "Ловушки",
+    "zhCN": "陷阱"
   }
 ]

@@ -5865,7 +5865,7 @@
     "zhCN": "%+d%% 攻击速度"
   },
   {
-    "id": 27375,
+    "id": 30000,
     "Key": "extra_bonespears",
     "enUS": "%+d Bone Spear Projectiles",
     "zhTW": "骨矛投射物 %+d",
@@ -5882,7 +5882,7 @@
     "zhCN": "骨矛投射物 %+d"
   },
   {
-    "id": 27376,
+    "id": 30001,
     "Key": "extra_firebolts",
     "enUS": "%+d Fire Bolt Projectiles",
     "zhTW": "火焰彈投射物 %+d",
@@ -5899,7 +5899,7 @@
     "zhCN": "火焰弹投射物 %+d"
   },
   {
-    "id": 27377,
+    "id": 30002,
     "Key": "extra_icebolts",
     "enUS": "%+d Ice Bolt Projectiles",
     "zhTW": "冰霜彈投射物 %+d",
@@ -5916,7 +5916,7 @@
     "zhCN": "冰霜弹投射物 %+d"
   },
   {
-    "id": 27378,
+    "id": 30003,
     "Key": "extra_fireballs",
     "enUS": "%+d Fire Ball Projectiles",
     "zhTW": "火球投射物 %+d",
@@ -5933,7 +5933,7 @@
     "zhCN": "火球投射物 %+d"
   },
   {
-    "id": 27379,
+    "id": 30004,
     "Key": "extra_magic_arrows",
     "enUS": "%+d Magic Arrow Projectiles",
     "zhTW": "魔法箭投射物 %+d",
@@ -5950,7 +5950,7 @@
     "zhCN": "魔法箭投射物 %+d"
   },
   {
-    "id": 27380,
+    "id": 30005,
     "Key": "extra_clay_golems",
     "enUS": "%+d to Max Clay Golems",
     "zhTW": "黏土魔像最大數量 %+d",
@@ -5967,7 +5967,7 @@
     "zhCN": "黏土魔像最大数量 %+d"
   },
   {
-    "id": 27381,
+    "id": 30006,
     "Key": "extra_skele_warriors",
     "enUS": "%+d to Max Skeleton Warriors",
     "zhTW": "骷髏戰士最大數量 %+d",
@@ -5984,7 +5984,7 @@
     "zhCN": "骷髅战士最大数量 %+d"
   },
   {
-    "id": 27382,
+    "id": 30007,
     "Key": "extra_skele_mages",
     "enUS": "%+d to Max Skeleton Mages",
     "zhTW": "骷髏法師最大數量 %+d",
@@ -6001,7 +6001,7 @@
     "zhCN": "骷髅法师最大数量 %+d"
   },
   {
-    "id": 27383,
+    "id": 30008,
     "Key": "extra_holy_bolts",
     "enUS": "%+d Holy Bolt Projectiles",
     "zhTW": "神聖彈投射物 %+d",
@@ -6018,7 +6018,7 @@
     "zhCN": "神圣弹投射物 %+d"
   },
   {
-    "id": 27384,
+    "id": 30009,
     "Key": "extra_fire_golems",
     "enUS": "%+d to Max Fire Golems",
     "zhTW": "火焰魔像最大數量 %+d",
@@ -6035,7 +6035,7 @@
     "zhCN": "火焰魔像最大数量 %+d"
   },
   {
-    "id": 27385,
+    "id": 30010,
     "Key": "extra_immolation_arrow",
     "enUS": "%+d Immolation Arrow Projectiles",
     "zhTW": "獻祭之箭投射物 %+d",
@@ -6052,7 +6052,7 @@
     "zhCN": "献祭之箭投射物 %+d"
   },
   {
-    "id": 27386,
+    "id": 30011,
     "Key": "extra_ravens",
     "enUS": "%+d to Max Ravens",
     "zhTW": "烏鴉最大數量 %+d",
@@ -6069,7 +6069,7 @@
     "zhCN": "乌鸦最大数量 %+d"
   },
   {
-    "id": 27387,
+    "id": 30012,
     "Key": "extra_shadow_masters",
     "enUS": "%+d to Max Shadow Masters",
     "zhTW": "暗影宗師最大數量 %+d",
@@ -6086,7 +6086,7 @@
     "zhCN": "暗影宗师最大数量 %+d"
   },
   {
-    "id": 27388,
+    "id": 30013,
     "Key": "extra_iceblasts",
     "enUS": "%+d Ice Blast Projectiles",
     "zhTW": "冰霜衝擊投射物 %+d",
@@ -6120,7 +6120,7 @@
     "zhCN": "冰川尖刺投射物 %+d"
   },
   {
-    "id": 27391,
+    "id": 30014,
     "Key": "extra_dire_wolves",
     "enUS": "%+d to Max Dire Wolves",
     "zhTW": "恐狼最大數量 %+d",
@@ -6137,7 +6137,7 @@
     "zhCN": "恐狼最大数量 %+d"
   },
   {
-    "id": 27392,
+    "id": 30015,
     "Key": "extra_spirit_wolves",
     "enUS": "%+d to Max Spirit Wolves",
     "zhTW": "靈狼最大數量 %+d",
@@ -6154,7 +6154,7 @@
     "zhCN": "灵狼最大数量 %+d"
   },
   {
-    "id": 27393,
+    "id": 30016,
     "Key": "extra_grizzlys",
     "enUS": "%+d to Max Grizzly Bears",
     "zhTW": "灰熊最大數量 %+d",
@@ -6171,7 +6171,7 @@
     "zhCN": "灰熊最大数量 %+d"
   },
   {
-    "id": 27394,
+    "id": 30017,
     "Key": "extra_exploding_arrows",
     "enUS": "%+d Exploding Arrow Projectiles",
     "zhTW": "爆裂之箭投射物 %+d",
@@ -6188,7 +6188,7 @@
     "zhCN": "爆裂之箭投射物 %+d"
   },
   {
-    "id": 27395,
+    "id": 30018,
     "Key": "extra_ice_arrows",
     "enUS": "%+d Ice Arrow Projectiles",
     "zhTW": "冰霜之箭投射物 %+d",
@@ -6205,7 +6205,7 @@
     "zhCN": "冰霜之箭投射物 %+d"
   },
   {
-    "id": 27396,
+    "id": 30019,
     "Key": "extra_freezing_arrows",
     "enUS": "%+d Freezing Arrow Projectiles",
     "zhTW": "冰封之箭投射物 %+d",
@@ -6222,7 +6222,7 @@
     "zhCN": "冰封之箭投射物 %+d"
   },
   {
-    "id": 27397,
+    "id": 30020,
     "Key": "item_elemskill_fire",
     "enUS": "%+d to Fire Skills",
     "zhTW": "火焰技能 %+d",
@@ -6239,7 +6239,7 @@
     "zhCN": "火焰技能 %+d"
   },
   {
-    "id": 27398,
+    "id": 30021,
     "Key": "item_elemskill_light",
     "enUS": "%+d to Lightning Skills",
     "zhTW": "閃電技能 %+d",
@@ -6256,7 +6256,7 @@
     "zhCN": "闪电技能 %+d"
   },
   {
-    "id": 27399,
+    "id": 30022,
     "Key": "item_elemskill_cold",
     "enUS": "%+d to Cold Skills",
     "zhTW": "冰冷技能 %+d",
@@ -6273,7 +6273,7 @@
     "zhCN": "冰冷技能 %+d"
   },
   {
-    "id": 27400,
+    "id": 30023,
     "Key": "item_elemskill_poison",
     "enUS": "%+d to Poison Skills",
     "zhTW": "毒素技能 %+d",
@@ -6290,7 +6290,7 @@
     "zhCN": "毒素技能 %+d"
   },
   {
-    "id": 27401,
+    "id": 30024,
     "Key": "item_elemskill_magic",
     "enUS": "%+d to Magic Skills",
     "zhTW": "魔法技能 %+d",
@@ -6307,7 +6307,7 @@
     "zhCN": "魔法技能 %+d"
   },
   {
-    "id": 27402,
+    "id": 30025,
     "Key": "extra_molten_boulders",
     "enUS": "%+d Molten Boulders Projectiles",
     "zhTW": "熔岩巨石投射物 %+d",
@@ -6324,7 +6324,7 @@
     "zhCN": "熔岩巨石投射物 %+d"
   },
   {
-    "id": 27403,
+    "id": 30026,
     "Key": "extra_blood_golems",
     "enUS": "%+d to Max Blood Golems",
     "zhTW": "血之魔像最大數量 %+d",
@@ -6341,7 +6341,7 @@
     "zhCN": "血之魔像最大数量 %+d"
   },
   {
-    "id": 27404,
+    "id": 30027,
     "Key": "extra_traps",
     "enUS": "%+d to Max Traps",
     "zhTW": "陷阱最大數量 %+d",
@@ -6358,7 +6358,7 @@
     "zhCN": "陷阱最大数量 %+d"
   },
   {
-    "id": 27405,
+    "id": 30028,
     "Key": "extra_hydras",
     "enUS": "%+d to Max Hydras",
     "zhTW": "九頭蛇最大數量 %+d",
@@ -6375,7 +6375,7 @@
     "zhCN": "九头蛇最大数量 %+d"
   },
   {
-    "id": 27406,
+    "id": 30029,
     "Key": "ModitemdamAllElesk",
     "enUS": "%+d%% to All Elemental Skill Damage", 
     "zhTW": "所有元素技能傷害 %+d%%",
@@ -6392,7 +6392,7 @@
     "zhCN": "所有元素技能伤害 %+d%%"
   },
   {
-    "id": 27407,
+    "id": 30030,
     "Key": "ModitemenresAllElesk",
     "enUS": "-%d%% to All Enemy Elemental Resistances", 
     "zhTW": "所有敵人元素抗性 -%d%%",

@@ -707,7 +707,7 @@
     "carnage_nado": "carnage",
     "carnage_hit": "carnage_explode",
     "carnage_blood": "carnage_explode_2",
-    "berserk_aoe_explode": "warcry_shockwave",
+    "berserk_aoe_explode": "berserk_aoe_explode",
     "fireclaws_aoe_explode": "ground_fire_small",
     "reap_explode": "bone_spirit",
     "reap_nado": "",
@@ -723,5 +723,6 @@
     "snowlash_spread": "icebolt",
     "snowlash_spread_again": "icebolt",
     "ds_swirl_bolt":"ds_skull",
-    "garg_fb": "shaman_fireball"
+    "garg_fb": "shaman_fireball",
+    "bash_proj": "basha"
 }
