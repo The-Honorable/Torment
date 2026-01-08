@@ -8,7 +8,7 @@ Griswold	Griswold	griswold	5		7	28	30	0	0	1	0	1	17	17	17	Griswold	Griswold Desec
 The Countess	The Countess	corruptrogue3	6	countess	5	6	7	10	10	1	0		16	16	16	Countess	Countess Desecrated A	Countess (N)	Countess (N) Desecrated A	Countess (H)	Countess (H) Desecrated A	0
 Pitspawn Fouldog	Pitspawn Fouldog	bighead2	7		7	18	6	8	8	1	0		31	31	31	Act 1 Super B		Act 1 (N) Super B		Act 1 (H) Super B	Act 1 (H) Super B Desecrated	0
 Flamespike the Crawler	Flamespike the Crawler	quillrat4	8		9	7	29	20	20	1	0		16	16	16	Act 1 Unique C		Act 1 (N) Unique C		Act 1 (H) Unique C	Act 1 (H) Unique C Desecrated	0
-Boneash	Boneash	skmage_pois3	9		8	29	18	10	10	1	0		15	15	15	Act 1 Super C		Act 1 (N) Super C		Act 1 (H) Super C	Act 1 (H) Super C Desecrated	0
+Boneash	Boneash	skmage_pois3	9		17	29	18	10	10	1	0		15	15	15	Act 1 Super C		Act 1 (N) Super C		Act 1 (H) Super C	Act 1 (H) Super C Desecrated	0
 Radament	Radament	radament	10		6	5	30	20	20	1	0		30	30	30	Radament	Radament Desecrated A	Radament (N)	Radament (N) Desecrated A	Radament (H)	Radament (H) Desecrated A	0
 Bloodwitch the Wild	Bloodwitch the Wild	pantherwoman1	11		5	7	30	10	10	1	0		29	29	29	Act 2 Super A		Act 2 (N) Super A		Act 2 (H) Super A	Act 2 (H) Super A Desecrated	0
 Fangskin	Fangskin	clawviper3	12		17	6	29	10	10	1	0		14	14	14	Act 2 Super B		Act 2 (N) Super B		Act 2 (H) Super B	Act 2 (H) Super B Desecrated	0

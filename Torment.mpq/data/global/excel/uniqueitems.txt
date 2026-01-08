@@ -47,7 +47,7 @@ Razortine	44	0	1		1	1	1	12	tri	Trident		5	5000	oran			invtriu				slow		10	10	red
 Bloodthief	45	0	1		1	1	12	17	brn	Brandistock		5	5000	whit	whit						openwounds		35	35	str		10	10	lifesteal		10	10	hp		30	30	dmg%		100	100	regen		-10	-10																										0
 Lance of Yaggai	46	0	1		1	1	17	22	spt	Spetum		5	5000	lred	lred						aura	Thorns	5	5	dmg-ltng		1	100	res-all		15	15	swing2		40	40	dmg%		50	50																														0
 The Tannr Gorerod	47	0	1		1	1	25	27	pik	Pike		5	5000	lgry	lgry						dmg-fire		25	60	res-fire-max		10	10	hp		30	30	att		60	60	light		3	3	res-fire		15	15	dmg%		100	100																						0
-Dimoaks Hew	48	0	1		1	1	1	8	bar	Bardiche		5	5000	blac	blac						dex		15	15	dmg%		100	100	swing2		20	20	ac		-10	-10	light		3	3																														0
+Dimoaks Hew	48	0	1		1	1	1	8	bar	Bardiche		5	5000	blac	blac						dex		15	15	dmg%		100	100	swing2		20	20	ac		-10	-10	light		-1	-1																														0
 Steelgoad	49	0	1		1	1	12	14	vou	Voulge		5	5000	cgrn	cgrn						openwounds		20	20	deadly		30	30	att		30	30	res-all		10	10	dmg%		80	100																														0
 Soul Harvest	50	0	1		1	1	17	19	scy	Scythe		5	5000	dgry			invscyu				openwounds		30	30	att		45	45	res-all		20	20	dmg%		120	120	manasteal		10	10	enr		5	5	nec		3	3																						0
 The Battlebranch	51	0	1		1	1	25	25	pax	Poleaxe		5	5000	lblu	lblu						swing3		30	30	dex		10	10	dmg%		80	100	att		50	100	lifesteal		7	7																														0

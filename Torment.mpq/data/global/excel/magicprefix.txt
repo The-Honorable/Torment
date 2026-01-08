@@ -16,8 +16,8 @@ Deadly	0	1	1	5		3				0	106	dmg%	0	21	30										weap												0	0
 Vicious	0	1	1	8		6				0	106	dmg%	0	31	40										weap												0	0
 Brutal	0	1	1	14		10				0	106	dmg%	0	41	50										weap												0	0
 Massive	0	1	1	20		15				0	106	dmg%	0	51	65									dgld	weap												0	0
-Savage	0	1	1	26		19				0	106	dmg%	0	66	80									dgld	weap							staf	wand				0	0
-Merciless	0	1	1	32		24				0	106	dmg%	0	81	100									dgld	weap							staf	wand				0	0
+Savage	0	1	1	26		19				0	106	dmg%	0	66	80									dgld	weap							wand					0	0
+Merciless	0	1	1	32		24				0	106	dmg%	0	81	100									dgld	weap							wand					0	0
 Vulpine	0	1	1	9		6				0	107	dmg-to-mana	0	10	10									cblu	shld	amul											0	0
 																																					0	0
 																																					0	0
@@ -32,16 +32,16 @@ Silver	0	1	1	12		9				0	111	att	0	61	80										weap	ring											0	0
 																																					0	0
 Gold	0	1	1	17		12				0	111	att	0	81	100									lgld	weap												0	0
 Platinum	0	1	1	22		16				0	111	att	0	101	120									lgld	weap	ring											0	0
-Meteoric	0	1	1	27		20				0	111	att	0	121	150									lgld	weap	ring						staf	wand				0	0
+Meteoric	0	1	1	27		20				0	111	att	0	121	150									lgld	weap	ring						wand					0	0
 Sharp	0	1	1	5		3				0	112	att	0	10	20	dmg%	0	10	20						weap												0	0
 Fine	0	1	1	9		6				0	112	att	0	21	40	dmg%	0	21	30						weap												0	0
 Warrior's	0	1	1	15		11				0	112	att	0	41	60	dmg%	0	31	40						weap												0	0
 Soldier's	0	1	1	21		15				0	112	att	0	61	80	dmg%	0	41	50						weap												0	0
 Knight's	0	1	1	25		18				0	112	att	0	81	100	dmg%	0	51	65					dgld	weap												0	0
-Lord's	0	1	1	30		22				0	112	att	0	101	120	dmg%	0	66	80					dgld	weap							staf	wand				0	0
-King's	0	1	1	35		26				0	112	att	0	121	150	dmg%	0	81	100					dgld	weap							staf	wand				0	0
+Lord's	0	1	1	30		22				0	112	att	0	101	120	dmg%	0	66	80					dgld	weap							wand					0	0
+King's	0	1	1	35		26				0	112	att	0	121	150	dmg%	0	81	100					dgld	weap							wand					0	0
 Howling	0	0	1	16		12				0	113	howl	0	128	128									oran	weap							miss					0	0
-Fortuitous	0	1	1	5		3				0	114	mag%	0	10	15										ring	amul											0	0
+Fortuitous	0	1	1	5		3				0	114	mag%	0	10	20										ring	amul											0	0
 																																					0	0
 																																					0	0
 																																					0	0
@@ -51,15 +51,15 @@ Glimmering	0	1	1	1		1				0	116	light	0	1	1										armo	wand	staf	ring	amul				
 Glowing	0	1	1	6		4				0	116	light	0	2	2									lyel	armo	wand	staf	ring	amul								0	0
 																																					0	0
 																																					0	0
-Lizard's	0	1	1	3		2				0	118	mana	0	1	5										armo	ring	amul	rod				boot	glov				0	0
+Lizard's	0	1	1	3		2				0	118	mana	0	5	10										armo	ring	amul	rod				boot	glov				0	0
 																																					0	0
-Snake's	0	1	1	6		4				0	118	mana	0	5	10										shld	rod	belt	ring	amul								0	0
-Serpent's	0	1	1	14		10				0	118	mana	0	11	20										shld	rod	belt	ring	amul								0	0
-Serpent's	0	1	1	37		27				0	118	mana	0	11	20										tors	helm	boot	glov	mele			h2h	rod				0	0
-Drake's	0	1	1	20		15				0	118	mana	0	21	30									cblu	rod	ring	amul	belt									0	0
-Dragon's	0	1	1	24		18				0	118	mana	0	31	40									cblu	rod	ring	amul										0	0
-Dragon's	0	1	1	52		39				0	118	mana	0	31	40									cblu	tors	helm	boot	glov									0	0
-Wyrm's	0	1	1	30		22				0	118	mana	0	41	60									cblu	rod	ring	amul										0	0
+Snake's	0	1	1	6		4				0	118	mana	0	11	15										shld	rod	belt	ring	amul								0	0
+Serpent's	0	1	1	14		10				0	118	mana	0	15	21										shld	rod	belt	ring	amul								0	0
+Serpent's	0	1	1	37		27				0	118	mana	0	20	30										tors	helm	boot	glov	mele			h2h	rod				0	0
+Drake's	0	1	1	20		15				0	118	mana	0	31	35									cblu	rod	ring	amul	belt									0	0
+Dragon's	0	1	1	24		18				0	118	mana	0	36	41									cblu	rod	ring	amul										0	0
+Dragon's	0	1	1	52		39				0	118	mana	0	42	49									cblu	tors	helm	boot	glov									0	0
+Wyrm's	0	1	1	30		22				0	118	mana	0	50	60									cblu	rod	ring	amul										0	0
 																																					0	0
 																																					0	0
 Prismatic	0	1	1	27		20				0	120	res-all	0	15	25									lpur	amul												0	0
@@ -116,7 +116,7 @@ Berserker's	0	1	1	40		30				0	129	bar	0	2	2									cgrn	mele							rod	h2h				0
 Berserker's	0	1	1	90		67				0	129	bar	0	2	2									cgrn	amul												0	0
 																																					0	0
 																																					0	0
-Triumphant	0	1	1	3		2				0	132	mana-kill	0	1	1										mele	ring											0	0
+Triumphant	0	1	1	3		2				0	132	mana-kill	0	1	2										mele	ring											0	0
 Expansion																																						
 Stout	100	1	1	1		1				4	101	ac		3	5										lcha												0	0
 Stout	100	1	1	7		5				4	101	ac		6	9										lcha												0	0
@@ -269,43 +269,43 @@ Glimmering	1	1	1	1		1				1	112	light		1	1										armo	wand	staf	ring	amul	orb	
 Glowing	1	1	1	6		4				1	112	light		2	2									lyel	armo	wand	staf	ring	amul	orb							0	0
 Bright	100	1	1	1		1				1	112	light		1	1	att		10	10						jewl												0	0
 Screaming	100	1	1	10		7				3	113	howl		32	32									oran	weap							miss	swor	axe	pole	spea	0	0
-Howling	1	1	1	16		12				3	113	howl		64	64									oran	weap							miss	swor	axe	pole	spea	0	0
-Wailing	100	1	1	20		13				3	113	howl		128	128									oran	weap							miss	swor	axe	pole	spea	0	0
-Screaming	100	1	1	10		7				4	113	howl		16	16									oran	miss												0	0
-Howling	100	1	1	16		12				4	113	howl		24	24									oran	miss												0	0
-Wailing	100	1		24		18				4	113	howl		32	32									oran	miss												0	0
-Lucky	100	1	1	21						4	114	mag%		1	4										lcha												0	0
-Lucky	100	1		38						4	114	mag%		5	7										lcha												0	0
-Lucky	100	1		55						4	114	mag%		8	12										lcha												0	0
-Lucky	100	1	1	34						4	114	mag%		1	1										mcha												0	0
-Lucky	100	1		53						4	114	mag%		2	3										mcha												0	0
-Lucky	100	1		51						4	114	mag%		4	6										mcha												0	0
-Felicitous	100	1	1	5		3				4	114	mag%		5	10										ring	amul	circ										0	0
-Fortuitous	1	1		12		8				4	114	mag%		11	15										ring	amul	circ										0	0
-Emerald	100	1	1	16		12				4	114	mag%		3	7										jewl												0	0
-Lizard's	100	1	1	1		1				4	115	mana		3	7										lcha												0	0
-Lizard's	100	1	1	7		5				4	115	mana		8	13										lcha												0	0
-Lizard's	100	1	1	13		9				4	115	mana		14	20										lcha												0	0
+Howling	1		1	16		12				3	113	howl		64	64									oran	weap							miss	swor	axe	pole	spea	0	0
+Wailing	100		1	20		13				3	113	howl		128	128									oran	weap							miss	swor	axe	pole	spea	0	0
+Screaming	100	1	1	10	60	7				4	113	howl		16	16									oran	miss												0	0
+Howling	100		1	16		12				4	113	howl		24	24									oran	miss												0	0
+Wailing	100	1		24	80	18				4	113	howl		32	32									oran	miss												0	0
+Lucky	100	1	1	9		10				4	114	mag%		8	15										lcha												0	0
+Lucky	100	1		24		28				4	114	mag%		16	24										lcha												0	0
+Lucky	100	1		50		60				4	114	mag%		25	35										lcha												0	0
+Lucky	100	1	1	9		10				4	114	mag%		5	10										mcha												0	0
+Lucky	100	1		24		28				4	114	mag%		15	20										mcha												0	0
+Lucky	100	1		50		60				4	114	mag%		20	30										mcha												0	0
+Felicitous	100	1	1	3		3				4	114	mag%		5	10										ring	amul	circ	jewl									0	0
+Fortuitous	1	1		12		12				4	114	mag%		11	15										ring	amul	circ	jewl									0	0
+Emerald	100	1	1	50		50				4	114	mag%		20	30										ring	amul	circ	jewl									0	0
+Lizard's	100	1	1	1		1				4	115	mana		5	10										lcha												0	0
+Lizard's	100	1	1	7		5				4	115	mana		10	15										lcha												0	0
+Lizard's	100	1	1	13		9				4	115	mana		16	20										lcha												0	0
 Snake's	100	1	1	19		14				4	115	mana		21	26										lcha												0	0
 Snake's	100	1	1	25		18				4	115	mana		27	33										lcha												0	0
 Snake's	100	1	1	31		23				4	115	mana		34	39										lcha												0	0
 Serpent's	100	1	1	37		29				4	115	mana		40	46										lcha												0	0
 Serpent's	100	1	1	43		35				4	115	mana		47	52										lcha												0	0
 Serpent's	100	1	1	49		41				4	115	mana		53	59										lcha												0	0
-Lizard's	100	1	1	1		1				4	115	mana		2	4										mcha												0	0
-Lizard's	100	1	1	9		6				4	115	mana		5	7										mcha												0	0
-Lizard's	100	1	1	17		12				4	115	mana		8	12										mcha												0	0
+Lizard's	100	1	1	1		1				4	115	mana		2	5										mcha												0	0
+Lizard's	100	1	1	9		6				4	115	mana		6	8										mcha												0	0
+Lizard's	100	1	1	17		12				4	115	mana		9	12										mcha												0	0
 Snake's	100	1	1	25		18				4	115	mana		13	18										mcha												0	0
 Snake's	100	1	1	33		25				4	115	mana		19	23										mcha												0	0
 Serpent's	100	1	1	41		33				4	115	mana		24	29										mcha												0	0
 Serpent's	100	1	1	49		41				4	115	mana		30	34										mcha												0	0
-Lizard's	100	1	1	16		12				4	115	mana		1	2										scha												0	0
-Lizard's	100	1	1	16		12				4	115	mana		3	7										scha												0	0
+Lizard's	100	1	1	16		12				4	115	mana		3	4										scha												0	0
+Lizard's	100	1	1	16		12				4	115	mana		5	7										scha												0	0
 Snake's	100	1	1	32		24				4	115	mana		8	12										scha												0	0
 Serpent's	100	1		48		40				4	115	mana		13	17										scha												0	0
-Lizard's	1	1	1	3		2				4	115	mana		3	5										armo	ring	amul	rod	orb			boot	glov				0	0
-Snake's	1	1	1	6		4				4	115	mana		5	10										shld	rod	belt	ring	amul	circ							0	0
-Serpent's	1	1	1	14		10				3	115	mana		11	20										shld	rod	belt	ring	amul	circ							0	0
+Lizard's	1	1	1	3		2				4	115	mana		5	10										armo	ring	amul	rod	orb			boot	glov				0	0
+Snake's	1	1	1	6		4				4	115	mana		11	15										shld	rod	belt	ring	amul	circ							0	0
+Serpent's	1	1	1	14		10				3	115	mana		16	20										shld	rod	belt	ring	amul	circ							0	0
 Serpent's	1	1	1	37		27				2	115	mana		11	20										tors	boot	glov	weap	orb			rod					0	0
 Drake's	1	1	1	20		15				2	115	mana		21	30									cblu	rod	ring	amul	orb	circ								0	0
 Dragon's	1	1	1	24		18				2	115	mana		31	40									cblu	rod	ring	amul	orb	circ								0	0
@@ -316,25 +316,25 @@ Bahamut's	100	1		45		37				2	115	mana		91	120									cblu	rod	ring	amul	orb	cir
 Zircon	100	1	1	3		2				2	115	mana		5	10									cblu	jewl												0	0
 Jacinth	100	1	1	17		12				2	115	mana		11	15									cblu	jewl												0	0
 Turquoise	100	1		29		21				2	115	mana		16	20									cblu	jewl													
-Shimmering	100	1		8	13	6				1	116	res-all		3	6									lpur	lcha												1280	500
-Shimmering	100	1		14	34	10				1	116	res-all		8	12									lpur	lcha												1280	1500
+Shimmering	100	1		8	13	6				1	116	res-all		3	8									lpur	lcha												1280	500
+Shimmering	100	1		14	34	10				1	116	res-all		9	12									lpur	lcha												1280	1500
 Shimmering	100	1		35		27				1	116	res-all		13	15									lpur	lcha												1280	5000
-Shimmering	100	1		17	33	12				1	116	res-all		3	5									lpur	mcha												1280	1500
-Shimmering	100	1		34		26				1	116	res-all		6	8									lpur	mcha												1280	5000
-Shimmering	100	1		33		25				1	116	res-all		3	5									lpur	scha												1280	10000
-Shimmering	100	1	1	6		4				5	116	res-all		3	7									lpur	shld												1280	500
-Rainbow	100	1	1	18		13				5	116	res-all		8	11									lpur	shld												1280	2000
-Scintillating	100	1	1	28		21				5	116	res-all		12	15									lpur	shld												1280	4000
-Prismatic	1	1	1	39		31				4	116	res-all		16	20									lpur	shld												1280	8000
-Chromatic	100	1		50		42				4	116	res-all		21	30									lpur	shld												1280	16000
-Shimmering	100	1	1	8		6				5	116	res-all		3	7									lpur	amul	circ											1280	3000
-Rainbow	100	1	1	21		15				5	116	res-all		8	11									lpur	amul	circ											1280	6000
-Scintillating	100	1	1	34		25				5	116	res-all		12	15									lpur	amul	circ											1280	12000
+Shimmering	100	1		17	33	12				1	116	res-all		3	7									lpur	mcha												1280	1500
+Shimmering	100	1		34		26				1	116	res-all		8	10									lpur	mcha												1280	5000
+Shimmering	100	1		33		25				1	116	res-all		4	5									lpur	scha												1280	10000
+Shimmering	100	1	1	6		4				5	116	res-all		5	8									lpur	shld												1280	500
+Rainbow	100	1	1	18		13				5	116	res-all		9	12									lpur	shld												1280	2000
+Scintillating	100	1	1	28		21				5	116	res-all		13	16									lpur	shld												1280	4000
+Prismatic	1	1	1	39		31				4	116	res-all		17	24									lpur	shld												1280	8000
+Chromatic	100	1		50		42				4	116	res-all		25	30									lpur	shld												1280	16000
+Shimmering	100	1	1	8		6				5	116	res-all		4	8									lpur	amul	circ											1280	3000
+Rainbow	100	1	1	21		15				5	116	res-all		9	12									lpur	amul	circ											1280	6000
+Scintillating	100	1	1	34		25				5	116	res-all		13	15									lpur	amul	circ											1280	12000
 Prismatic	1	1	1	42		31				4	116	res-all		16	20									lpur	amul	circ											1280	24000
 Chromatic	100	1		55		41				3	116	res-all		21	30									lpur	amul	circ											1280	32000
-Shimmering	100	1	1	45		37				3	116	res-all		3	7									lpur	ring												1280	4000
-Rainbow	100	1	1	56		48				2	116	res-all		8	11									lpur	ring												1280	8000
-Scintillating	100	1		67		59				2	116	res-all		12	15									lpur	ring												1280	16000
+Shimmering	100	1	1	45		37				3	116	res-all		4	8									lpur	ring												1280	4000
+Rainbow	100	1	1	56		48				2	116	res-all		9	12									lpur	ring												1280	8000
+Scintillating	100	1		67		59				2	116	res-all		13	15									lpur	ring												1280	16000
 Shimmering	100	1	1	16		12				1	116	res-all		5	10									lpur	jewl												1280	3000
 Scintillating	100	1		34		26				1	116	res-all		11	15									lpur	jewl												1280	8000
 Azure	100	1	1	1		1				2	117	res-cold		7	15										lcha												0	0
@@ -419,9 +419,9 @@ Jade	100	1	1	19		14				4	117	res-pois		16	30									cgrn	jewl												0	0
 Triumphant	1	1	1	3		2				4	121	mana-kill		1	1										weap	ring	circ										0	0
 Victorious	100	1	1	17		12				4	121	mana-kill		2	5										weap	circ											0	0
 Aureolin	100	1	1	22		16				4	121	mana-kill		1	3										jewl												0	0
-Mechanist's	100	1	1	10		7				3	122	sock		1	2										weap	shld	helm	tors	circ			thro					0	0
-Artificer's	100	1		33		25				2	122	sock	3												weap	shld	helm	tors				thro					0	0
-Jeweler's	100	1		55		47				1	122	sock	4												weap	shld	helm	tors				thro					0	0
+Mechanist's	100	1	1	7		7				3	122	sock		1	2										weap	shld	helm	tors	circ								0	0
+Artificer's	100	1	1	25		25				2	122	sock	3												weap	shld	helm	tors									0	0
+Jeweler's	100	1	1	40		40				1	122	sock	4												weap	shld	helm	tors									0	0
 Assamic	100	1	1	3		1				2	123	att-demon		25	50	dmg-demon		10	25						weap	circ						wand	orb				0	0
 Arcadian	100	1	1	15		11				2	123	att-demon		51	100	dmg-demon		26	50						weap	circ						wand	orb				0	0
 Unearthly	100	1	1	25		18				1	123	att-demon		101	150	dmg-demon		51	100						weap							wand	orb				0	0
@@ -459,9 +459,9 @@ Graverobber's	100	1	1	50		42	nec			1	125	skilltab	8	1	1										lcha											
 Hexing	100	1	1	20		20	nec			1	125	skilltab	6	1	1										wand	head	amul	circ									0	0
 Blighting	100	1	1	40		40	nec			1	125	skilltab	6	2	2									lgld	wand	head	amul	circ									0	0
 Accursed	100	1		60		60	nec			1	125	skilltab	6	3	3									lgld	wand	head	amul	circ									0	0
-Fungal	100	1	1	20		20	nec			1	125	skilltab	7	1	1										wand	head	amul	knif	circ			tkni					0	0
-Noxious	100	1	1	40		40	nec			1	125	skilltab	7	2	2									lgld	wand	head	amul	knif	circ			tkni					0	0
-Venomous	100	1		60		60	nec			1	125	skilltab	7	3	3									lgld	wand	head	amul	knif	circ			tkni					0	0
+Fungal	100	1	1	20		20	nec			1	125	skilltab	7	1	1										wand	head	amul	knif	circ								0	0
+Noxious	100	1	1	40		40	nec			1	125	skilltab	7	2	2									lgld	wand	head	amul	knif	circ								0	0
+Venomous	100	1		60		60	nec			1	125	skilltab	7	3	3									lgld	wand	head	amul	knif	circ								0	0
 Graverobber's	100	1	1	20		20	nec			1	125	skilltab	8	1	1										wand	head	amul	circ									0	0
 Vodoun	100	1	1	40		40	nec			1	125	skilltab	8	2	2									lgld	wand	head	amul	circ									0	0
 Golemlord's	100	1		60		60	nec			1	125	skilltab	8	3	3									lgld	wand	head	amul	circ									0	0
@@ -662,7 +662,7 @@ Envenomed	100	1	1	39		31				1	140	dmg-pois	100	128	128										scha												
 Toxic	100	1	1	63		55				1	140	dmg-pois	125	205	205									dgrn	scha												0	0
 Pestilent	100	1		88		80				1	140	dmg-pois	150	299	299									dgrn	scha												0	0
 Tireless	1	1	1	1	5	1				4	108	regen-stam		10	10										boot												0	0
-Lizard's	1	1	1	1	2	1				4	115	mana		1	2										armo	ring	amul	rod	orb			boot	glov				0	0
+Lizard's	1	1	1	1	2	1				4	115	mana		3	5										armo	ring	amul	rod	orb			boot	glov				0	0
 Azure	1	1	1	1	4	1				3	117	res-cold		5	5										armo	ring	amul	orb	circ								0	0
 Crimson	1	1	1	1	4	1				3	118	res-fire		5	5										armo	ring	amul	orb	circ								0	0
 Tangerine	1	1	1	1	4	1				3	119	res-ltng		5	5										armo	ring	amul	orb	circ								0	0
