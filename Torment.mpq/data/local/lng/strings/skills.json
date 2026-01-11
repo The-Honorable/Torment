@@ -9675,7 +9675,7 @@
   {
     "id": 4574,
     "Key": "skillsd50",
-    "enUS": "freezes and damages attackers",
+    "enUS": "freezes and damages melee and ranged attackers",
     "zhTW": "凍結與傷害攻擊者",
     "deDE": "Fügt Angreifern Schaden zu und verlangsamt sie.",
     "esES": "Congela e inflige daño a los atacantes.",
@@ -9692,7 +9692,7 @@
   {
     "id": 4575,
     "Key": "skillld50",
-    "enUS": "increases your defense\nfreezes and damages enemies that hit you",
+    "enUS": "increases your defense\nfreezes and damages melee and ranged enemies that hit you",
     "zhTW": "提高你的防禦，並且凍結與傷害擊中你的敵人",
     "deDE": "Erhöht Eure Verteidigung, fügt Angreifern\nSchaden zu und verlangsamt sie.",
     "esES": "Aumenta tu defensa y, además,\ncongela e inflige daño a los enemigos que te golpean.",
@@ -10015,7 +10015,7 @@
   {
     "id": 4594,
     "Key": "skillsd55",
-    "enUS": "creates a freezing comet of ice",
+    "enUS": "creates a freezing comet of ice\nthat splits and seeks our nearby enemies",
     "zhTW": "射出可凍結目標的寒冰尖槍",
     "deDE": "Erschafft einen Eiskometen.",
     "esES": "Crea un cometa de hielo congelante.",
@@ -10032,7 +10032,7 @@
   {
     "id": 4595,
     "Key": "skillld55",
-    "enUS": "creates a magical ice comet\nthat freezes or kills nearby enemies",
+    "enUS": "creates a freezing comet of ice\nthat splits and seeks our nearby enemies",
     "zhTW": "射出魔法冰槍，凍結與傷害目標週遭的敵人",
     "deDE": "Erschafft einen magischen Eiskometen,\nder beim Aufprall Gegnern in der Nähe\nSchaden zufügt und sie einfriert.",
     "esES": "Crea un cometa de hielo mágico\nque congela o mata a los enemigos cercanos.",

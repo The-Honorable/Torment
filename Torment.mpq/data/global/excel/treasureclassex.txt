@@ -10,6 +10,7 @@ Normal Gem			1						gsv	3	gsy	3	gsb	3	gsg	3	gsr	3	gsw	3	sku	3										0
 Flawless Gem			1						gzv	3	gly	3	glb	3	glg	3	glr	3	glw	3	skl	3										0
 Perfect Gem			1						gpv	3	gpy	3	gpb	3	gpg	3	gpr	3	gpw	3	skz	3										0
 Any Gems			1					10	Perfect Gem	1	Flawless Gem	2	Normal Gem	3	Chipped Gem	4																0
+malus			1						mos	1	mou	1																				0
 Ammo			1						aqv	1	cqv	1																				0
 Misc 0			1						key	3	tsc	3	isc	3	opl	2	gpl	2														0
 Misc 1			1						key	3	tsc	3	isc	3	opm	2	gpm	2														0
@@ -215,16 +216,16 @@ Act 2 Good	5	12	1					18	Jewelry B	10	Chipped Gem	8	Flawed Gem	4	Runes 1	2	Runes
 Act 3 Good	5	18	1					18	Jewelry C	10	Chipped Gem	8	Flawed Gem	8	Runes 3	2	Runes 4	1														0
 Act 4 Good	5	26	1					21	Jewelry C	20	Chipped Gem	4	Flawed Gem	8	Normal Gem	12	Runes 5	4	Runes 6	2												0
 Act 5 Good	5	32	1					21	Jewelry C	20	Chipped Gem	4	Flawed Gem	8	Normal Gem	12	Flawless Gem	3	Runes 7	4												0
-Act 1 (N) Good	5	38	1					24	Jewelry C	30	Any Gems	18	Runes 8	6																		0
-Act 2 (N) Good	5	42	1					24	Jewelry C	30	Any Gems	18	Runes 9	6																		0
-Act 3 (N) Good	5	46	1					24	Jewelry C	30	Any Gems	18	Runes 10	6																		0
-Act 4 (N) Good	5	51	1					24	Jewelry C	30	Any Gems	18	Runes 11	6																		0
-Act 5 (N) Good	5	57	1					24	Jewelry C	30	Any Gems	18	Runes 12	6																		0
-Act 1 (H) Good	5	66	1					24	Jewelry C	30	Any Gems	18	Runes 13	6																		0
-Act 2 (H) Good	5	72	1					24	Jewelry C	30	Any Gems	18	Runes 14	6																		0
-Act 3 (H) Good	5	78	1					24	Jewelry C	30	Any Gems	18	Runes 15	6																		0
-Act 4 (H) Good	5	82	1					24	Jewelry C	30	Any Gems	18	Runes 16	6																		0
-Act 5 (H) Good	5	85	1					24	Jewelry C	30	Any Gems	18	Runes 17	6																		0
+Act 1 (N) Good	5	38	1					24	Jewelry C	30	Any Gems	18	Runes 8	6	malus	1																0
+Act 2 (N) Good	5	42	1					24	Jewelry C	30	Any Gems	18	Runes 9	6	malus	1																0
+Act 3 (N) Good	5	46	1					24	Jewelry C	30	Any Gems	18	Runes 10	6	malus	1																0
+Act 4 (N) Good	5	51	1					24	Jewelry C	30	Any Gems	18	Runes 11	6	malus	1																0
+Act 5 (N) Good	5	57	1					24	Jewelry C	30	Any Gems	18	Runes 12	6	malus	1																0
+Act 1 (H) Good	5	66	1					24	Jewelry C	30	Any Gems	18	Runes 13	6	malus	1																0
+Act 2 (H) Good	5	72	1					24	Jewelry C	30	Any Gems	18	Runes 14	6	malus	1																0
+Act 3 (H) Good	5	78	1					24	Jewelry C	30	Any Gems	18	Runes 15	6	malus	1																0
+Act 4 (H) Good	5	82	1					24	Jewelry C	30	Any Gems	18	Runes 16	6	malus	1																0
+Act 5 (H) Good	5	85	1					24	Jewelry C	30	Any Gems	18	Runes 17	6	malus	1																0
 Act 1 Chest A	6	0	4					100	gld	15	Act 1 Junk	15	Act 1 Equip A	10	Act 1 Good	2																0
 Act 1 Chest B	6	5	4					100	gld	15	Act 1 Junk	15	Act 1 Equip B	10	Act 1 Good	2																0
 Act 1 Chest C	6	9	4					100	gld	15	Act 1 Junk	12	Act 2 Junk	3	Act 1 Equip C	15	Act 1 Good	2														0
@@ -829,18 +830,18 @@ Cow (H)			1					100	gld	19	Act 5 (H) Equip B	19	Act 5 (H) Junk	19	Act 5 (H) Good
 Trapped Soul			1					100	gld	19	Act 4 Equip A	8	Act 4 Junk	33																		0
 Trapped Soul (N)			1					100	gld	19	Act 4 (N) Equip A	8	Act 4 (N) Junk	33																		0
 Trapped Soul (H)			1					100	gld	19	Act 4 (H) Equip A	8	Act 4 (H) Junk	33																		0
-Haphesto			5	800	800	900	1024	19	"gld,mul=1280"	14	Act 5 Equip A	19	Act 5 Junk	5	Act 5 Good	3																0
-Haphesto Desecrated A	27	28	5	800	800	900	1024	19	"gld,mul=1280"	14	Act 5 Equip A	19	Act 5 Junk	5	Act 5 Good	3																0
-Haphesto Desecrated B	27	38	5	800	800	900	1024	19	"gld,mul=1280"	14	Act 5 Equip C	19	Act 5 Junk	5	Act 5 Good	3																0
-Haphesto Desecrated C	27	48	5	800	800	900	1024	19	"gld,mul=1280"	14	Act 3 (N) Equip C	19	Act 3 (N) Junk	5	Act 3 (N) Good	3																0
-Haphesto (N)			5	800	800	900	1024	19	"gld,mul=1536"	14	Act 5 (N) Equip A	19	Act 5 (N) Junk	5	Act 5 (N) Good	3																0
-Haphesto (N) Desecrated A	27	60	5	800	800	900	1024	19	"gld,mul=1536"	14	Act 5 (N) Equip A	19	Act 5 (N) Junk	5	Act 5 (N) Good	3																0
-Haphesto (N) Desecrated B	27	66	5	800	800	900	1024	19	"gld,mul=1536"	14	Act 5 (N) Equip C	19	Act 5 (N) Junk	5	Act 5 (N) Good	3																0
-Haphesto (N) Desecrated C	27	73	5	800	800	900	1024	19	"gld,mul=1536"	14	Act 3 (H) Equip A	19	Act 3 (H) Junk	5	Act 3 (H) Good	3																0
-Haphesto (H)			5	800	800	900	1024	19	"gld,mul=2048"	14	Act 5 (H) Equip A	19	Act 5 (H) Junk	5	Act 5 (H) Good	3																0
-Haphesto Item (H) Desecrated A			5	800	800	900	1024	19	"gld,mul=2048"	14	Act 5 (H) Equip A	19	Act 5 (H) Junk	5	Act 5 (H) Good	3																0
-Haphesto Item (H) Desecrated B			5	800	800	900	1024	19	"gld,mul=2048"	14	Act 5 (H) Equip B	19	Act 5 (H) Junk	5	Act 5 (H) Good	3																0
-Haphesto Item (H) Desecrated C			5	800	800	900	1024	19	"gld,mul=2048"	14	Act 5 (H) Equip C	19	Act 5 (H) Junk	5	Act 5 (H) Good	3																0
+Haphesto			5	800	800	900	1024	19	"gld,mul=1280"	14	Act 5 Equip A	19	Act 5 Junk	5	Act 5 Good	3	malus	5														0
+Haphesto Desecrated A	27	28	5	800	800	900	1024	19	"gld,mul=1280"	14	Act 5 Equip A	19	Act 5 Junk	5	Act 5 Good	3	malus	5														0
+Haphesto Desecrated B	27	38	5	800	800	900	1024	19	"gld,mul=1280"	14	Act 5 Equip C	19	Act 5 Junk	5	Act 5 Good	3	malus	5														0
+Haphesto Desecrated C	27	48	5	800	800	900	1024	19	"gld,mul=1280"	14	Act 3 (N) Equip C	19	Act 3 (N) Junk	5	Act 3 (N) Good	3	malus	5														0
+Haphesto (N)			5	800	800	900	1024	19	"gld,mul=1536"	14	Act 5 (N) Equip A	19	Act 5 (N) Junk	5	Act 5 (N) Good	3	malus	5														0
+Haphesto (N) Desecrated A	27	60	5	800	800	900	1024	19	"gld,mul=1536"	14	Act 5 (N) Equip A	19	Act 5 (N) Junk	5	Act 5 (N) Good	3	malus	5														0
+Haphesto (N) Desecrated B	27	66	5	800	800	900	1024	19	"gld,mul=1536"	14	Act 5 (N) Equip C	19	Act 5 (N) Junk	5	Act 5 (N) Good	3	malus	5														0
+Haphesto (N) Desecrated C	27	73	5	800	800	900	1024	19	"gld,mul=1536"	14	Act 3 (H) Equip A	19	Act 3 (H) Junk	5	Act 3 (H) Good	3	malus	5														0
+Haphesto (H)			5	800	800	900	1024	19	"gld,mul=2048"	14	Act 5 (H) Equip A	19	Act 5 (H) Junk	5	Act 5 (H) Good	3	malus	5														0
+Haphesto Item (H) Desecrated A			5	800	800	900	1024	19	"gld,mul=2048"	14	Act 5 (H) Equip A	19	Act 5 (H) Junk	5	Act 5 (H) Good	3	malus	5														0
+Haphesto Item (H) Desecrated B			5	800	800	900	1024	19	"gld,mul=2048"	14	Act 5 (H) Equip B	19	Act 5 (H) Junk	5	Act 5 (H) Good	3	malus	5														0
+Haphesto Item (H) Desecrated C			5	800	800	900	1024	19	"gld,mul=2048"	14	Act 5 (H) Equip C	19	Act 5 (H) Junk	5	Act 5 (H) Good	3	malus	5														0
 Haphesto (H) Desecrated A	27	88	-2					0	Sunder Charms	1	Haphesto Item (H) Desecrated A	1																				0
 Haphesto (H) Desecrated B	27	93	-2					0	Sunder Charms	1	Haphesto Item (H) Desecrated B	1																				0
 Haphesto (H) Desecrated C	27	96	-2					0	Sunder Charms	1	Haphesto Item (H) Desecrated C	1																				0
@@ -878,24 +879,24 @@ Blood Raven (H) Desecrated A	30	88	-2					0	Sunder Charms	1	Blood Raven Item (H)
 Blood Raven (H) Desecrated B	30	90	-2					0	Sunder Charms	1	Blood Raven Item (H) Desecrated B	1																				0
 Blood Raven (H) Desecrated C	30	93	-2					0	Sunder Charms	1	Blood Raven Item (H) Desecrated C	1																				0
 Blood Raven (H) Desecrated D	30	96	-2					0	Sunder Charms	1	Blood Raven Item (H) Desecrated D	1																				0
-Smith			-3					0	Act 1 Uitem C	1	Act 1 Melee B	2																				0
-Smith Desecrated A	31	13	-3					0	Act 2 Uitem A	1	Act 2 Melee A	2																				0
-Smith Desecrated B	31	32	-3					0	Act 4 Uitem B	1	Act 4 Melee B	2																				0
-Smith Desecrated C	31	48	-3					0	Act 3 (N) Uitem A	1	Act 3 (N) Melee A	2																				0
-Smith (N)			-3					0	Act 1 (H) Uitem C	1	Act 1 (N) Melee B	2																				0
-Smith (N) Desecrated A	31	43	-3					0	Act 2 (N) Uitem A	1	Act 2 (N) Melee A	2																				0
-Smith (N) Desecrated B	31	57	-3					0	Act 4 (N) Uitem B	1	Act 4 (N) Melee B	2																				0
-Smith (N) Desecrated C	31	73	-3					0	Act 3 (H) Uitem A	1	Act 3 (H) Melee A	2																				0
-Smith (H)			-3					0	Act 1 (H) Uitem C	1	Act 1 (H) Melee B	2																				0
-Smith (H) Desecrated A	31	73	-4					0	Sunder Charms	1	Act 3 (H) Uitem A	1	Act 3 (H) Melee A	2																		0
-Smith (H) Desecrated B	31	75	-4					0	Sunder Charms	1	Act 3 (H) Uitem B	1	Act 3 (H) Melee B	2																		0
-Smith (H) Desecrated C	31	78	-4					0	Sunder Charms	1	Act 3 (H) Uitem C	1	Act 3 (H) Melee B	2																		0
-Smith (H) Desecrated D	31	81	-4					0	Sunder Charms	1	Act 4 (H) Uitem A	1	Act 4 (H) Melee A	2																		0
-Smith (H) Desecrated E	31	84	-4					0	Sunder Charms	1	Act 4 (H) Uitem B	1	Act 4 (H) Melee B	2																		0
-Smith (H) Desecrated F	31	87	-4					0	Sunder Charms	1	Act 4 (H) Uitem B	1	Act 4 (H) Melee B	2																		0
-Smith (H) Desecrated G	31	90	-4					0	Sunder Charms	1	Act 5 (H) Uitem A	1	Act 5 (H) Melee A	2																		0
-Smith (H) Desecrated H	31	93	-4					0	Sunder Charms	1	Act 5 (H) Uitem B	1	Act 5 (H) Melee B	2																		0
-Smith (H) Desecrated I	31	96	-4					0	Sunder Charms	1	Act 5 (H) Uitem C	1	Act 5 (H) Melee C	2																		0
+Smith			-4					0	Act 1 Uitem C	1	Act 1 Melee B	2	malus	1																		0
+Smith Desecrated A	31	13	-4					0	Act 2 Uitem A	1	Act 2 Melee A	2	malus	1																		0
+Smith Desecrated B	31	32	-4					0	Act 4 Uitem B	1	Act 4 Melee B	2	malus	1																		0
+Smith Desecrated C	31	48	-4					0	Act 3 (N) Uitem A	1	Act 3 (N) Melee A	2	malus	1																		0
+Smith (N)			-4					0	Act 1 (H) Uitem C	1	Act 1 (N) Melee B	2	malus	1																		0
+Smith (N) Desecrated A	31	43	-4					0	Act 2 (N) Uitem A	1	Act 2 (N) Melee A	2	malus	1																		0
+Smith (N) Desecrated B	31	57	-4					0	Act 4 (N) Uitem B	1	Act 4 (N) Melee B	2	malus	1																		0
+Smith (N) Desecrated C	31	73	-4					0	Act 3 (H) Uitem A	1	Act 3 (H) Melee A	2	malus	1																		0
+Smith (H)			-4					0	Act 1 (H) Uitem C	1	Act 1 (H) Melee B	2	malus	1																		0
+Smith (H) Desecrated A	31	73	-5					0	Sunder Charms	1	Act 3 (H) Uitem A	1	Act 3 (H) Melee A	2	malus	1																0
+Smith (H) Desecrated B	31	75	-5					0	Sunder Charms	1	Act 3 (H) Uitem B	1	Act 3 (H) Melee B	2	malus	1																0
+Smith (H) Desecrated C	31	78	-5					0	Sunder Charms	1	Act 3 (H) Uitem C	1	Act 3 (H) Melee B	2	malus	1																0
+Smith (H) Desecrated D	31	81	-5					0	Sunder Charms	1	Act 4 (H) Uitem A	1	Act 4 (H) Melee A	2	malus	1																0
+Smith (H) Desecrated E	31	84	-5					0	Sunder Charms	1	Act 4 (H) Uitem B	1	Act 4 (H) Melee B	2	malus	1																0
+Smith (H) Desecrated F	31	87	-5					0	Sunder Charms	1	Act 4 (H) Uitem B	1	Act 4 (H) Melee B	2	malus	1																0
+Smith (H) Desecrated G	31	90	-5					0	Sunder Charms	1	Act 5 (H) Uitem A	1	Act 5 (H) Melee A	2	malus	1																0
+Smith (H) Desecrated H	31	93	-5					0	Sunder Charms	1	Act 5 (H) Uitem B	1	Act 5 (H) Melee B	2	malus	1																0
+Smith (H) Desecrated I	31	96	-5					0	Sunder Charms	1	Act 5 (H) Uitem C	1	Act 5 (H) Melee C	2	malus	1																0
 Izual			5	800	800	972	1024	19	"gld,mul=1280"	14	Act 4 Equip B	19	Act 4 Junk	5	Act 4 Good	3																0
 Izual Desecrated A	32	29	5	800	800	972	1024	19	"gld,mul=1280"	14	Act 4 Equip B	19	Act 4 Junk	5	Act 4 Good	3																0
 Izual Desecrated B	32	38	5	800	800	972	1024	19	"gld,mul=1280"	14	Act 5 Equip C	19	Act 5 Junk	5	Act 5 Good	3																0
