@@ -412,3 +412,4 @@ extra_freezing_arrows	409		1	16										0		0		16	10	16	10																500	19
 extra_molten_boulders	410		1	16										0		0		16	10	16	10																500	19		extra_molten_boulders	extra_molten_boulders										0
 extra_traps	411		1	16										0		0		16	10	16	10																500	19		extra_traps	extra_traps										0
 extra_hydras	412		1	16										0		0		16	10	16	10																500	19		extra_hydras	extra_hydras										0
+tormentdesc	413		1	16										0		0		16	10	16	10																1	19		tormentdesc	tormentdesc										0

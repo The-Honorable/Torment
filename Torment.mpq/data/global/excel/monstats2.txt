@@ -617,3 +617,4 @@ seagull	738	0	0	96	0	0		0	hth	3		lit																1															1		1	1						
 darkwing	739	3	3	96	3	3		3	hth	3		lit				"flb,wax,wsc,wsd"												1				1											2	1	1	1	1	1				1				1	1	1		8	8	8	8	8	8	8	8	8	8	8	8	8	8	8	8													1				1				1	1	1					1					1				1		255	255	255				1	10	11	NU			0
 snowlashsentry	740	1	1	128	0	0		0	hth	3		lit							lit									1							1								2	1	1							1	1			1				1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1													1			1								1		1							1		1				255	255	255				1			NU			0
 glacialvortexsentry	741	1	1	128	0	0		0	hth	3		lit							lit									1							1								2	1	1							1	1			1				1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1													1			1								1		1							1		1				255	255	255				1			NU			0
+tormentnat	742	0	2	80	2	2		0	hth	3		lit																1															1		1	1														1	8	8	8	8	8	8	8	8	8	8	8	1	8	8	8		1											1				1											1	1				1						255	255	255				1			NU			0

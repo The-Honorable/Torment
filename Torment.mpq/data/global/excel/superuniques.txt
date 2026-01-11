@@ -61,13 +61,18 @@ Magma Torquer	Magma Torquer	imp5	57		5	7	6	10	10	0	1	1	9	9	9	Act 5 Super C		Act 
 Blaze Ripper	Blaze Ripper	deathmauler5	58		17	6	5	10	10	0	1	1	10	10	10	Act 5 Super C		Act 5 (N) Super C		Act 5 (H) Super C	Act 5 (H) Super C Desecrated	0
 Frozenstein	Frozenstein	snowyeti4	59		18	25	30	20	20	0	0		19	19	19	Act 5 Super C		Act 5 (N) Super C		Act 5 (H) Super C	Act 5 (H) Super C Desecrated	0
 Nihlathak Boss	Nihlathak	nihlathakboss	60		2	6	7	0	0	0	1		28	28	28	Nihlathak	Nihlathak Desecrated	Nihlathak (N)	Nihlathak (N) Desecrated	Nihlathak (H)	Nihlathak (H) Desecrated	0
-Baal Subject 1	Baal Subject 1	fallenshaman5	61		9	30	29	20	20	0	1		29	29	29	Act 5 Champ C		Act 5 (N) Champ C		Act 5 (H) Champ C	Act 5 (H) Champ C Desecrated	0
-Baal Subject 2	Baal Subject 2	unraveler5	62		23	30	29	10	10	0	1		21	21	21	Act 5 Champ C		Act 5 (N) Champ C		Act 5 (H) Champ C	Act 5 (H) Champ C Desecrated	0
+Baal Subject 1	Baal Subject 1	fallenshaman5	61		17	30	29	20	20	0	1		29	29	29	Act 5 Champ C		Act 5 (N) Champ C		Act 5 (H) Champ C	Act 5 (H) Champ C Desecrated	0
+Baal Subject 2	Baal Subject 2	unraveler5	62		18	30	29	10	10	0	1		21	21	21	Act 5 Champ C		Act 5 (N) Champ C		Act 5 (H) Champ C	Act 5 (H) Champ C Desecrated	0
 Baal Subject 3	Baal Subject 3	baalhighpriest	63		17	30	6	10	10	0	1		36	36	36	Act 5 Champ C		Act 5 (N) Champ C		Act 5 (H) Champ C	Act 5 (H) Champ C Desecrated	0
 Baal Subject 4	Baal Subject 4	venomlord	64		6	30	5	10	10	0	1		20	20	20	Act 5 Champ C		Act 5 (N) Champ C		Act 5 (H) Champ C	Act 5 (H) Champ C Desecrated	0
 Baal Subject 5	Baal Subject 5	baalminion1	65		27	5	26	5	10	0	1		20	20	20	Act 5 Champ C		Act 5 (N) Champ C		Act 5 (H) Champ C	Act 5 (H) Champ C Desecrated	0
-superandy	Soul of Andariel	superandy	66		0	0	0	0	0	0	1		0	0	0	Andarielq	Andarielq Desecrated A	Andarielq (N)	Andarielq (N) Desecrated A	Andarielq (H)	Andarielq (H) Desecrated A	0
-superduriel	Soul of Duriel	superduriel	67		0	0	0	0	0	0	1		0	0	0	Durielq	Duriel Desecrated A	Durielq (N)	Duriel (N) Desecrated A	Durielq (H)	Duriel (H) Desecrated A	0
-supermeph	Soul of Mephisto	supermeph	68		0	0	0	0	0	0	1		0	0	0	Mephistoq	Mephisto Desecrated A	Mephistoq (N)	Mephisto (N) Desecrated A	Mephistoq (H)	Mephisto (H) Desecrated A	0
-superdiablo	Soul of Diablo	superdiablo	69		0	0	0	0	0	0	1		0	0	0	Diabloq	Diablo Desecrated A	Diabloq (N)	Diablo (N) Desecrated A	Diabloq (H)	Diablo (H) Desecrated A	0
+superandy	Soul of Andariel	superandy	66		0	0	0	0	0	0	0		0	0	0	Andarielq	Andarielq Desecrated A	Andarielq (N)	Andarielq (N) Desecrated A	Andarielq (H)	Andarielq (H) Desecrated A	0
+superduriel	Soul of Duriel	superduriel	67		0	0	0	0	0	0	0		0	0	0	Durielq	Duriel Desecrated A	Durielq (N)	Duriel (N) Desecrated A	Durielq (H)	Duriel (H) Desecrated A	0
+supermeph	Soul of Mephisto	supermeph	68		0	0	0	0	0	0	0		0	0	0	Mephistoq	Mephisto Desecrated A	Mephistoq (N)	Mephisto (N) Desecrated A	Mephistoq (H)	Mephisto (H) Desecrated A	0
+superdiablo	Soul of Diablo	superdiablo	69		0	0	0	0	0	0	0		0	0	0	Diabloq	Diablo Desecrated A	Diabloq (N)	Diablo (N) Desecrated A	Diabloq (H)	Diablo (H) Desecrated A	0
 Wing of Izual	darkwing	darkwing	70		5	7	30	0	0	1	1	1	24	24	24	Act 4 Super A		Act 4 (N) Super A		Act 4 (H) Super A	Act 4 (H) Super A Desecrated	0
+tormentholder	Torment Holder	tormentholder	71		26	0	0	0	0	0	0					Torment Holder						0
+tormentedsandraider	Tormented Sand Raider	tormentedsandraider	72		30	26	0	0	0	0	0					tc1						0
+tormentedspider	Tormented Spider	tormentedspider	73		30	26	0	0	0	0	0					tc2						0
+tormentedvenomlord	Tormented Venom Lord	tormentedvenomlord	74		30	26	0	0	0	0	0					tc3						0
+tormentedyeti	Tormented Yeti	tormentedyeti	75		30	26	0	0	0	0	0					tc4						0

@@ -54,7 +54,7 @@ return {-- The below settings are all optional, default/false entries will be as
 			codes = {"ami","rin"},
 			location = { "onground"},
 			quality = {6},
-            notify = "ÿc6Rare Ring/Amulet Dropped: {name}"
+            notify = "ÿc9Rare Ring/Amulet Dropped: {name}"
 		},
         {
             -- low rune drops
@@ -87,8 +87,18 @@ return {-- The below settings are all optional, default/false entries will be as
             background = { 74, 74, 74, 255 }
         },
         {
+            -- tormented components but fancy border
+            codes = {"tc1", "tc2", "tc3", "tc4", "tc5", "tc6", "tc7", "tc8"},
+            location = { "onground"},
+            notify = "ÿcSA Tormented Organ DroppedÿcS: {name}",
+            prefix = "ÿc0|/|",
+            suffix = "ÿc0|\\|",
+            border = { 255, 255, 255, 255, 3 },
+            background = { 74, 74, 74, 255 }
+        },
+        {
             -- hide junk after a certain level
-            codes = {"hp1","hp2","hp3","mp1","mp2","mp3","isc","tsc","yps","wms"},
+            codes = {"hp1","hp2","mp1","mp2","isc","tsc","yps","wms"},
             location = { "onground"},
             pstat = { index = 12, op = ">=", value = 30 }, -- player level 30+
             hide = true

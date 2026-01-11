@@ -47,7 +47,7 @@ Runeword45	Gloom	1		110	tors									FalUmPul	r19	r22	r21				ac%		170	230	res-al
 Runeword46	Glory																																																0
 Runeword47	Grief	1		Previously Ladder Only	swor	axe								EthTirLoMalRal	r05	r03	r28	r23	r08		dmg-dem/lvl	16			dmg		340	400	swing3		30	40	hit-skill	Venom	35	15	pierce-pois		20	25	ignore-ac		1	1	heal-kill		10	15	0
 Runeword48	Hand of Justice	1		110	weap									SurChamAmnLo	r29	r32	r11	r28			swing2		33	33	dmg%		250	300	aura	Holy Fire	14	16	hit-skill	Blaze	15	30	death-skill	Meteor	100	48	ignore-ac		1	1	pierce-fire		20	20	0
-Runeword49	Harmony	1		Previously Ladder Only	miss									TirIthSolKo	r03	r06	r12	r18			dmg%		200	250	dmg-elem		55	160	charged	Revive	25	20	aura	Vigor	10	10	oskill	Valkyrie	2	6	regen-mana		20	20	light		2	2	0
+Runeword49	Harmony	1		Previously Ladder Only	miss									TirIthSolKo	r03	r06	r12	r18			dmg%		200	250	dmg-elem		55	160	charged	Revive	25	20	aura	Vigor	10	10	oskill	Valkyrie	2	6	regen-mana		20	20	light		1	1	0
 Runeword50	Hatred																																																0
 Runeword51	Heart of the Oak	1		110	staf	mace								KoVexPulThul	r18	r26	r21	r10			cast2		40	40	oskill	Oak Sage	10	10	mana%		15	15	allskills		3	3	regen		20	20	res-all		30	40	oskill	Raven	10	10	0
 Runeword52	Heaven's Will																																																0
@@ -66,7 +66,7 @@ Runeword64	Judgment																																																0
 Runeword65	King's Grace	1		109	mele									AmnRalThul	r11	r08	r10				dmg%		100	150	att		150	150	dmg-demon		100	100	dmg-undead		100	100	att-demon		100	100	att-undead		100	100	gold%		50	50	0
 Runeword66	Kingslayer	1		110	mele									MalUmGulFal	r23	r22	r25	r19			swing2		30	30	dmg%		230	270	reduce-ac		25	25	deadly		25	25	openwounds		25	25	oskill	Vengeance	3	5	gold%		100	100	0
 Runeword67	Knight's Vigil																																																0
-Runeword68	Knowledge	1			helm									ElTirEl	r01	r03					addxp		5	5	light		1	1	move1		10	10	ac%		50	50	mana-kill		2	2									0
+Runeword68	Knowledge	1			helm									ElTir	r01	r03					addxp		2	4	light		1	1	balance1		10	10	ac%		50	50	lifesteal		2	2									0
 Runeword69	Last Wish	1		Previously Ladder Only	mele									JahMalJahSurJahBer	r31	r23	r31	r29	r31	r30	dmg%		350	350	hit-skill	Charged Bolt	20	40	hit-skill	Life Tap	10	18	gethit-skill	Fade	9	11	deadly		50	50	mag%/lvl	16			aura	Might	17	17	0
 Runeword70	Law																																																0
 Runeword71	Lawbringer	1		Previously Ladder Only	mele									AmnLemKo	r11	r20	r18				dmg-cold		130	180	dmg-fire		150	210	aura	Sanctuary	10	15	hit-skill	Attract	9	10	ac-miss		200	250	rip		1	1	reduce-ac		50	50	0
@@ -84,8 +84,8 @@ Runeword83	Memory	1		109	staf									LumIoSolEth	r17	r16	r12	r05			mana%		25	50
 Runeword84	Mist	1	2	D2R Ladder 1	weap									ChamShaelGulThulIth	r32	r13	r25	r10	r06		allskills		3	3	dmg%		300	350	aura	Concentration	8	12	vit		24	24	res-all		40	40	ac		500	500					0
 Runeword85	Morning																																																0
 Runeword86	Mystery																																																0
-Runeword87	Myth	1		111	tors									HelAmnNef	r15	r11	r04				hit-skill	Taunt	10	1	dmg%		50	50	bar		2	2	regen		-10	-10	lifesteal		5	5									0
-Runeword88	Nadir	1		109	helm									NefTir	r04	r03					ac%		50	50	ac		25	25	light		-2	-2	gold%		-50	-50	str		10	10	move1		10	10					0
+Runeword87	Myth	1		111	tors									HelAmnNef	r15	r11	r04				hit-skill	Taunt	10	1	dmg%		50	50	bar		2	2	regen		-10	-10	lifesteal		5	5	move1		15	15					0
+Runeword88	Nadir	1		109	helm									NefTir	r04	r03					ac%		100	100	light		-1	-1	gold%		-25	-25	str		10	10	move1		15	15	gethit-skill	Dim Vision	5	1					0
 Runeword89	Nature's Kingdom																																																0
 Runeword90	Night																																																0
 Runeword91	Oath	1		Previously Ladder Only	mele									ShaelPulMalLum	r13	r21	r23	r17			dmg%		210	250	swing1		30	30	hit-skill	Bone Spirit	15	25	oskill	IronGolem	5	5	oskill	Heart of Wolverine	5	5	abs-mag		10	15	indestruct		1	1	0
@@ -113,7 +113,7 @@ Runeword112	Prudence	1		110	tors									MalTir	r23	r03					ac%		140	170	red-mag
 Runeword113	Punishment																																																0
 Runeword114	Purity																																																0
 Runeword115	Question																																																0
-Runeword116	Radiance	1		109	helm									NefSolIth	r04	r12	r06				light		3	3	all-stats		5	10	ac%		100	100	aura	Sanctuary	1	1													0
+Runeword116	Radiance	1		109	helm									NefSolIth	r04	r12	r06				light		2	2	all-stats		5	10	ac%		100	100	aura	Sanctuary	1	1													0
 Runeword117	Rain	1		111	tors									OrtMalIth	r09	r23	r06				hit-skill	Twister	9	20	gethit-skill	Cyclone Armor	11	20	dru		2	2	mana		100	150	swing1		15	15									0
 Runeword118	Reason																																																0
 Runeword119	Red																																																0
@@ -128,7 +128,7 @@ Runeword127	Siren's Song																																																0
 Runeword128	Smoke	1		109	tors									NefLum	r04	r17					ac-miss		250	250	ac%		75	75	res-all		50	50	balance2		20	20	light		-2	-2	gethit-skill	Dim Vision	5	10					0
 Runeword129	Sorrow																																																0
 Runeword130	Spirit	1		Previously Ladder Only	swor	shld								TalThulOrtAmn	r07	r10	r09	r11			balance3		15	20	mana		50	75	ac-miss		250	250	vit		22	22	cast3		20	30	abs-mag		3	8	allskills		2	2	0
-Runeword131	Splendor	1		110	shld									EthLum	r05	r17					light		3	3	gold%		100	100	mag%		50	50	ac%		60	100	block2		20	20	cast2		15	15	allskills		1	1	0
+Runeword131	Splendor	1		110	shld									EthLum	r05	r17					light		1	1	gold%		100	100	mag%		50	50	ac%		60	100	block2		20	20	cast2		15	15	allskills		1	1	0
 Runeword132	Starlight																																																0
 Runeword133	Stealth	1		109	tors									TalEth	r07	r05					red-mag		3	3	dex		6	6	stam		15	15	move2		25	25	cast2		25	25	balance2		25	25					0
 Runeword134	Steel	1		109	mele									TirEl	r03	r01					swing2		25	25	dmg-min		5	15	dmg-max		10	20	openwounds		25	25	dmg%		50	100									0
@@ -143,7 +143,7 @@ Runeword142	Terror																																																0
 Runeword143	Thirst																																																0
 Runeword144	Thought																																																0
 Runeword145	Thunder																																																0
-Runeword146	Time																																																0
+Runeword146	Time	1			orb									Tir																																			0
 Runeword147	Tradition																																																0
 Runeword148	Treachery	1		111	tors									ShaelThulLem	r13	r10	r20				hit-skill	Venom	15	20	gethit-skill	Fade	9	10	ass		2	2	swing2		45	45	dmg%		50	50									0
 Runeword149	Trust																																																0

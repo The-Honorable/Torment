@@ -1,0 +1,2 @@
+class	ShouldTalk	talkAct	talkFile	talkPlayerRead	talkWelcomeGreeting	talkTransporter	talkNoIntro	talkGreetThisTime
+tormentnat	1	0	tormentdialogue		1			1

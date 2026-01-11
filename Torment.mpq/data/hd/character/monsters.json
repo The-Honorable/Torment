@@ -714,5 +714,11 @@
   "darkwing": "megademon1",
   "glacialvortexsentry": "chargeboltsentry",
   "snowlashsentry": "chargeboltsentry",
-  "torment_gargoyletrap": "gargoyletrap"
+  "torment_gargoyletrap": "gargoyletrap",
+  "tormentholder":"andariel",
+  "tormentedsandraider":"sandraider1",
+  "tormentedspider":"arach1",
+  "tormentedvenomlord":"venomlord",
+  "tormentedyeti":"snowyeti1",
+  "tormentnat":"natalya"
 }

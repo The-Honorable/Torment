@@ -2701,5 +2701,22 @@
     "ptBR": "Use o Portal de Tyreal para chegar a um lugar seguro.",
     "ruRU": "Отправляйтесь через портал Тираэля в безопасное место.",
     "zhCN": "使用泰瑞尔的传送门前往安全地带。"
+  },
+  {
+    "id": 55000,
+    "Key": "tormentdesc",
+    "enUS": "ÿcKand you may find the missing pieces\nScour the darkest depths of Sanctuary\nYour search beginsÿc3",
+    "zhTW": "ÿcK在聖休亞瑞最黑暗的深處尋找組件以升級此護符ÿc3",
+    "deDE": "ÿcKDurchsucht die dunkelsten Tiefen von Sanktuario nach Komponenten, um diesen Charme zu verbessernÿc3",
+    "esES": "ÿcKExplora las profundidades más oscuras de Santuario para encontrar componentes que mejoren este amuletoÿc3",
+    "frFR": "ÿcKExplorez les profondeurs les plus sombres de Sanctuaire pour trouver des composants afin d’améliorer ce charmeÿc3",
+    "itIT": "ÿcKEsplora le profondità più oscure di Sanctuarium per trovare componenti per migliorare questo ciondoloÿc3",
+    "koKR": "ÿcK성역의 가장 어두운 심연을 탐험하여 이 부적을 강화할 구성 요소를 찾으십시오ÿc3",
+    "plPL": "ÿcKPrzeszukaj najciemniejsze głębiny Sanktuarium w poszukiwaniu komponentów do ulepszenia tego amuletuÿc3",
+    "esMX": "ÿcKExplora las profundidades más oscuras de Santuario para encontrar componentes que mejoren este amuletoÿc3",
+    "jaJP": "ÿcKサンクチュアリの最も暗い深淵を探索し、このチャームを強化するための素材を見つけよÿc3",
+    "ptBR": "ÿcKExplore as profundezas mais sombrias de Santuário em busca de componentes para aprimorar este amuletoÿc3",
+    "ruRU": "ÿcKИсследуйте самые тёмные глубины Санктуария в поисках компонентов для улучшения этого талисманаÿc3",
+    "zhCN": "ÿcK在庇护之地最黑暗的深处寻找组件以升级此护符ÿc3"
   }
 ]
