@@ -71,8 +71,8 @@ superduriel	Soul of Duriel	superduriel	67		0	0	0	0	0	0	0		0	0	0	Durielq	Duriel D
 supermeph	Soul of Mephisto	supermeph	68		0	0	0	0	0	0	0		0	0	0	Mephistoq	Mephisto Desecrated A	Mephistoq (N)	Mephisto (N) Desecrated A	Mephistoq (H)	Mephisto (H) Desecrated A	0
 superdiablo	Soul of Diablo	superdiablo	69		0	0	0	0	0	0	0		0	0	0	Diabloq	Diablo Desecrated A	Diabloq (N)	Diablo (N) Desecrated A	Diabloq (H)	Diablo (H) Desecrated A	0
 Wing of Izual	darkwing	darkwing	70		5	7	30	0	0	1	1	1	24	24	24	Act 4 Super A		Act 4 (N) Super A		Act 4 (H) Super A	Act 4 (H) Super A Desecrated	0
-tormentholder	Torment Holder	tormentholder	71		26	0	0	0	0	0	0					Torment Holder						0
-tormentedsandraider	Tormented Sand Raider	tormentedsandraider	72		30	26	0	0	0	0	0					tc1						0
-tormentedspider	Tormented Spider	tormentedspider	73		30	26	0	0	0	0	0					tc2						0
-tormentedvenomlord	Tormented Venom Lord	tormentedvenomlord	74		30	26	0	0	0	0	0					tc3						0
-tormentedyeti	Tormented Yeti	tormentedyeti	75		30	26	0	0	0	0	0					tc4						0
+tormentholder	Torment Holder	tormentholder	71		26	0	0	0	0	0	0					Torment Holder		Torment Holder				0
+tormentedsandraider	Tormented Sand Raider	tormentedsandraider	72		30	26	0	0	0	0	0					tc1		tc5				0
+tormentedspider	Tormented Spider	tormentedspider	73		30	26	0	0	0	0	0					tc2		tc6				0
+tormentedvenomlord	Tormented Venom Lord	tormentedvenomlord	74		30	26	0	0	0	0	0					tc3		tc7				0
+tormentedyeti	Tormented Yeti	tormentedyeti	75		30	26	0	0	0	0	0					tc4		tc8				0
