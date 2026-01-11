@@ -70,8 +70,8 @@ Runeword68	Knowledge	1			helm									ElTir	r01	r03					addxp		2	4	light		1	1	ba
 Runeword69	Last Wish	1		Previously Ladder Only	mele									JahMalJahSurJahBer	r31	r23	r31	r29	r31	r30	dmg%		350	350	hit-skill	Charged Bolt	20	40	hit-skill	Life Tap	10	18	gethit-skill	Fade	9	11	deadly		50	50	mag%/lvl	16			aura	Might	17	17	0
 Runeword70	Law																																																0
 Runeword71	Lawbringer	1		Previously Ladder Only	mele									AmnLemKo	r11	r20	r18				dmg-cold		130	180	dmg-fire		150	210	aura	Sanctuary	10	15	hit-skill	Attract	9	10	ac-miss		200	250	rip		1	1	reduce-ac		50	50	0
-Runeword72	Leaf	1		109	staf									TirRal	r03	r08					fireskill		3	3	ac/lvl		16	16	res-cold		33	33	skill	Fire Bolt	3	3	skill	Fire Bolt	3	3	skill	Fire Bolt	3	3					0
-Runeword73	Lightning																																																0
+Runeword72	Leaf	1		109	staf									TirRal	r03	r08					fireskill		3	3	ac/lvl		16	16	res-fire		33	33	skill	Fire Bolt	3	3	skill	Blaze	3	3	skill	Warmth	3	3					0
+Runeword73	Lightning	1			staf									TirOrt	r03	r09					lightningskill		3	3	ac/lvl		16	16	res-ltng		33	33	skill	Charged Bolt	3	3	skill	Static Field	3	3	skill	Teleport	3	3					0
 Runeword74	Lionheart	1		109	tors									HelLumFal	r15	r17	r19				str		15	15	vit		20	20	dex		15	15	dmg%		50	100	hp		50	50	res-all		30	30					0
 Runeword75	Lore	1		109	helm									OrtSol	r09	r12					enr		10	10	allskills		1	1	light		1	1	mana-kill		2	2													0
 Runeword76	Love																																																0
@@ -156,7 +156,7 @@ Runeword155	Victory																																																0
 Runeword156	Voice																																																0
 Runeword157	Void																																																0
 Runeword158	War																																																0
-Runeword159	Water																																																0
+Runeword159	Water	1			staf									TirThul	r03	r10					coldskill		3	3	ac/lvl		16	16	res-cold		33	33	skill	Blizzard	3	3	skill	Shiver Armor	3	3	skill	Glacial Spike	3	3					0
 Runeword160	Wealth	1		109	tors									LmKoTir	r20	r18	r03				gold%		250	250	mag%		200	200	move1		-15	-15	cast1		-15	-15	swing1		-15	-15									0
 Runeword161	Whisper																																																0
 Runeword162	White	1		109	wand									DolIo	r14	r16					skilltab	7	2	2	red-mag		4	4	cast2		20	20	mana		13	13	skill	Bone Armor	3	3	skill	Bone Spear	2	2	skill	Skeleton Mastery	4	4	0
@@ -177,3 +177,6 @@ Runeword176	Temper	1		D2R Ladder 3	helm									ShaelIoRal	r13	r16	r08				hp%		5
 Runeword177	Hearth	1		D2R Ladder 3	helm									ShaelIoThul	r13	r16	r10				hp%		5	10	ac%		75	100	res-cold		10	30	abs-cold%		10	15	nofreeze		1	1									0
 Runeword178	Cure	1		D2R Ladder 3	helm									ShaelIoTal	r13	r16	r07				hp%		5	10	ac%		75	100	res-pois		10	30	res-pois-len		50	50	aura	Cleansing	1	1									0
 Runeword179	Bulwark	1		D2R Ladder 3	helm									ShaelIoSol	r13	r16	r12				hp%		5	10	ac%		75	100	red-dmg%		10	15	regen		30	30	lifesteal		4	6									0
+Runeword72	Leaf (orb)	1			orb									TirRal	r03	r08					fireskill		2	2	cast1		10	15	res-fire		10	15	skill	Fire Bolt	2	2	skill	Blaze	1	1	skill	Warmth	1	1					0
+Runeword73	Lightning (orb)	1			orb									TirOrt	r03	r09					lightningskill		2	2	cast1		10	15	res-ltng		10	15	skill	Charged Bolt	2	2	skill	Static Field	1	1	skill	Teleport	1	1					0
+Runeword159	Water (orb)	1			orb									TirThul	r03	r10					coldskill		2	2	cast1		10	15	res-cold		10	15	skill	Blizzard	2	2	skill	Shiver Armor	1	1	skill	Glacial Spike	1	1					0
