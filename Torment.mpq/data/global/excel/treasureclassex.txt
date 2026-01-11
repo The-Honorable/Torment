@@ -10,7 +10,7 @@ Normal Gem			1						gsv	3	gsy	3	gsb	3	gsg	3	gsr	3	gsw	3	sku	3										0
 Flawless Gem			1						gzv	3	gly	3	glb	3	glg	3	glr	3	glw	3	skl	3										0
 Perfect Gem			1						gpv	3	gpy	3	gpb	3	gpg	3	gpr	3	gpw	3	skz	3										0
 Any Gems			1					10	Perfect Gem	1	Flawless Gem	2	Normal Gem	3	Chipped Gem	4																0
-malus			1						mos	1	mou	1																				0
+malus			1						mos	1	mou	1	Nothing	2																		0
 Ammo			1						aqv	1	cqv	1																				0
 Misc 0			1						key	3	tsc	3	isc	3	opl	2	gpl	2														0
 Misc 1			1						key	3	tsc	3	isc	3	opm	2	gpm	2														0
