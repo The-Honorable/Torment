@@ -5489,7 +5489,7 @@
             "name": "Holy_Bolt",
             "id": 101,
             "usageType": 0,
-            "targetGroup": 8,
+            "targetGroup": 0,
             "defaultTargetDistance": 2.0,
             "acceptableDistanceOffset": 6.0,
             "useSkillScaledValueAsDefaultDist": false,
