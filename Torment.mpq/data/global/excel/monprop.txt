@@ -12,11 +12,11 @@ quillrat6																															thorns			15	20																										
 quillrat7																															thorns			15	20																										thorns			30	40																										0
 quillrat8																															thorns			15	20																										thorns			30	40																										0
 druidhawk	stupidity			1	1																										stupidity			1	1																										stupidity			1	1																										0
-fire_splash_monprop	hit-skill		371	100	1	extra-fire	100		-40	-40																					hit-skill		371	100	1	extra-fire	100		-20	-20																					hit-skill		371	100	1																										0
-mon_death_explode_phys	death-skill		372	1	1																										death-skill		372	5	5																										death-skill		372	15	15																										0
-mon_death_explode_fire	death-skill		373	1	1																										death-skill		373	5	5																										death-skill		373	15	15																										0
-mon_death_explode_cold	death-skill		374	1	1																										death-skill		374	5	5																										death-skill		374	15	15																										0
-mon_death_explode_ltng	death-skill		375	1	1																										death-skill		375	5	5																										death-skill		375	15	15																										0
-mon_death_explode_mag	death-skill		376	1	1																										death-skill		376	5	5																										death-skill		376	15	15																										0
+fire_splash_monprop	hit-skill		372	100	1	extra-fire	100		-40	-40																					hit-skill		372	100	1	extra-fire	100		-20	-20																					hit-skill		372	100	1																										0
+mon_death_explode_phys	death-skill		373	1	1																										death-skill		373	5	5																										death-skill		373	15	15																										0
+mon_death_explode_fire	death-skill		374	1	1																										death-skill		374	5	5																										death-skill		374	15	15																										0
+mon_death_explode_cold	death-skill		375	1	1																										death-skill		375	5	5																										death-skill		375	15	15																										0
+mon_death_explode_ltng	death-skill		376	1	1																										death-skill		376	5	5																										death-skill		376	15	15																										0
+mon_death_explode_mag	death-skill		377	1	1																										death-skill		377	5	5																										death-skill		377	15	15																										0
 mon_conc	skill_concentration			100	100																										skill_concentration			100	100																										skill_concentration			100	100																										0
-phys_splash_monprop	hit-skill		382	100	1	dmg%	100		-40	-40																					hit-skill		382	100	1	dmg%	100		-20	-20																					hit-skill	100	382	100	1																										0
+phys_splash_monprop	hit-skill		383	100	1	dmg%	100		-40	-40																					hit-skill		383	100	1	dmg%	100		-20	-20																					hit-skill	100	383	100	1																										0

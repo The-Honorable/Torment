@@ -7211,7 +7211,7 @@
         {
             "type": "ControllerSkillsData",
             "name": "Blink",
-            "id": 370,
+            "id": 371,
             "usageType": 0,
             "targetGroup": 0,
             "defaultTargetDistance": 23.0,

@@ -726,5 +726,6 @@
     "garg_fb": "shaman_fireball",
     "bash_proj": "basha",
     "glac":"glacial_spike",
-    "glac_fork":"glacial_spike"
+    "glac_fork":"glacial_spike",
+    "fireexplodenhd": "exp_arrow_explode"
 }
