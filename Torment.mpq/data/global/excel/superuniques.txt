@@ -42,7 +42,7 @@ The Cow King	The Cow King	cowking	39		8	17	5	20	20	1	0		27	27	27	Cow King	Cow Ki
 Corpsefire	Corpsefire	zombie1	40		27	23	5	15	15	1	0		25	25	25	Act 1 Super A		Act 1 (N) Super A		Act 1 (H) Super A	Act 1 (H) Super A Desecrated	0
 The Feature Creep	The Feature Creep	hephasto	41	smithdemon	27	30	5	10	10	1	0		20	20	20	Haphesto	Haphesto Desecrated A	Haphesto (N)	Haphesto (N) Desecrated A	Haphesto (H)	Haphesto (H) Desecrated A	0
 Expansion																						0
-Siege Boss	Siege Boss	overseer1	42		5	30	7	20	20	0	1		7	7	7	Act 5 Super A		Act 5 (N) Super A		Act 5 (H) Super A	Act 5 (H) Super A Desecrated	0
+Siege Boss	Siege Boss	shenk	42		5	30	7	20	20	0	1		7	7	7	Act 5 Super A		Act 5 (N) Super A		Act 5 (H) Super A	Act 5 (H) Super A Desecrated	0
 Ancient Barbarian 1	Ancient Barbarian 1	ancientbarb1	43		0	0	0	0	0	0	1		25	25	25							0
 Ancient Barbarian 2	Ancient Barbarian 2	ancientbarb2	44		0	0	0	0	0	0	1		26	26	26							0
 Ancient Barbarian 3	Ancient Barbarian 3	ancientbarb3	45		0	0	0	0	0	0	1		11	11	11							0

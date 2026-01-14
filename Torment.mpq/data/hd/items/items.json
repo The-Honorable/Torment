@@ -663,12 +663,12 @@
   { "cm4": { "asset": "charm/charm_small" } },
   { "cm5": { "asset": "charm/charm_medium" } },
   { "cm6": { "asset": "charm/charm_large" } },
-  { "tc1": { "asset": "body_part/eye" } },
-  { "tc2": { "asset": "body_part/heart" } },
-  { "tc3": { "asset": "body_part/brain" } },
-  { "tc4": { "asset": "body_part/fang" } },
-  { "tc5": { "asset": "body_part/eye" } },
-  { "tc6": { "asset": "body_part/heart" } },
-  { "tc7": { "asset": "body_part/brain" } },
-  { "tc8": { "asset": "body_part/fang" } }
+  { "tc1": { "asset": "body_part/tc1" } },
+  { "tc2": { "asset": "body_part/tc2" } },
+  { "tc3": { "asset": "body_part/tc3" } },
+  { "tc4": { "asset": "body_part/tc4" } },
+  { "tc5": { "asset": "body_part/tc1" } },
+  { "tc6": { "asset": "body_part/tc2" } },
+  { "tc7": { "asset": "body_part/tc3" } },
+  { "tc8": { "asset": "body_part/tc4" } }
 ]

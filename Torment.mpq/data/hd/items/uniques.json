@@ -1888,5 +1888,10 @@
   "normal": "torch/torch",
   "uber": "torch/torch",
   "ultra": "torch/torch"
+} },
+  { "tormented_charm": {
+  "normal": "charm/tormented_charm",
+  "uber": "charm/tormented_charm",
+  "ultra": "charm/tormented_charm"
 } }
 ]
