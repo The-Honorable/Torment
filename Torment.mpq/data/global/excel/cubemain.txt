@@ -202,7 +202,7 @@ tc5 eye + magic ring under ilvl 70 -> rare ring of the same ilvl	1			100					2	"
 tc6 heart + magic armor under ilvl 70 -> rare armor of the same ilvl	1			100					2	"armo,mag"	tc6						"usetype,rar"			100																																																																																				0
 tc7 brain + magic amulet under ilvl 70 -> rare amulet of the same ilvl	1			100					2	"amu,mag"	tc7						"usetype,rar"			100																																																																																				0
 tc8 fang + magic weapon under ilvl 70 -> rare weapon of the same ilvl	1			100					2	"weap,mag"	tc8						"usetype,rar"			100																																																																																				0
-armor under ilvl 40 + tc1+tc2+tc3+tc4 = repaired	1			100					2	"armo"	tc1	tc2	tc3	tc4			"useitem,rep"			100																																																																																				0
-weapon under ilvl 40 + tc1+tc2+tc3+tc4 = repaired	1			100					2	"weap"	tc1	tc2	tc3	tc4			"useitem,rep"			100																																																																																				0
-armor under ilvl 70 + tc5+tc6+tc7+tc8 = repaired	1			100					2	"armo"	tc5	tc6	tc7	tc8			"useitem,rep"			100																																																																																				0
-weapon under ilvl 70 + tc5+tc6+tc7+tc8 = repaired	1			100					2	"weap"	tc5	tc6	tc7	tc8			"useitem,rep"			100																																																																																				0
+armor under ilvl 40 + tc1+tc2+tc3+tc4 = repaired	1			100					5	"armo"	tc1	tc2	tc3	tc4			"useitem,rep"			100																																																																																				0
+weapon under ilvl 40 + tc1+tc2+tc3+tc4 = repaired	1			100					5	"weap"	tc1	tc2	tc3	tc4			"useitem,rep"			100																																																																																				0
+armor under ilvl 70 + tc5+tc6+tc7+tc8 = repaired	1			100					5	"armo"	tc5	tc6	tc7	tc8			"useitem,rep"			100																																																																																				0
+weapon under ilvl 70 + tc5+tc6+tc7+tc8 = repaired	1			100					5	"weap"	tc5	tc6	tc7	tc8			"useitem,rep"			100																																																																																				0

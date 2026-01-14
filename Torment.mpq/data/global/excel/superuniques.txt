@@ -66,7 +66,7 @@ Baal Subject 2	Baal Subject 2	unraveler5	62		18	30	29	10	10	0	1		21	21	21	Act 5 
 Baal Subject 3	Baal Subject 3	baalhighpriest	63		17	30	6	10	10	0	1		36	36	36	Act 5 Champ C		Act 5 (N) Champ C		Act 5 (H) Champ C	Act 5 (H) Champ C Desecrated	0
 Baal Subject 4	Baal Subject 4	venomlord	64		6	30	5	10	10	0	1		20	20	20	Act 5 Champ C		Act 5 (N) Champ C		Act 5 (H) Champ C	Act 5 (H) Champ C Desecrated	0
 Baal Subject 5	Baal Subject 5	baalminion1	65		27	5	26	5	10	0	1		20	20	20	Act 5 Champ C		Act 5 (N) Champ C		Act 5 (H) Champ C	Act 5 (H) Champ C Desecrated	0
-superandy	Soul of Andariel	superandy	66		0	0	0	0	0	0	0		0	0	0	Andariel	Andariel Desecrated A	Andariel (N)	Andariel (N) Desecrated A	Andariel (H)	Andariel (H) Desecrated A	0
+superandy	Soul of Andariel	superandy	66		0	0	0	0	0	0	0		0	0	0	Andariel	Andarielq Desecrated A	Andariel (N)	Andarielq (N) Desecrated A	Andariel (H)	Andarielq (H) Desecrated A	0
 superduriel	Soul of Duriel	superduriel	67		0	0	0	0	0	0	0		0	0	0	Duriel	Duriel Desecrated A	Duriel (N)	Duriel (N) Desecrated A	Duriel (H)	Duriel (H) Desecrated A	0
 supermeph	Soul of Mephisto	supermeph	68		0	0	0	0	0	0	0		0	0	0	Mephisto	Mephisto Desecrated A	Mephisto (N)	Mephisto (N) Desecrated A	Mephisto (H)	Mephisto (H) Desecrated A	0
 superdiablo	Soul of Diablo	superdiablo	69		0	0	0	0	0	0	0		0	0	0	Diablo	Diablo Desecrated A	Diablo (N)	Diablo (N) Desecrated A	Diablo (H)	Diablo (H) Desecrated A	0
