@@ -45,7 +45,7 @@ Tal Rune	r07L	18	r07	dmg-pois	100	154	154									res-pois		30	30									res-po
 Ral Rune	r08L	18	r08	dmg-fire		5	30									res-fire		30	30									res-fire		35	35								0
 Ort Rune	r09L	18	r09	dmg-ltng		1	50									res-ltng		30	30									res-ltng		35	35								0
 Thul Rune	r10L	18	r10	dmg-cold	75	3	14									res-cold		30	30									res-cold		35	35								0
-Amn Rune	r11L	18	r11	lifesteal		7	7									thorns		14	14									thorns		14	14								0
+Amn Rune	r11L	18	r11	lifesteal		7	7									thorns		50	50									thorns		50	50								0
 Sol Rune	r12L	18	r12	dmg-min		10	10									red-dmg		7	7									red-dmg		7	7								0
 Shael Rune	r13L	18	r13	swing2		20	20									balance2		20	20									block2		20	20								0
 Dol Rune	r14L	18	r14	cast1		20	20									cast1		10	10									cast1		10	10								0
@@ -56,7 +56,7 @@ Ko Rune	r18L	18	r18	dex		10	10									dex		10	10									dex		10	10								0
 Fal Rune	r19L	18	r19	str		10	10									str		10	10									str		10	10								0
 Lem Rune	r20L	18	r20	gold%		200	200									gold%		100	100									gold%		100	100								0
 Pul Rune	r21L	18	r21	att-demon		100	100	dmg-demon		100	100					ac%		50	50									ac%		50	50								0
-Um Rune	r22L	18	r22	openwounds		25	25									res-all		20	20									res-all		25	25								0
+Um Rune	r22L	18	r22	openwounds		25	25									res-all		25	25									res-all		25	25								0
 Mal Rune	r23L	18	r23	noheal		1	1									red-mag		7	7									red-mag		7	7								0
 Ist Rune	r24L	18	r24	mag%		50	50									mag%		50	50									mag%		50	50								0
 Gul Rune	r25L	18	r25	att		300	300									res-pois-max		5	5									res-pois-max		5	5								0
@@ -65,6 +65,6 @@ Ohm Rune	r27L	18	r27	dmg%		50	50									res-cold-max		5	5									res-cold-max	
 Lo Rune	r28L	18	r28	deadly		20	20									res-ltng-max		5	5									res-ltng-max		5	5								0
 Sur Rune	r29L	18	r29	stupidity		1	1									mana%		5	5									mana		50	50								0
 Ber Rune	r30L	18	r30	dmg-norm		20	30									red-dmg%		10	10									red-dmg%		10	10								0
-Jah Rune	r31L	18	r31	ignore-ac		1	1									hp%		5	5									hp		50	50								0
+Jah Rune	r31L	18	r31	ignore-ac		1	1	hp		20	20					hp%		5	5									hp		50	50								0
 Cham Rune	r32L	18	r32	freeze		3	3	dmg-cold		25	50					nofreeze		1	1	res-cold-max		5	5					nofreeze		1	1	res-cold-max		5	5				0
 Zod Rune	r33L	18	r33	indestruct		1	1	allskills		1	1					indestruct		1	1	allskills		1	1					indestruct		1	1	allskills		1	1				0

@@ -8858,7 +8858,7 @@
   },
   {
     "id": 2577,
-    "Key": "Mindrend",
+    "Key": "Skull Splitter",
     "enUS": "Skull Splitter",
     "zhTW": "劈顱斧",
     "deDE": "Schädelspalter",
@@ -8892,7 +8892,7 @@
   },
   {
     "id": 2579,
-    "Key": "Fechmars Axe",
+    "Key": "Axe of Fechmar",
     "enUS": "Axe of Fechmar",
     "zhTW": "費屈瑪之斧",
     "deDE": "Axt von Fechmar",
@@ -8926,7 +8926,7 @@
   },
   {
     "id": 2581,
-    "Key": "The Chieftan",
+    "Key": "The Chieftain",
     "enUS": "The Chieftain",
     "zhTW": "酋長",
     "deDE": "der Häuptling",
@@ -8960,7 +8960,7 @@
   },
   {
     "id": 2583,
-    "Key": "The Humongous",
+    "Key": "Humongous",
     "enUS": "Humongous",
     "zhTW": "巨無霸",
     "deDE": "Riese",
@@ -8977,7 +8977,7 @@
   },
   {
     "id": 2584,
-    "Key": "Iros Torch",
+    "Key": "Torch of Iro",
     "enUS": "Torch of Iro",
     "zhTW": "伊洛的火炬",
     "deDE": "Fackel von Iro",
@@ -8994,7 +8994,7 @@
   },
   {
     "id": 2585,
-    "Key": "Maelstromwrath",
+    "Key": "Maelstrom",
     "enUS": "Maelstrom",
     "zhTW": "漩渦",
     "deDE": "Mahlstrom",
@@ -9198,7 +9198,7 @@
   },
   {
     "id": 2597,
-    "Key": "Bonesob",
+    "Key": "Bonesnap",
     "enUS": "Bonesnap",
     "zhTW": "碎骨",
     "deDE": "Knochenbrecher",
@@ -9266,7 +9266,7 @@
   },
   {
     "id": 2601,
-    "Key": "Krintizs Skewer",
+    "Key": "Skewer of Krintiz",
     "enUS": "Skewer of Krintiz",
     "zhTW": "克里維茲的肉叉",
     "deDE": "Spieß von Krintis",
@@ -9521,7 +9521,7 @@
   },
   {
     "id": 2616,
-    "Key": "Irices Shard",
+    "Key": "Spectral Shard",
     "enUS": "Spectral Shard",
     "zhTW": "虹彩裂片",
     "deDE": "Geisterscherbe",
@@ -9759,7 +9759,7 @@
   },
   {
     "id": 2630,
-    "Key": "Lazarus Spire",
+    "Key": "Spire of Lazarus",
     "enUS": "Spire of Lazarus",
     "zhTW": "拉撒雷茲之杖",
     "deDE": "Spitze von Lazarus",
@@ -9844,7 +9844,7 @@
   },
   {
     "id": 2635,
-    "Key": "Rimeraven",
+    "Key": "Raven Claw",
     "enUS": "Raven Claw",
     "zhTW": "掠鴉之爪",
     "deDE": "Rabenklaue",
@@ -9861,7 +9861,7 @@
   },
   {
     "id": 2636,
-    "Key": "Piercerib",
+    "Key": "Rogues Bow",
     "enUS": "Rogue's Bow",
     "zhTW": "俠盜之弓",
     "deDE": "Jägerbogen",
@@ -9878,7 +9878,7 @@
   },
   {
     "id": 2637,
-    "Key": "Pullspite",
+    "Key": "Stormstrike",
     "enUS": "Stormstrike",
     "zhTW": "暴風之擊",
     "deDE": "Sturmschlag",
@@ -9997,7 +9997,7 @@
   },
   {
     "id": 2644,
-    "Key": "Doomspittle",
+    "Key": "Doomslinger",
     "enUS": "Doomslinger",
     "zhTW": "毀滅投索",
     "deDE": "Verdammnisbringer",
@@ -10014,7 +10014,7 @@
   },
   {
     "id": 2645,
-    "Key": "War Bonnet",
+    "Key": "Biggins Bonnet",
     "enUS": "Biggin's Bonnet",
     "zhTW": "畢格因的軟帽",
     "deDE": "Higgis Haube",
@@ -10269,7 +10269,7 @@
   },
   {
     "id": 2660,
-    "Key": "Venomsward",
+    "Key": "Venom Ward",
     "enUS": "Venom Ward",
     "zhTW": "毒之守禦",
     "deDE": "Giftschutz",
@@ -10371,7 +10371,7 @@
   },
   {
     "id": 2666,
-    "Key": "Victors Silk",
+    "Key": "Silks of the Victor",
     "enUS": "Silks of the Victor",
     "zhTW": "勝利者的絲綢",
     "deDE": "Seide des Siegers",
@@ -10711,7 +10711,7 @@
   },
   {
     "id": 2686,
-    "Key": "Lenyms Cord",
+    "Key": "Lenymo",
     "enUS": "Lenymo",
     "zhTW": "雷尼摩",
     "deDE": "Lenymo",
@@ -11102,7 +11102,7 @@
   },
   {
     "id": 10000,
-    "Key": "Cutthroat1",
+    "Key": "Bartuc's Cut-Throat",
     "enUS": "Bartuc's Cut-Throat",
     "zhTW": "霸圖克的割喉爪",
     "deDE": "Bartucs Halsabschneider",
@@ -12207,7 +12207,7 @@
   },
   {
     "id": 10911,
-    "Key": "Whichwild String",
+    "Key": "Witchwild String",
     "enUS": "Witchwild String",
     "zhTW": "狂巫之弦",
     "deDE": "Wilde Kette",
@@ -16984,7 +16984,7 @@
   },
   {
     "id": 21288,
-    "Key": "Butcher's Pupil",
+    "Key": "Butchers Pupil",
     "enUS": "Butcher's Pupil",
     "zhTW": "屠夫的徒弟",
     "deDE": "Schlachtergeselle",
@@ -17018,7 +17018,7 @@
   },
   {
     "id": 21290,
-    "Key": "Pompe's Wrath",
+    "Key": "Pompeiis Wrath",
     "enUS": "Pompeii's Wrath",
     "zhTW": "龐貝之怒",
     "deDE": "Pompejis Zorn",
@@ -17052,7 +17052,7 @@
   },
   {
     "id": 21292,
-    "Key": "Warlord's Trust",
+    "Key": "Warlords Trust",
     "enUS": "Warlord's Trust",
     "zhTW": "戰爵之證",
     "deDE": "Glaube des Kriegsherrn",
@@ -17239,7 +17239,7 @@
   },
   {
     "id": 21303,
-    "Key": "Zakrum's Hand",
+    "Key": "Zakrums Hand",
     "enUS": "Zakarum's Hand",
     "zhTW": "撒卡蘭姆之手",
     "deDE": "Zakarums Hand",
@@ -17681,7 +17681,7 @@
   },
   {
     "id": 21329,
-    "Key": "Blackbog's Sharp",
+    "Key": "Blackbogs Sharp",
     "enUS": "Blackbog's Sharp",
     "zhTW": "黑沼之鋒",
     "deDE": "Blackbogs Spitze",
@@ -17834,7 +17834,7 @@
   },
   {
     "id": 21338,
-    "Key": "Athena's Wrath",
+    "Key": "Athenas Wrath",
     "enUS": "Athena's Wrath",
     "zhTW": "雅典娜之怒",
     "deDE": "Athenes Zorn",
@@ -17885,7 +17885,7 @@
   },
   {
     "id": 21341,
-    "Key": "Grim's Burning Dead",
+    "Key": "Grims Burning Dead",
     "enUS": "Grim's Burning Dead",
     "zhTW": "懼焰亡靈",
     "deDE": "Grims Brennender Tod",
@@ -17953,7 +17953,7 @@
   },
   {
     "id": 21345,
-    "Key": "Skullcollector",
+    "Key": "Skull Collector",
     "enUS": "Skull Collector",
     "zhTW": "骷髏收集者",
     "deDE": "Schädelsammler",
@@ -18021,7 +18021,7 @@
   },
   {
     "id": 21350,
-    "Key": "Godstrike Arch",
+    "Key": "Goldstrike Arch",
     "enUS": "Goldstrike Arch",
     "zhTW": "金擊之拱",
     "deDE": "Goldschlagbogen",
@@ -18055,7 +18055,7 @@
   },
   {
     "id": 21352,
-    "Key": "Pus Spiter",
+    "Key": "Pus Spitter",
     "enUS": "Pus Spitter",
     "zhTW": "吐膿毒弩",
     "deDE": "Eiterspeier",
@@ -18089,7 +18089,7 @@
   },
   {
     "id": 21354,
-    "Key": "Vampiregaze",
+    "Key": "Vampire Gaze",
     "enUS": "Vampire Gaze",
     "zhTW": "吸血鬼的凝視",
     "deDE": "Vampirblick",
@@ -18123,7 +18123,7 @@
   },
   {
     "id": 21356,
-    "Key": "Gorerider",
+    "Key": "Gore Rider",
     "enUS": "Gore Rider",
     "zhTW": "蝕肉騎士",
     "deDE": "Blutreiter",
@@ -18140,7 +18140,7 @@
   },
   {
     "id": 21357,
-    "Key": "Lavagout",
+    "Key": "Lava Gout",
     "enUS": "Lava Gout",
     "zhTW": "熔岩之痛",
     "deDE": "Lavastoß",
@@ -18259,7 +18259,7 @@
   },
   {
     "id": 21364,
-    "Key": "Valkiry Wing",
+    "Key": "Valkyrie Wing",
     "enUS": "Valkyrie Wing",
     "zhTW": "女武神之翼",
     "deDE": "Walkürenflügel",
@@ -18276,7 +18276,7 @@
   },
   {
     "id": 21365,
-    "Key": "Peasent Crown",
+    "Key": "Peasant Crown",
     "enUS": "Peasant Crown",
     "zhTW": "農夫王冠",
     "deDE": "Bauernkrone",
@@ -18548,7 +18548,7 @@
   },
   {
     "id": 21381,
-    "Key": "Gutsiphon",
+    "Key": "Gut Siphon",
     "enUS": "Gut Siphon",
     "zhTW": "內臟吸管",
     "deDE": "Gedärmesauger",
@@ -18650,7 +18650,7 @@
   },
   {
     "id": 21387,
-    "Key": "Demonlimb",
+    "Key": "Demon Limb",
     "enUS": "Demon Limb",
     "zhTW": "惡魔肢體",
     "deDE": "Dämonenglied",
@@ -18667,7 +18667,7 @@
   },
   {
     "id": 21388,
-    "Key": "Steelshade",
+    "Key": "Steel Shade",
     "enUS": "Steel Shade",
     "zhTW": "鋼影",
     "deDE": "Stahlschatten",
@@ -18922,7 +18922,7 @@
   },
   {
     "id": 21403,
-    "Key": "Shadowdancer",
+    "Key": "Shadow Dancer",
     "enUS": "Shadow Dancer",
     "zhTW": "影舞者",
     "deDE": "Schattentänzer",
@@ -18990,7 +18990,7 @@
   },
   {
     "id": 21407,
-    "Key": "Souldrain",
+    "Key": "Soul Drainer",
     "enUS": "Soul Drainer",
     "zhTW": "吸魂者",
     "deDE": "Seelensauger",
@@ -19007,7 +19007,7 @@
   },
   {
     "id": 21408,
-    "Key": "Runemaster",
+    "Key": "Rune Master",
     "enUS": "Rune Master",
     "zhTW": "符文大師",
     "deDE": "Runenmeister",
@@ -19024,7 +19024,7 @@
   },
   {
     "id": 21409,
-    "Key": "Deathcleaver",
+    "Key": "Death Cleaver",
     "enUS": "Death Cleaver",
     "zhTW": "死亡劈斧",
     "deDE": "Todesbeil",
@@ -19347,7 +19347,7 @@
   },
   {
     "id": 21428,
-    "Key": "Spiritkeeper",
+    "Key": "Spirit Keeper",
     "enUS": "Spirit Keeper",
     "zhTW": "魂靈守衛者",
     "deDE": "Geistwächter",
@@ -19398,7 +19398,7 @@
   },
   {
     "id": 21431,
-    "Key": "Darkforge Spawn",
+    "Key": "Darkforce Spawn",
     "enUS": "Darkforce Spawn",
     "zhTW": "魔力肇生",
     "deDE": "Brut der Dunkelmacht",
@@ -19534,7 +19534,7 @@
   },
   {
     "id": 21439,
-    "Key": "Shadowkiller",
+    "Key": "Shadow Killer",
     "enUS": "Shadow Killer",
     "zhTW": "影殺者",
     "deDE": "Schattentöter",
@@ -19653,7 +19653,7 @@
   },
   {
     "id": 21446,
-    "Key": "Giantmaimer",
+    "Key": "Giant Maimer",
     "enUS": "Giant Maimer",
     "zhTW": "重殘",
     "deDE": "Riesenverstümmler",
@@ -19721,7 +19721,7 @@
   },
   {
     "id": 21450,
-    "Key": "Djinnslayer",
+    "Key": "Djinn Slayer",
     "enUS": "Djinn Slayer",
     "zhTW": "巨靈殺手",
     "deDE": "Dschinnschlächter",
@@ -20112,7 +20112,7 @@
   },
   {
     "id": 21473,
-    "Key": "Jadetalon",
+    "Key": "Jade Talon",
     "enUS": "Jade Talon",
     "zhTW": "碧玉爪",
     "deDE": "Jadeklaue",
@@ -20163,7 +20163,7 @@
   },
   {
     "id": 21476,
-    "Key": "Cerebus",
+    "Key": "Cerebus' Bite",
     "enUS": "Cerebus' Bite",
     "zhTW": "地獄犬之咬",
     "deDE": "Zerebus' Biss",
@@ -20690,7 +20690,7 @@
   },
   {
     "id": 21508,
-    "Key": "Bloodraven's Charge",
+    "Key": "Blood Raven's Charge",
     "enUS": "Blood Raven's Charge",
     "zhTW": "血鴉之擊",
     "deDE": "Blutrabes Ansturm",
@@ -20945,7 +20945,7 @@
   },
   {
     "id": 21523,
-    "Key": "Blackhorn's Face",
+    "Key": "Blackhorns Face",
     "enUS": "Blackhorn's Face",
     "zhTW": "黑荊角面具",
     "deDE": "Schwarzhorns Gesicht",
@@ -20996,7 +20996,7 @@
   },
   {
     "id": 21526,
-    "Key": "Ironpelt",
+    "Key": "Iron Pelt",
     "enUS": "Iron Pelt",
     "zhTW": "鋼鐵獸皮",
     "deDE": "Eisenpelz",
@@ -21013,7 +21013,7 @@
   },
   {
     "id": 21527,
-    "Key": "Spiritforge",
+    "Key": "Spirit Forge",
     "enUS": "Spirit Forge",
     "zhTW": "靈魂熔爐",
     "deDE": "Geisterschmiede",
@@ -21064,7 +21064,7 @@
   },
   {
     "id": 21530,
-    "Key": "Skullder's Ire",
+    "Key": "Skullders Ire",
     "enUS": "Skullder's Ire",
     "zhTW": "斯寇德的憤怒",
     "deDE": "Skullders Zorn",
@@ -21353,7 +21353,7 @@
   },
   {
     "id": 21547,
-    "Key": "Wartraveler",
+    "Key": "War Traveler",
     "enUS": "War Traveler",
     "zhTW": "戰爭旅者",
     "deDE": "Kriegsreisender",
@@ -21387,7 +21387,7 @@
   },
   {
     "id": 21549,
-    "Key": "Gloomstrap",
+    "Key": "Glooms Trap",
     "enUS": "Gloom's Trap",
     "zhTW": "陰影陷阱",
     "deDE": "Düsterfalle",
@@ -21421,7 +21421,7 @@
   },
   {
     "id": 21551,
-    "Key": "Thudergod's Vigor",
+    "Key": "Thundergod's Vigor",
     "enUS": "Thundergod's Vigor",
     "zhTW": "雷神之力",
     "deDE": "Donnergotts Gedeihen",
@@ -21506,7 +21506,7 @@
   },
   {
     "id": 21556,
-    "Key": "Steelpillar",
+    "Key": "Steel Pillar",
     "enUS": "Steel Pillar",
     "zhTW": "鋼鐵之柱",
     "deDE": "Stahlsäule",
@@ -21625,7 +21625,7 @@
   },
   {
     "id": 21563,
-    "Key": "Steel Carapice",
+    "Key": "Steel Carapace",
     "enUS": "Steel Carapace",
     "zhTW": "鋼鐵甲殼",
     "deDE": "Stahlrückenschild",
@@ -22543,7 +22543,7 @@
   },
   {
     "id": 21617,
-    "Key": "Bul Katho's Wedding Band",
+    "Key": "Bul-Kathos' Wedding Band",
     "enUS": "Bul-Kathos' Wedding Band",
     "zhTW": "布爾凱索的婚戒",
     "deDE": "Bul Kathos' Hochzeitsring",
@@ -22730,7 +22730,7 @@
   },
   {
     "id": 21629,
-    "Key": "Kerke's Sanctuary",
+    "Key": "Gerke's Sanctuary",
     "enUS": "Gerke's Sanctuary",
     "zhTW": "基爾克的聖堂",
     "deDE": "Gerkes Zuflucht",
@@ -22764,7 +22764,7 @@
   },
   {
     "id": 21631,
-    "Key": "Que-Hegan's Wisdon",
+    "Key": "Que-Hegan's Wisdom",
     "enUS": "Que-Hegan's Wisdom",
     "zhTW": "教宗的智慧",
     "deDE": "Que-Hegans Weisheit",
@@ -23087,7 +23087,7 @@
   },
   {
     "id": 21650,
-    "Key": "Deaths's Web",
+    "Key": "Death's Web",
     "enUS": "Death's Web",
     "zhTW": "死亡之網",
     "deDE": "Todesnetz",
@@ -23155,7 +23155,7 @@
   },
   {
     "id": 21654,
-    "Key": "The Atlantian",
+    "Key": "The Atlantean",
     "enUS": "The Atlantean",
     "zhTW": "亞特蘭提恩",
     "deDE": "Der Atlantide",
@@ -23206,7 +23206,7 @@
   },
   {
     "id": 21657,
-    "Key": "Zakarum's Hand",
+    "Key": "Zakarums Hand",
     "enUS": "Zakarum's Hand",
     "zhTW": "撒卡蘭姆之手",
     "deDE": "Zakarums Hand",
@@ -23240,7 +23240,7 @@
   },
   {
     "id": 21659,
-    "Key": "The Minataur",
+    "Key": "The Minotaur",
     "enUS": "The Minotaur",
     "zhTW": "牛頭怪",
     "deDE": "Der Minotaurus",
@@ -25450,7 +25450,7 @@
   },
   {
     "id": 21829,
-    "Key": "Ginther's Rift",
+    "Key": "Ginthers Rift",
     "enUS": "Ginther's Rift",
     "zhTW": "金瑟的裂隙",
     "deDE": "Ginthers Zerrissenheit",

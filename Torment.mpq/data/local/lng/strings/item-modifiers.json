@@ -4201,19 +4201,19 @@
   {
     "id": 11003,
     "Key": "StrSklTabItem9",
-    "enUS": "+%d to Summoning Skills",
-    "zhTW": "+%d 召喚技能",
-    "deDE": "+%d zu Herbeirufungfertigkeiten",
-    "esES": "+%d a las habilidades de invocación",
-    "frFR": "+%d en invocation",
-    "itIT": "+%d alle Magie di evocazione",
-    "koKR": "소환 기술 +%d",
-    "plPL": "+%d do umiejętności Przywoływania",
-    "esMX": "+%d a las habilidades de Invocación",
-    "jaJP": "〈召喚〉スキル向上（+%d）",
-    "ptBR": "+%d para habilidades Evocação",
-    "ruRU": "+%d к умениям призыва",
-    "zhCN": "+%d 召唤术"
+    "enUS": "%+d to Summoning Skills",
+    "zhTW": "%+d 召喚技能",
+    "deDE": "%+d zu Herbeirufungfertigkeiten",
+    "esES": "%+d a las habilidades de invocación",
+    "frFR": "%+d en invocation",
+    "itIT": "%+d alle Magie di evocazione",
+    "koKR": "소환 기술 %+d",
+    "plPL": "%+d do umiejętności Przywoływania",
+    "esMX": "%+d a las habilidades de Invocación",
+    "jaJP": "〈召喚〉スキル向上（%+d）",
+    "ptBR": "%+d para habilidades Evocação",
+    "ruRU": "%+d к умениям призыва",
+    "zhCN": "%+d 召唤术"
   },
   {
     "id": 11018,
@@ -6407,5 +6407,22 @@
     "ptBR": "-%d%% às resistências elementais de todos os inimigos",
     "ruRU": "-%d%% ко всем стихийным сопротивлениям противников",
     "zhCN": "所有敌人的元素抗性 -%d%%"
+  },
+  {
+    "id": 30031,
+    "Key": "ModStrMaxAllRes",
+    "enUS": "%+d%% to Maximum All Resist",
+    "zhTW": "所有抗性上限 %+d%%",
+    "deDE": "%+d%% zu maximalen allen Widerständen",
+    "esES": "%+d%% a todas las resistencias máximas",
+    "frFR": "%+d%% à toutes les résistances maximales",
+    "itIT": "%+d%% a tutte le resistenze massime",
+    "koKR": "모든 저항 최대치 %+d%%",
+    "plPL": "%+d%% do maksymalnych wszystkich odporności",
+    "esMX": "%+d%% a todas las resistencias máximas",
+    "jaJP": "全耐性最大値 %+d%%",
+    "ptBR": "%+d%% a todas as resistências máximas",
+    "ruRU": "%+d%% ко всем максимальным сопротивлениям",
+    "zhCN": "所有抗性上限 %+d%%"
   }
 ]
