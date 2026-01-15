@@ -495,35 +495,35 @@ Act 4 Cpot B	12	29	2					0	Hpotion 3	1	Hpotion 4	2																				0
 Act 5 Cpot A	12	32	2					0	Hpotion 4	1	Hpotion 5	2																				0
 Act 5 Cpot B	12	34	2					0	Hpotion 4	1	Hpotion 5	2																				0
 Act 5 Cpot C	12	36	2					0	Hpotion 4	1	Hpotion 5	2																				0
-Act 1 (N) Cpot A	12	38	2					0	Hpotion 4	1	Hpotion 5	2	Hpotion 6	4																		0
-Act 1 (N) Cpot B	12	40	2					0	Hpotion 4	1	Hpotion 5	2	Hpotion 6	4						7												0
-Act 1 (N) Cpot C	12	41	2					0	Hpotion 4	1	Hpotion 5	2	Hpotion 6	4						7												0
-Act 2 (N) Cpot A	12	42	2					0	Hpotion 4	1	Hpotion 5	2	Hpotion 6	4						7												0
-Act 2 (N) Cpot B	12	44	2					0	Hpotion 4	1	Hpotion 5	2	Hpotion 6	4						7												0
-Act 2 (N) Cpot C	12	45	2					0	Hpotion 4	1	Hpotion 5	2	Hpotion 6	4						7												0
-Act 3 (N) Cpot A	12	46	2					0	rvs	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
-Act 3 (N) Cpot B	12	48	2					0	rvs	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
-Act 3 (N) Cpot C	12	50	2					0	rvs	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
-Act 4 (N) Cpot A	12	51	2					0	rvs	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
-Act 4 (N) Cpot B	12	54	2					0	rvs	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
-Act 5 (N) Cpot A	12	57	2					0	rvs	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
-Act 5 (N) Cpot B	12	60	2					0	rvs	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
-Act 5 (N) Cpot C	12	62	2					0	rvs	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
-Act 1 (H) Cpot A	12	63	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
-Act 1 (H) Cpot B	12	66	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
-Act 1 (H) Cpot C	12	68	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
-Act 2 (H) Cpot A	12	69	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
-Act 2 (H) Cpot B	12	71	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
-Act 2 (H) Cpot C	12	72	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
-Act 3 (H) Cpot A	12	74	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
-Act 3 (H) Cpot B	12	75	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
-Act 3 (H) Cpot C	12	77	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
-Act 4 (H) Cpot A	12	78	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
-Act 4 (H) Cpot B	12	80	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
-Act 5 (H) Cpot A	12	81	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
-Act 5 (H) Cpot B	12	83	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
-Act 5 (H) Cpot C	12	85	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
-Act 1 Champ A	13	0	-3					0	Act 1 Citem A	1	Act 1 Cpot A	2																				0
+Act 1 (N) Cpot A	12	38	1					0	Hpotion 4	1	Hpotion 5	2	Hpotion 6	4																		0
+Act 1 (N) Cpot B	12	40	1					0	Hpotion 4	1	Hpotion 5	2	Hpotion 6	4						7												0
+Act 1 (N) Cpot C	12	41	1					0	Hpotion 4	1	Hpotion 5	2	Hpotion 6	4						7												0
+Act 2 (N) Cpot A	12	42	1					0	Hpotion 4	1	Hpotion 5	2	Hpotion 6	4						7												0
+Act 2 (N) Cpot B	12	44	1					0	Hpotion 4	1	Hpotion 5	2	Hpotion 6	4						7												0
+Act 2 (N) Cpot C	12	45	1					0	Hpotion 4	1	Hpotion 5	2	Hpotion 6	4						7												0
+Act 3 (N) Cpot A	12	46	1					0	rvs	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
+Act 3 (N) Cpot B	12	48	1					0	rvs	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
+Act 3 (N) Cpot C	12	50	1					0	rvs	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
+Act 4 (N) Cpot A	12	51	1					0	rvs	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
+Act 4 (N) Cpot B	12	54	1					0	rvs	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
+Act 5 (N) Cpot A	12	57	1					0	rvs	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
+Act 5 (N) Cpot B	12	60	1					0	rvs	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
+Act 5 (N) Cpot C	12	62	1					0	rvs	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
+Act 1 (H) Cpot A	12	63	1					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
+Act 1 (H) Cpot B	12	66	1					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
+Act 1 (H) Cpot C	12	68	1					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
+Act 2 (H) Cpot A	12	69	1					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
+Act 2 (H) Cpot B	12	71	1					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
+Act 2 (H) Cpot C	12	72	1					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
+Act 3 (H) Cpot A	12	74	1					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
+Act 3 (H) Cpot B	12	75	1					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
+Act 3 (H) Cpot C	12	77	1					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
+Act 4 (H) Cpot A	12	78	1					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
+Act 4 (H) Cpot B	12	80	1					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
+Act 5 (H) Cpot A	12	81	1					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
+Act 5 (H) Cpot B	12	83	1					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
+Act 5 (H) Cpot C	12	85	1					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
+Act 1 Champ A	13	0	-2					0	Act 1 Citem A	1	Act 1 Cpot A	1																				0
 Act 1 Champ B	13	5	-2					0	Act 1 Citem B	1	Act 1 Cpot B	1																				0
 Act 1 Champ C	13	9	-2					0	Act 1 Citem C	1	Act 1 Cpot C	1																				0
 Act 2 Champ A	13	12	-2					0	Act 2 Citem A	1	Act 2 Cpot A	1																				0
@@ -537,35 +537,35 @@ Act 4 Champ B	13	29	-2					0	Act 4 Citem B	1	Act 4 Cpot B	1																				0
 Act 5 Champ A	13	32	-2					0	Act 5 Citem A	1	Act 5 Cpot A	1																				0
 Act 5 Champ B	13	34	-2					0	Act 5 Citem B	1	Act 5 Cpot B	1																				0
 Act 5 Champ C	13	36	-2					0	Act 5 Citem C	1	Act 5 Cpot C	1																				0
-Act 1 (N) Champ A	13	38	-3					0	Act 1 (N) Citem A	1	Act 1 (N) Cpot A	2																				0
-Act 1 (N) Champ B	13	40	-3					0	Act 1 (N) Citem B	1	Act 1 (N) Cpot B	2																				0
-Act 1 (N) Champ C	13	41	-3					0	Act 1 (N) Citem C	1	Act 1 (N) Cpot C	2																				0
-Act 2 (N) Champ A	13	42	-3					0	Act 2 (N) Citem A	1	Act 2 (N) Cpot A	2																				0
-Act 2 (N) Champ B	13	44	-3					0	Act 2 (N) Citem B	1	Act 2 (N) Cpot B	2																				0
-Act 2 (N) Champ C	13	45	-3					0	Act 2 (N) Citem C	1	Act 2 (N) Cpot C	2																				0
-Act 3 (N) Champ A	13	46	-3					0	Act 3 (N) Citem A	1	Act 3 (N) Cpot A	2																				0
-Act 3 (N) Champ B	13	48	-3					0	Act 3 (N) Citem B	1	Act 3 (N) Cpot B	2																				0
-Act 3 (N) Champ C	13	50	-3					0	Act 3 (N) Citem C	1	Act 3 (N) Cpot C	2																				0
-Act 4 (N) Champ A	13	51	-3					0	Act 4 (N) Citem A	1	Act 4 (N) Cpot A	2																				0
-Act 4 (N) Champ B	13	54	-3					0	Act 4 (N) Citem B	1	Act 4 (N) Cpot B	2																				0
-Act 4 (N) Champ C	13	56	-3					0	Act 4 (N) Citem B	1	Act 4 (N) Cpot B	2																				0
-Act 5 (N) Champ A	13	57	-3					0	Act 5 (N) Citem A	1	Act 5 (N) Cpot A	2																				0
-Act 5 (N) Champ B	13	60	-3					0	Act 5 (N) Citem B	1	Act 5 (N) Cpot B	2																				0
-Act 5 (N) Champ C	13	62	-3					0	Act 5 (N) Citem C	1	Act 5 (N) Cpot C	2																				0
-Act 1 (H) Champ A	13	63	-4					0	Act 1 (H) Citem A	1	Act 1 (H) Cpot A	3																				0
-Act 1 (H) Champ B	13	66	-4					0	Act 1 (H) Citem B	1	Act 1 (H) Cpot B	3																				0
-Act 1 (H) Champ C	13	68	-4					0	Act 1 (H) Citem C	1	Act 1 (H) Cpot C	3																				0
-Act 2 (H) Champ A	13	69	-4					0	Act 2 (H) Citem A	1	Act 2 (H) Cpot A	3																				0
-Act 2 (H) Champ B	13	71	-4					0	Act 2 (H) Citem B	1	Act 2 (H) Cpot B	3																				0
-Act 2 (H) Champ C	13	72	-4					0	Act 2 (H) Citem C	1	Act 2 (H) Cpot C	3																				0
-Act 3 (H) Champ A	13	74	-4					0	Act 3 (H) Citem A	1	Act 3 (H) Cpot A	3																				0
-Act 3 (H) Champ B	13	75	-4					0	Act 3 (H) Citem B	1	Act 3 (H) Cpot B	3																				0
-Act 3 (H) Champ C	13	77	-4					0	Act 3 (H) Citem C	1	Act 3 (H) Cpot C	3																				0
-Act 4 (H) Champ A	13	78	-4					0	Act 4 (H) Citem A	1	Act 4 (H) Cpot A	3																				0
-Act 4 (H) Champ B	13	80	-4					0	Act 4 (H) Citem B	1	Act 4 (H) Cpot B	3																				0
-Act 5 (H) Champ A	13	81	-4					0	Act 5 (H) Citem A	1	Act 5 (H) Cpot A	3																				0
-Act 5 (H) Champ B	13	83	-4					0	Act 5 (H) Citem B	1	Act 5 (H) Cpot B	3																				0
-Act 5 (H) Champ C	13	85	-4					0	Act 5 (H) Citem C	1	Act 5 (H) Cpot C	3																				0
+Act 1 (N) Champ A	13	38	-3					0	Act 1 (N) Citem A	2	Act 1 (N) Cpot A	1																				0
+Act 1 (N) Champ B	13	40	-3					0	Act 1 (N) Citem B	2	Act 1 (N) Cpot B	1																				0
+Act 1 (N) Champ C	13	41	-3					0	Act 1 (N) Citem C	2	Act 1 (N) Cpot C	1																				0
+Act 2 (N) Champ A	13	42	-3					0	Act 2 (N) Citem A	2	Act 2 (N) Cpot A	1																				0
+Act 2 (N) Champ B	13	44	-3					0	Act 2 (N) Citem B	2	Act 2 (N) Cpot B	1																				0
+Act 2 (N) Champ C	13	45	-3					0	Act 2 (N) Citem C	2	Act 2 (N) Cpot C	1																				0
+Act 3 (N) Champ A	13	46	-3					0	Act 3 (N) Citem A	2	Act 3 (N) Cpot A	1																				0
+Act 3 (N) Champ B	13	48	-3					0	Act 3 (N) Citem B	2	Act 3 (N) Cpot B	1																				0
+Act 3 (N) Champ C	13	50	-3					0	Act 3 (N) Citem C	2	Act 3 (N) Cpot C	1																				0
+Act 4 (N) Champ A	13	51	-3					0	Act 4 (N) Citem A	2	Act 4 (N) Cpot A	1																				0
+Act 4 (N) Champ B	13	54	-3					0	Act 4 (N) Citem B	2	Act 4 (N) Cpot B	1																				0
+Act 4 (N) Champ C	13	56	-3					0	Act 4 (N) Citem B	2	Act 4 (N) Cpot B	1																				0
+Act 5 (N) Champ A	13	57	-3					0	Act 5 (N) Citem A	2	Act 5 (N) Cpot A	1																				0
+Act 5 (N) Champ B	13	60	-3					0	Act 5 (N) Citem B	2	Act 5 (N) Cpot B	1																				0
+Act 5 (N) Champ C	13	62	-3					0	Act 5 (N) Citem C	2	Act 5 (N) Cpot C	1																				0
+Act 1 (H) Champ A	13	63	-4					0	Act 1 (H) Citem A	3	Act 1 (H) Cpot A	1																				0
+Act 1 (H) Champ B	13	66	-4					0	Act 1 (H) Citem B	3	Act 1 (H) Cpot B	1																				0
+Act 1 (H) Champ C	13	68	-4					0	Act 1 (H) Citem C	3	Act 1 (H) Cpot C	1																				0
+Act 2 (H) Champ A	13	69	-4					0	Act 2 (H) Citem A	3	Act 2 (H) Cpot A	1																				0
+Act 2 (H) Champ B	13	71	-4					0	Act 2 (H) Citem B	3	Act 2 (H) Cpot B	1																				0
+Act 2 (H) Champ C	13	72	-4					0	Act 2 (H) Citem C	3	Act 2 (H) Cpot C	1																				0
+Act 3 (H) Champ A	13	74	-4					0	Act 3 (H) Citem A	3	Act 3 (H) Cpot A	1																				0
+Act 3 (H) Champ B	13	75	-4					0	Act 3 (H) Citem B	3	Act 3 (H) Cpot B	1																				0
+Act 3 (H) Champ C	13	77	-4					0	Act 3 (H) Citem C	3	Act 3 (H) Cpot C	1																				0
+Act 4 (H) Champ A	13	78	-4					0	Act 4 (H) Citem A	3	Act 4 (H) Cpot A	1																				0
+Act 4 (H) Champ B	13	80	-4					0	Act 4 (H) Citem B	3	Act 4 (H) Cpot B	1																				0
+Act 5 (H) Champ A	13	81	-4					0	Act 5 (H) Citem A	3	Act 5 (H) Cpot A	1																				0
+Act 5 (H) Champ B	13	83	-4					0	Act 5 (H) Citem B	3	Act 5 (H) Cpot B	1																				0
+Act 5 (H) Champ C	13	85	-4					0	Act 5 (H) Citem C	3	Act 5 (H) Cpot C	1																				0
 Act 1 Uitem A	14	0	1	800	800	800	1024	0	Act 1 Equip A	58	Act 1 Good	4																				0
 Act 1 Uitem B	14	5	1	800	800	800	1024	0	Act 1 Equip B	58	Act 1 Good	4																				0
 Act 1 Uitem C	14	9	1	800	800	800	1024	0	Act 1 Equip C	58	Act 1 Good	4																				0

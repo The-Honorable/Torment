@@ -405,8 +405,8 @@ Cold Rupture	401	100	1		1	1	70	70	cm3	charm		3	5000	lblu	lblu						pierce-immuni
 Flame Rift	402	100	1		1	1	70	70	cm3	charm		3	5000	lred	lred						pierce-immunity-fire		300	300	res-fire		-90	0																																										0
 Crack of the Heavens	403	100	1		1	1	70	70	cm3	charm		3	5000	lyel	lyel						pierce-immunity-light		300	300	res-ltng		-90	0																																										0
 Rotting Fissure	404	100	1		1	1	70	70	cm3	charm		3	5000	lgrn	lgrn						pierce-immunity-poison		300	300	res-pois		-90	0																																										0
-Bone Break	405	100	1		1	1	70	70	cm3	charm		3	5000	whit	whit						pierce-immunity-damage		300	300	red-dmg%		-50	0																																										0
-Black Cleft	406	100	1		1	1	70	70	cm3	charm		3	5000	lgry	lgry						pierce-immunity-magic		300	300	res-mag		-50	0																																										0
+Bone Break	405	100	1		1	1	70	70	cm3	charm		3	5000	whit	whit						pierce-immunity-damage		300	300	red-dmg%		-20	0																																										0
+Black Cleft	406	100	1		1	1	70	70	cm3	charm		3	5000	lgry	lgry						pierce-immunity-magic		300	300	res-mag		-40	0																																										0
 Fourfold	407	100	1		1	1	40	50	cm1	charm	1	3	5000								res-fire		10	20	res-cold		10	20	res-ltng		10	20	res-pois		10	20																																		0
 Siphon	408	100	1		1	1	25	30	cm1	charm	1	3	5000								heal-kill		3	5	mana-kill		3	5																																										0
 Renewal	409	100	1		1	1	40	50	cm1	charm	1	3	5000								regen-mana		50	50	regen		15	15																																										0
@@ -418,7 +418,7 @@ Ashrend	414	100	1		1	1	60	70	cm2	charm	1	3	5000	lred	lred						pierce-fire		5	10
 Frostrend	415	100	1		1	1	60	70	cm2	charm	1	3	5000	lblu	lblu						pierce-cold		5	10																																														0
 Stormrend	416	100	1		1	1	60	70	cm2	charm	1	3	5000	lyel	lyel						pierce-ltng		5	10																																														0
 Rotrend	417	100	1		1	1	60	70	cm2	charm	1	3	5000	lgrn	lgrn						pierce-pois		5	10																																														0
-Warbrand	418	100	1		1	1	60	70	cm2	charm	1	3	5000								dmg%		30	50																																														0
+Warbrand	418	100	1		1	1	60	70	cm2	charm	1	3	5000	whit	whit						dmg%		30	50																																														0
 Prime Sigil	419	100	1		1	1	70	75	cm3	charm	1	3	5000	bwht	bwht						allskills		1	1																																														0
 Pyre Sigil	420	100	1		1	1	70	75	cm3	charm	1	3	5000	lred	lred						fireskill		1	1																																														0
 Rime Sigil	421	100	1		1	1	70	75	cm3	charm	1	3	5000	lblu	lblu						coldskill		1	1																																														0
