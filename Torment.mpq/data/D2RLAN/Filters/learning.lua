@@ -25,14 +25,12 @@ return {-- The below settings are all optional, default/false entries will be as
             -- charm drop notify
 			codes = {"cm1","cm2","cm3"},
 			location = { "onground"},
-			suffix = " ({ilvl})",
             notify = "ÿc3Charm Dropped: {name}"
 		},
         {
             -- jewel drop notify
 			codes = {"jew"},
 			location = { "onground"},
-			suffix = " ({ilvl})",
             notify = "ÿc3Jewel Dropped: {name}"
 		},
         {

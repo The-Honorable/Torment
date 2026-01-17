@@ -50,7 +50,7 @@ Runeword48	Hand of Justice	1		110	weap									SurChamAmnLo	r29	r32	r11	r28			sw
 Runeword49	Harmony	1		Previously Ladder Only	miss									TirIthSolKo	r03	r06	r12	r18			dmg%		200	250	dmg-elem		55	160	aura	Vigor	10	10	oskill	Valkyrie	5	10	regen-mana		30	30	light		1	1					0
 Runeword50	Hatred																																																0
 Runeword51	Heart of the Oak	1		110	staf	mace								KoVexPulThul	r18	r26	r21	r10			cast2		40	40	oskill	Oak Sage	10	10	mana%		15	15	allskills		3	3	regen		20	20	res-all		30	40	oskill	Raven	10	10	0
-Runeword52	Heaven's Will																																																0
+Runeword52	Heaven's Will	1			scep	pala								DolLumDol	r14	r17	r14				pal		2	2	mana		50	100	mana-kill		4	8	skill	Holy Shield	3	3	balance1		15	15									0
 Runeword53	Holy Tears																																																0
 Runeword54	Holy Thunder	1		109	weap									EthRalOrtTal	r05	r08	r09	r07			dmg%		100	133	dmg-ltng		20	100	dmg-max		10	15	res-ltng		50	50	res-ltng-max		5	5	skill	Holy Shock	3	3	pierce-ltng		10	10	0
 Runeword55	Honor	1		109	weap									AmnElIthTirSol	r11	r01	r06	r03	r12		dmg%		150	200	regen		10	10	allskills		1	1	att		200	200	deadly		25	25	str		10	10					0

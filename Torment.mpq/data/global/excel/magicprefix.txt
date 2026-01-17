@@ -121,19 +121,19 @@ Expansion
 Stout	100	1	1	1		1				4	100	ac		3	5										lcha	armo											0	0
 Stout	100	1	1	10		10				4	100	ac		6	9										lcha	armo											0	0
 Stout	100	1	1	20		20				4	100	ac		10	12										lcha	armo											0	0
-Burly	100	1	1	30		30				4	100	ac		13	15										lcha	armo											0	0
-Burly	100	1	1	40		40				4	100	ac		16	22										lcha	armo											0	0
-Burly	100	1	1	50		50				4	100	ac		23	30										lcha	armo											0	0
-Stalwart	100	1	1	60		60				4	100	ac		33	40										lcha	armo											0	0
-Stalwart	100	1	1	70		70				4	100	ac		44	50										lcha	armo											0	0
-Stalwart	100	1	1	80		80				4	100	ac		60	100										lcha	armo											0	0
+Burly	100	1	1	25		25				4	100	ac		13	15										lcha	armo											0	0
+Burly	100	1	1	30		30				4	100	ac		16	22										lcha	armo											0	0
+Burly	100	1	1	40		40				4	100	ac		23	30										lcha	armo											0	0
+Stalwart	100	1	1	50		50				4	100	ac		33	40										lcha	armo											0	0
+Stalwart	100	1	1	60		60				4	100	ac		44	50										lcha	armo											0	0
+Stalwart	100	1	1	70		70				4	100	ac		60	100										lcha	armo											0	0
 Stout	100	1	1	1		1				4	100	ac		2	3										mcha												0	0
 Stout	100	1	1	10		10				4	100	ac		4	6										mcha												0	0
 Stout	100	1	1	20		20				4	100	ac		8	12										mcha												0	0
 Burly	100	1	1	30		30				4	100	ac		13	18										mcha												0	0
 Burly	100	1	1	45		45				4	100	ac		20	30										mcha												0	0
 Stalwart	100	1	1	60		60				4	100	ac		30	40										mcha												0	0
-Stalwart	100	1	1	80		80				4	100	ac		45	60										mcha												0	0
+Stalwart	100	1	1	70		70				4	100	ac		45	60										mcha												0	0
 Stout	100	1	1	1		1				4	100	ac		1	2										scha												0	0
 Stout	100	1	1	15		15				4	100	ac		4	8										scha												0	0
 Burly	100	1	1	30		30				4	100	ac		15	20										scha												0	0
@@ -158,13 +158,13 @@ Red	100	0	1	3	90	3				4	103	dmg-min		1	2									dred	lcha												0	0
 Red	100	0	1	15		15				4	103	dmg-min		3	4									dred	lcha												0	0
 Sanguinary	100	0	1	30		30				4	103	dmg-min		4	5									dred	lcha												0	0
 Sanguinary	100	0	1	60		60				4	103	dmg-min		5	7									dred	lcha												0	0
-Bloody	100	0	1	80		80				4	103	dmg-min		8	10									dred	lcha												0	0
+Bloody	100	0	1	70		70				4	103	dmg-min		8	10									dred	lcha												0	0
 Red	100	0	1	10		10				4	103	dmg-min		1	2									dred	mcha												0	0
 Sanguinary	100	0	1	30		30				4	103	dmg-min		3	4									dred	mcha												0	0
 Bloody	100	0	1	70		70				4	103	dmg-min		4	5									dred	mcha												0	0
 Red	100	0	1	10		10				4	103	dmg-min		1	1									dred	scha												0	0
 Sanguinary	100	0	1	40		40				4	103	dmg-min		2	3									dred	scha												0	0
-Bloody	100	0	1	80		80				4	103	dmg-min		3	4									dred	scha												0	0
+Bloody	100	0	1	70		70				4	103	dmg-min		3	4									dred	scha												0	0
 Scarlet	100	1	1	10		10				4	103	dmg-min		2	5									dred	jewl												0	0
 Crimson	100	1	1	50		50				4	103	dmg-min		5	10									dred	jewl												0	0
 Jagged	100	0	1	3		3				4	104	dmg-max		1	2									blac	lcha												0	0
@@ -173,7 +173,7 @@ Jagged	100	0	1	30		30				4	104	dmg-max		5	6									blac	lcha												0	0
 Forked	100	0	1	40		40				4	104	dmg-max		7	8									blac	lcha												0	0
 Forked	100	0	1	60		60				4	104	dmg-max		9	10									blac	lcha												0	0
 Serrated	100	0	1	70		70				4	104	dmg-max		11	12									blac	lcha												0	0
-Serrated	100	0	1	85		85				4	104	dmg-max		13	14									blac	lcha												0	0
+Serrated	100	0	1	80		80				4	104	dmg-max		13	14									blac	lcha												0	0
 Jagged	100	0	1	10		7				4	104	dmg-max		1	1									blac	mcha												0	0
 Jagged	100	0	1	20		15				4	104	dmg-max		2	2									blac	mcha												0	0
 Forked	100	0	1	30		22				4	104	dmg-max		3	3									blac	mcha												0	0
@@ -231,8 +231,8 @@ Bronze	100	1	1	5	80	5				4	110	att		6	12										mcha												0	0
 Bronze	100	1	1	10		10				4	110	att		13	25										mcha												0	0
 Iron	100	1	1	30		30				4	110	att		26	38										mcha												0	0
 Iron	100	1	1	60		60				4	110	att		39	51										mcha												0	0
-Steel	100	1	1	70		70				4	110	att		52	64										mcha												0	0
-Steel	100	1	1	80		80				4	110	att		65	77										mcha												0	0
+Steel	100	1	1	65		65				4	110	att		52	64										mcha												0	0
+Steel	100	1	1	70		70				4	110	att		65	77										mcha												0	0
 Bronze	100	1	1	1	60	1				4	110	att		2	4										scha												0	0
 Bronze	100	1	1	20	80	20				4	110	att		6	12										scha												0	0
 Iron	100	1	1	50		50				4	110	att		13	24										scha												0	0
@@ -245,7 +245,7 @@ Gold	1	1	1	30		30				6	110	att		81	100									lgld	weap	ring	circ					wand	orb	
 Platinum	1	1	1	40		40				6	110	att		101	120									lgld	weap	ring	circ					wand	orb	staf			0	0
 Meteoric	1	1	1	50		50				5	110	att		121	150									lgld	weap							wand	orb	staf			0	0
 Strange	100	1	1	60		60				4	110	att		151	300									lgld	weap							wand	orb	staf			0	0
-Weird	100	1	1	80		80				3	110	att		301	450									lgld	weap							wand	orb	staf			0	0
+Weird	100	1	1	70		70				3	110	att		301	450									lgld	weap							wand	orb	staf			0	0
 Nickel	100	1	1	1		1				4	110	att		10	20										jewl												0	0
 Tin	100	1	1	15		15				4	110	att		21	40										jewl												0	0
 Silver	100	1	1	30		30				3	110	att		41	60										jewl												0	0
@@ -264,7 +264,7 @@ Knight's	1	1	1	50	90	50				5	111	att		81	100	dmg%		81	100					dgld	weap							wa
 Lord's	1	1	1	60		60				4	111	att		101	120	dmg%		101	120					dgld	weap							wand	orb				0	0
 King's	1	1	1	70		70				3	111	att		121	150	dmg%		121	150					dgld	weap							wand	orb				0	0
 Master's	100	1	1	80		80				2	111	att		151	250	dmg%		151	250					dgld	weap							wand	orb				0	0
-Grandmaster's	100	1	1	90		90				1	111	att		251	300	dmg%		251	300					dgld	weap							wand	orb				0	0
+Grandmaster's	100	1	1	85		85				1	111	att		251	300	dmg%		251	300					dgld	weap							wand	orb				0	0
 Glimmering	1	1	1	1		1				1	112	light		1	1										armo	wand	staf	ring	amul	orb							0	0
 Glowing	1	1	1	60		60				1	112	light		2	2									lyel	armo	wand	staf	ring	amul	orb							0	0
 Bright	100	0	1	1		1				1	112	light		1	1	att		10	10						jewl												0	0
@@ -289,9 +289,9 @@ Lizard's	100	1	1	15		15				4	115	mana		16	20										lcha												0	0
 Snake's	100	1	1	25		25				4	115	mana		21	26										lcha												0	0
 Snake's	100	1	1	40		40				4	115	mana		27	33										lcha												0	0
 Snake's	100	1	1	50		50				4	115	mana		34	39										lcha												0	0
-Serpent's	100	1	1	60		60				4	115	mana		40	46										lcha												0	0
-Serpent's	100	1	1	70		70				4	115	mana		47	52										lcha												0	0
-Serpent's	100	1	1	80		80				4	115	mana		53	60										lcha												0	0
+Serpent's	100	1	1	55		55				4	115	mana		40	46										lcha												0	0
+Serpent's	100	1	1	60		60				4	115	mana		47	52										lcha												0	0
+Serpent's	100	1	1	70		70				4	115	mana		53	60										lcha												0	0
 Lizard's	100	1	1	1	60	1				4	115	mana		2	5										mcha												0	0
 Lizard's	100	1	1	10	70	10				4	115	mana		6	8										mcha												0	0
 Lizard's	100	1	1	15		15				4	115	mana		9	12										mcha												0	0
@@ -299,10 +299,10 @@ Snake's	100	1	1	25		25				3	115	mana		13	18										mcha												0	0
 Snake's	100	1	1	40		40				3	115	mana		19	23										mcha												0	0
 Serpent's	100	1	1	60		60				2	115	mana		24	29										mcha												0	0
 Serpent's	100	1	1	70		70				1	115	mana		30	35										mcha												0	0
-Lizard's	100	1	1	16		12				4	115	mana		3	4										scha												0	0
-Lizard's	100	1	1	16		12				3	115	mana		5	7										scha												0	0
-Snake's	100	1	1	32		24				2	115	mana		8	12										scha												0	0
-Serpent's	100	1	1	48		40				1	115	mana		13	20										scha												0	0
+Lizard's	100	1	1	10		10				4	115	mana		3	4										scha												0	0
+Lizard's	100	1	1	20		20				3	115	mana		5	7										scha												0	0
+Snake's	100	1	1	30		30				2	115	mana		8	12										scha												0	0
+Serpent's	100	1	1	50		50				1	115	mana		13	20										scha												0	0
 Lizard's	1	1	1	3	60	3				4	115	mana		5	10									cblu	armo	ring	amul	rod	orb	circ							0	0
 Snake's	1	1	1	5	70	5				4	115	mana		11	15									cblu	armo	ring	amul	rod	orb	circ							0	0
 Serpent's	1	1	1	10	80	10				3	115	mana		16	20									cblu	armo	ring	amul	rod	orb	circ							0	0
@@ -310,31 +310,31 @@ Serpent's	1	1	1	20		20				2	115	mana		11	20									cblu	armo	ring	amul	rod	orb	
 Drake's	1	1	1	25		25				2	115	mana		21	30									cblu	armo	ring	amul	rod	orb	circ							0	0
 Dragon's	1	1	1	30		30				2	115	mana		31	40									cblu	armo	ring	amul	rod	orb	circ							0	0
 Dragon's	1	1	1	40		40				2	115	mana		31	40									cblu	armo	ring	amul	rod	orb	circ							0	0
-Wyrm's	1	1	1	50		50				2	115	mana		41	60									cblu	armo	ring	amul	rod	orb	circ							0	0
-Great Wyrm's	100	1	1	60		60				2	115	mana		61	90									cblu	armo	ring	amul	rod	orb	circ							0	0
-Bahamut's	100	1	1	70		70				2	115	mana		91	120									cblu	armo	ring	amul	rod	orb	circ							0	0
+Wyrm's	1	1	1	45		45				2	115	mana		41	60									cblu	armo	ring	amul	rod	orb	circ							0	0
+Great Wyrm's	100	1	1	50		50				2	115	mana		61	90									cblu	armo	ring	amul	rod	orb	circ							0	0
+Bahamut's	100	1	1	60		60				2	115	mana		91	120									cblu	armo	ring	amul	rod	orb	circ							0	0
 Zircon	100	1	1	3		3				2	115	mana		10	15									cblu	jewl												0	0
 Jacinth	100	1	1	10		10				2	115	mana		15	20									cblu	jewl												0	0
 Turquoise	100	1	1	30		30				2	115	mana		20	30									cblu	jewl													
-Shimmering	100	1	1	8	13	6				1	116	res-all		5	8									lpur	lcha												1280	500
-Shimmering	100	1	1	14	34	10				1	116	res-all		9	12									lpur	lcha												1280	1500
-Shimmering	100	1	1	35		27				1	116	res-all		13	15									lpur	lcha												1280	5000
-Shimmering	100	1	1	17	33	12				1	116	res-all		3	7									lpur	mcha												1280	1500
-Shimmering	100	1	1	34		26				1	116	res-all		8	10									lpur	mcha												1280	5000
-Shimmering	100	1	1	33		25				1	116	res-all		4	5									lpur	scha												1280	10000
-Shimmering	100	1	1	3	60	3				5	116	res-all		5	10									lpur	shld												1280	500
+Shimmering	100	1	1	10	70	10				1	116	res-all		5	8									lpur	lcha												1280	500
+Shimmering	100	1	1	30		30				1	116	res-all		9	12									lpur	lcha												1280	1500
+Shimmering	100	1	1	60		60				1	116	res-all		13	15									lpur	lcha												1280	5000
+Shimmering	100	1	1	10		10				1	116	res-all		3	7									lpur	mcha												1280	1500
+Shimmering	100	1	1	60		60				1	116	res-all		8	10									lpur	mcha												1280	5000
+Shimmering	100	1	1	15		15				1	116	res-all		4	5									lpur	scha												1280	10000
+Shimmering	100	1	1	60		60				5	116	res-all		5	10									lpur	shld												1280	500
 Rainbow	100	1	1	10	70	10				5	116	res-all		10	15									lpur	shld												1280	2000
 Scintillating	100	1	1	30		30				4	116	res-all		15	25									lpur	shld												1280	4000
-Prismatic	1	1	1	40		40				3	116	res-all		25	35									lpur	shld												1280	8000
+Prismatic	100	1	1	40		40				3	116	res-all		25	35									lpur	shld												1280	8000
 Chromatic	100	1	1	60		60				2	116	res-all		35	45									lpur	shld												1280	16000
 Shimmering	100	1	1	5	80	5				5	116	res-all		5	10									lpur	amul	circ											1280	3000
 Rainbow	100	1	1	15	90	15				4	116	res-all		10	15									lpur	amul	circ											1280	6000
 Scintillating	100	1	1	30		30				3	116	res-all		15	20									lpur	amul	circ											1280	12000
-Prismatic	1	1	1	60		60				2	116	res-all		20	25									lpur	amul	circ											1280	24000
+Prismatic	100	1	1	60		60				2	116	res-all		20	25									lpur	amul	circ											1280	24000
 Chromatic	100	1	1	80		80				1	116	res-all		25	30									lpur	amul	circ											1280	32000
 Shimmering	100	1	1	20	90	20				3	116	res-all		5	10									lpur	ring												1280	4000
 Rainbow	100	1	1	40		40				2	116	res-all		10	15									lpur	ring												1280	8000
-Scintillating	100	1	1	80		80				2	116	res-all		15	20									lpur	ring												1280	16000
+Scintillating	100	1	1	70		70				2	116	res-all		15	20									lpur	ring												1280	16000
 Shimmering	100	1	1	15		15				1	116	res-all		5	10									lpur	jewl												1280	3000
 Scintillating	100	1	1	40		40				1	116	res-all		11	15									lpur	jewl												1280	8000
 Azure	100	1	1	1		1				2	117	res-cold		7	15										lcha												0	0
@@ -373,7 +373,7 @@ Russet	1	1	1	5	90	5				5	118	res-fire		11	20										armo	ring	amul	rod	circ			
 Russet	1	1	1	10		10				4	118	res-fire		11	20										armo	ring	amul	rod	circ								0	0
 Garnet	1	1	1	30		30				3	118	res-fire		21	30										armo	ring	amul	rod	circ								0	0
 Garnet	1	1	1	50		50				2	118	res-fire		21	30										armo	ring	amul	rod	circ								0	0
-Ruby	1	1	1	70		70				1	118	res-fire		31	40									lred	armo	rod	circ										0	0
+Ruby	1	1	1	60		60				1	118	res-fire		31	40									lred	armo	rod	circ										0	0
 Garnet	100	1	1	5		5				4	117	res-fire		10	15									lred	jewl												0	0
 Ruby	100	1	1	50		50				2	117	res-fire		20	30									lred	jewl												0	0
 Tangerine	100	1	1	1	90	1				2	119	res-ltng		7	15										lcha												0	0
@@ -529,68 +529,68 @@ Trump	100	1	1	80		80				1	110	dmg/lvl	8			att/lvl	48							whit	weap							staf	
 Loud	100	1	1	1	70	1				4	104	dmg/lvl	2											whit	weap							staf	wand	orb			0	0
 Calling	100	1	1	30	80	30				4	104	dmg/lvl	4											whit	weap							staf	wand	orb			0	0
 Yelling	100	1	1	60		60				3	104	dmg/lvl	6											whit	weap							staf	wand	orb			0	0
-Shouting	100	1	1	80		80				2	104	dmg/lvl	8											whit	weap							staf	wand	orb			0	0
-Gritty	100	1	1	90		90				1	104	dmg/lvl	12											whit	weap							staf	wand	orb			0	0
-Paradox	100	1	1	90		90				1	101	ac%/lvl	16											whit	tors												0	0
+Shouting	100	1	1	75		75				2	104	dmg/lvl	8											whit	weap							staf	wand	orb			0	0
+Gritty	100	1	1	85		85				1	104	dmg/lvl	12											whit	weap							staf	wand	orb			0	0
+Paradox	100	1	1	80		80				1	101	ac%/lvl	16											whit	tors												0	0
 Paradox	100	1	1	80		80				1	110	dmg%/lvl	12											whit	weap							staf	wand	orb			0	0
 Robineye	100	1	1	1	70	1				4	110	att/lvl	4											whit	weap							staf	wand	orb			0	0
 Sparroweye	100	1	1	10	80	10				3	110	att/lvl	6											whit	weap							staf	wand	orb			0	0
 Falconeye	100	1	1	40		40				2	110	att/lvl	8											whit	weap							staf	wand	orb			0	0
 Hawkeye	100	1	1	60		60				1	110	att/lvl	12											whit	weap							staf	wand	orb			0	0
-Eagleeye	100	1	1	80		80				1	110	att/lvl	16											whit	weap							staf	wand	orb			0	0
+Eagleeye	100	1	1	70		70				1	110	att/lvl	16											whit	weap							staf	wand	orb			0	0
 Visionary	100	1	1	50		50				1	110	att%/lvl	2											whit	helm	miss											0	0
 Mnemonic	100	1	1	50		50				1	115	mana/lvl	8											cblu	helm												0	0
 Snowflake	100	1	1	5	80	5				3	137	cold-len		25	25	cold-min		5	10	cold-max		20	30	lblu	weap	circ											0	0
 Shivering	100	1	1	20	90	20				2	137	cold-len		50	50	cold-min		10	15	cold-max		31	50	lblu	weap												0	0
 Boreal	100	1	1	50		50				1	137	cold-len		75	75	cold-min		16	25	cold-max		51	90	lblu	weap												0	0
-Hibernal	100	1	1	80		80				1	137	cold-len		100	100	cold-min		26	50	cold-max		91	150	lblu	weap												0	0
+Hibernal	100	1	1	70		70				1	137	cold-len		100	100	cold-min		26	50	cold-max		91	150	lblu	weap												0	0
 Ember	100	1	1	5	80	5				3	138	fire-min		15	25	fire-max		31	60					dred	weap	circ											0	0
 Smoldering	100	1	1	15	90	15				2	138	fire-min		26	50	fire-max		61	90					dred	weap												0	0
 Smoking	100	1	1	30		30				1	138	fire-min		51	80	fire-max		91	150					dred	weap												0	0
 Flaming	100	1	1	60		60				1	138	fire-min		81	120	fire-max		151	200					dred	weap												0	0
-Scorching	100	1	1	80		80				1	138	fire-min		121	170	fire-max		201	250					dred	weap												0	0
+Scorching	100	1	1	70		70				1	138	fire-min		121	170	fire-max		201	250					dred	weap												0	0
 Static	100	1	1	5		5				3	139	ltng-min		1	1	ltng-max		60	120					lyel	weap	circ											0	0
 Glowing	100	1	1	15		15				2	139	ltng-min		1	1	ltng-max		121	180					lyel	weap												0	0
 Buzzing	100	1	1	30		30				1	139	ltng-min		1	1	ltng-max		181	260					lyel	weap												0	0
 Arcing	100	1	1	60		60				1	139	ltng-min		1	1	ltng-max		261	360					lyel	weap												0	0
-Shocking	100	1	1	80		80				1	139	ltng-min		1	1	ltng-max		361	500					lyel	weap												0	0
+Shocking	100	1	1	70		70				1	139	ltng-min		1	1	ltng-max		361	500					lyel	weap												0	0
 Septic	100	1	1	1	80	1				3	140	dmg-pois	100	50	50									dgrn	weap	circ											0	0
 Envenomed	100	1	1	10		10				2	140	dmg-pois	100	100	100									dgrn	weap	circ											0	0
 Corosive	100	1	1	30		30				1	140	dmg-pois	100	250	250									dgrn	weap	circ											0	0
 Toxic	100	1	1	60		60				1	140	dmg-pois	100	500	500									dgrn	weap												0	0
-Pestilent	100	1	1	80		80				1	140	dmg-pois	100	800	800									dgrn	weap												0	0
+Pestilent	100	1	1	70		70				1	140	dmg-pois	100	800	800									dgrn	weap												0	0
 Maiden's	1	1	1	30		30	ama			4	125	ama		1	1										amul	circ											0	0
-Valkyrie's	1	1	1	70		70	ama			2	125	ama		2	2									cgrn	amul	circ											0	0
+Valkyrie's	1	1	1	60		60	ama			2	125	ama		2	2									cgrn	amul	circ											0	0
 Maiden's	1	1	1	30		30	ama			4	125	ama		1	1										miss	spea											0	0
-Valkyrie's	1	1	1	70		70	ama			2	125	ama		2	2									cgrn	miss	spea											0	0
+Valkyrie's	1	1	1	60		60	ama			2	125	ama		2	2									cgrn	miss	spea											0	0
 Monk's	1	1	1	30		30	pal			4	125	pal		1	1										amul	circ											0	0
-Priest's	1	1	1	70		70	pal			2	125	pal		2	2									cgrn	amul	circ											0	0
+Priest's	1	1	1	60		60	pal			2	125	pal		2	2									cgrn	amul	circ											0	0
 Monk's	1	1	1	30		30	pal			4	125	pal		1	1										scep	ashd											0	0
-Priest's	1	1	1	70		70	pal			2	125	pal		2	2									cgrn	scep	ashd											0	0
+Priest's	1	1	1	60		60	pal			2	125	pal		2	2									cgrn	scep	ashd											0	0
 Monk's	1	1	1	30		30	pal			4	125	pal		1	1										swor	mace	hamm	shld									0	0
-Priest's	1	1	1	70		70	pal			2	125	pal		2	2									cgrn	swor	mace	hamm	shld									0	0
+Priest's	1	1	1	60		60	pal			2	125	pal		2	2									cgrn	swor	mace	hamm	shld									0	0
 Summoner's	1	1	1	30		30	nec			4	125	nec		1	1										amul	circ											0	0
-Necromancer's	1	1	1	70		70	nec			2	125	nec		2	2									cgrn	amul	circ											0	0
+Necromancer's	1	1	1	60		60	nec			2	125	nec		2	2									cgrn	amul	circ											0	0
 Summoner's	1	1	1	30		30	nec			4	125	nec		1	1										wand	knif	head										0	0
-Necromancer's	1	1	1	70		70	nec			2	125	nec		2	2									cgrn	wand	knif	head										0	0
+Necromancer's	1	1	1	60		60	nec			2	125	nec		2	2									cgrn	wand	knif	head										0	0
 Angel's	1	1	1	30		30	sor			4	125	sor		1	1										amul	circ											0	0
-Arch-Angel's	1	1	1	70		70	sor			2	125	sor		2	2									cgrn	amul	circ											0	0
+Arch-Angel's	1	1	1	60		60	sor			2	125	sor		2	2									cgrn	amul	circ											0	0
 Angel's	1	1	1	30		30	sor			4	125	sor		1	1										staf	orb											0	0
-Arch-Angel's	1	1	1	70		70	sor			2	125	sor		2	2									cgrn	staf	orb											0	0
+Arch-Angel's	1	1	1	60		60	sor			2	125	sor		2	2									cgrn	staf	orb											0	0
 Slayer's	1	1	1	30		30	bar			4	125	bar		1	1										amul	circ											0	0
-Berserker's	1	1	1	70		70	bar			2	125	bar		2	2									cgrn	amul	circ											0	0
+Berserker's	1	1	1	60		60	bar			2	125	bar		2	2									cgrn	amul	circ											0	0
 Slayer's	1	1	1	30		30	bar			4	125	bar		1	1										tkni	axe	spea	club	swor	hamm	mace	jave					0	0
-Berserker's	1	1	1	70		70	bar			1	125	bar		2	2									cgrn	tkni	axe	spea	club	swor	hamm	mace	jave					0	0
+Berserker's	1	1	1	60		60	bar			1	125	bar		2	2									cgrn	tkni	axe	spea	club	swor	hamm	mace	jave					0	0
 Slayer's	100	1	1	30		30	bar			4	125	bar		1	1										phlm												0	0
-Berserker's	100	1	1	70		70	bar			2	125	bar		2	2									cgrn	phlm												0	0
+Berserker's	100	1	1	60		60	bar			2	125	bar		2	2									cgrn	phlm												0	0
 Shaman's	100	1	1	30		30	dru			4	125	dru		1	1										amul	circ											0	0
-Hierophant's	100	1	1	70		70	dru			2	125	dru		2	2									cgrn	amul	circ											0	0
+Hierophant's	100	1	1	60		60	dru			2	125	dru		2	2									cgrn	amul	circ											0	0
 Shaman's	100	1	1	30		30	dru			4	125	dru		1	1										club	pelt											0	0
-Hierophant's	100	1	1	70		70	dru			2	125	dru		2	2									cgrn	club	pelt											0	0
+Hierophant's	100	1	1	60		60	dru			2	125	dru		2	2									cgrn	club	pelt											0	0
 Magekiller's	100	1	1	30		30	ass			4	125	ass		1	1										amul	circ											0	0
-Witch-hunter's	100	1	1	70		70	ass			2	125	ass		2	2									cgrn	amul	circ											0	0
+Witch-hunter's	100	1	1	60		60	ass			2	125	ass		2	2									cgrn	amul	circ											0	0
 Magekiller's	100	1	1	30		30	ass			4	125	ass		1	1										h2h												0	0
-Witch-hunter's	100	1	1	70		70	ass			2	125	ass		2	2									cgrn	h2h												0	0
+Witch-hunter's	100	1	1	60		60	ass			2	125	ass		2	2									cgrn	h2h												0	0
 Compact	100	1	1	1	20	1				6	141	stack		50	50										thro												0	0
 Thin	100	1	1	10	50	10				5	141	stack		100	100										thro												0	0
 Dense	100	1	1	30		30				4	141	stack		150	150										thro												0	0
@@ -616,59 +616,59 @@ Jagged	100	0	1	81		73				4	104	dmg-max		1	1									blac	scha												0	0
 Snowflake	100	1	1	5	60	5				2	137	cold-len		25	25	cold-min		2	3	cold-max		3	5		lcha												0	0
 Shivering	100	1	1	20	80	20				1	137	cold-len		25	25	cold-min		3	4	cold-max		5	8		lcha												0	0
 Boreal	100	1	1	40		40				1	137	cold-len		25	25	cold-min		5	7	cold-max		9	15	lblu	lcha												0	0
-Hibernal	100	1	1	80		80				1	137	cold-len		25	25	cold-min		8	13	cold-max		16	25	lblu	lcha												0	0
+Hibernal	100	1	1	70		70				1	137	cold-len		25	25	cold-min		8	13	cold-max		16	25	lblu	lcha												0	0
 Snowflake	100	1	1	5	60	5				2	137	cold-len		25	25	cold-min		2	3	cold-max		3	5		mcha												0	0
 Shivering	100	1	1	20	80	20				1	137	cold-len		25	25	cold-min		4	5	cold-max		6	10		mcha												0	0
 Boreal	100	1	1	40		40				1	137	cold-len		25	25	cold-min		6	10	cold-max		11	20	lblu	mcha												0	0
-Hibernal	100	1	1	80		80				1	137	cold-len		25	25	cold-min		11	15	cold-max		21	30	lblu	mcha												0	0
+Hibernal	100	1	1	70		70				1	137	cold-len		25	25	cold-min		11	15	cold-max		21	30	lblu	mcha												0	0
 Snowflake	100	1	1	5		5				2	137	cold-len		25	25	cold-min		1	2	cold-max		2	4		scha												0	0
 Shivering	100	1	1	20		20				1	137	cold-len		25	25	cold-min		3	4	cold-max		5	8		scha												0	0
 Boreal	100	1	1	40		40				1	137	cold-len		25	25	cold-min		5	7	cold-max		9	14	lblu	scha												0	0
-Hibernal	100	1	1	80		80				1	137	cold-len		25	25	cold-min		8	10	cold-max		15	20	lblu	scha												0	0
+Hibernal	100	1	1	70		70				1	137	cold-len		25	25	cold-min		8	10	cold-max		15	20	lblu	scha												0	0
 Ember	100	1	1	5	60	5				2	138	fire-min		1	1	fire-max		2	3						lcha												0	0
 Smoldering	100	1	1	20	80	20				1	138	fire-min		2	3	fire-max		4	7						lcha												0	0
 Smoking	100	1	1	40		40				1	138	fire-min		4	7	fire-max		8	19					lred	lcha												0	0
-Flaming	100	1	1	80		80				1	138	fire-min		8	18	fire-max		20	36					lred	lcha												0	0
+Flaming	100	1	1	70		70				1	138	fire-min		8	18	fire-max		20	36					lred	lcha												0	0
 Ember	100	1	1	5	60	5				2	138	fire-min		1	1	fire-max		2	3						mcha												0	0
 Smoldering	100	1	1	20	80	20				1	138	fire-min		2	3	fire-max		4	12						mcha												0	0
 Smoking	100	1	1	40		40				1	138	fire-min		4	9	fire-max		13	27					lred	mcha												0	0
-Flaming	100	1	1	80		80				1	138	fire-min		10	27	fire-max		28	43					lred	mcha												0	0
+Flaming	100	1	1	70		70				1	138	fire-min		10	27	fire-max		28	43					lred	mcha												0	0
 Ember	100	1	1	5	60	5				2	138	fire-min		1	1	fire-max		2	3						scha												0	0
 Smoldering	100	1	1	20	80	20				1	138	fire-min		2	3	fire-max		4	10						scha												0	0
 Smoking	100	1	1	40		40				1	138	fire-min		4	9	fire-max		11	19					lred	scha												0	0
-Flaming	100	1	1	80		80				1	138	fire-min		10	19	fire-max		20	29					lred	scha												0	0
+Flaming	100	1	1	70		70				1	138	fire-min		10	19	fire-max		20	29					lred	scha												0	0
 Static	100	1	1	5	60	5				2	139	ltng-min		1	1	ltng-max		4	5						lcha												0	0
 Glowing	100	1	1	20	80	20				1	139	ltng-min		1	1	ltng-max		6	17						lcha												0	0
 Arcing	100	1	1	40		40				1	139	ltng-min		1	1	ltng-max		18	44					whit	lcha												0	0
-Shocking	100	1	1	80		80				1	139	ltng-min		1	1	ltng-max		45	79					whit	lcha												0	0
+Shocking	100	1	1	70		70				1	139	ltng-min		1	1	ltng-max		45	79					whit	lcha												0	0
 Static	100	1	1	5	60	5				2	139	ltng-min		1	1	ltng-max		5	9						mcha												0	0
 Glowing	100	1	1	20	80	20				1	139	ltng-min		1	1	ltng-max		10	26						mcha												0	0
 Arcing	100	1	1	40		40				1	139	ltng-min		1	1	ltng-max		27	58					whit	mcha												0	0
-Shocking	100	1	1	80		80				1	139	ltng-min		1	1	ltng-max		59	90					whit	mcha												0	0
+Shocking	100	1	1	70		70				1	139	ltng-min		1	1	ltng-max		59	90					whit	mcha												0	0
 Static	100	1	1	5	60	5				2	139	ltng-min		1	1	ltng-max		6	11						scha												0	0
 Glowing	100	1	1	20	80	20				1	139	ltng-min		1	1	ltng-max		12	24						scha												0	0
 Arcing	100	1	1	40		40				1	139	ltng-min		1	1	ltng-max		25	43					whit	scha												0	0
-Shocking	100	1	1	80		80				1	139	ltng-min		1	1	ltng-max		44	71					whit	scha												0	0
+Shocking	100	1	1	70		70				1	139	ltng-min		1	1	ltng-max		44	71					whit	scha												0	0
 Septic	100	1	1	5	60	5				2	140	dmg-pois	100	25	25										lcha												0	0
 Envenomed	100	1	1	20	80	20				1	140	dmg-pois	100	50	50										lcha												0	0
 Toxic	100	1	1	40		40				1	140	dmg-pois	100	100	100									dgrn	lcha												0	0
-Pestilent	100	1	1	80		80				1	140	dmg-pois	100	200	200									dgrn	lcha												0	0
+Pestilent	100	1	1	70		70				1	140	dmg-pois	100	200	200									dgrn	lcha												0	0
 Septic	100	1	1	5	60	5				2	140	dmg-pois	100	30	30										mcha												0	0
 Envenomed	100	1	1	20	80	20				1	140	dmg-pois	100	60	60										mcha												0	0
 Toxic	100	1	1	40		40				1	140	dmg-pois	100	120	120									dgrn	mcha												0	0
-Pestilent	100	1	1	80		80				1	140	dmg-pois	100	240	240									dgrn	mcha												0	0
+Pestilent	100	1	1	70		70				1	140	dmg-pois	100	240	240									dgrn	mcha												0	0
 Septic	100	1	1	5	60	5				2	140	dmg-pois	100	60	60										scha												0	0
 Envenomed	100	1	1	20	80	20				1	140	dmg-pois	100	120	120										scha												0	0
 Toxic	100	1	1	40		40				1	140	dmg-pois	100	240	240									dgrn	scha												0	0
-Pestilent	100	1	1	80		80				1	140	dmg-pois	100	480	480									dgrn	scha												0	0
+Pestilent	100	1	1	70		70				1	140	dmg-pois	100	480	480									dgrn	scha												0	0
 Tireless	1	1	1	1	10	1				4	108	regen-stam		10	10										boot												0	0
-Lizard's	1	1	1	1	10	1				4	115	mana		3	5										armo	ring	amul	rod	orb			boot	glov				0	0
-Azure	1	1	1	1	10	1				3	117	res-cold		5	5										armo	ring	amul	orb	circ								0	0
-Crimson	1	1	1	1	10	1				3	118	res-fire		5	5										armo	ring	amul	orb	circ								0	0
-Tangerine	1	1	1	1	10	1				3	119	res-ltng		5	5										armo	ring	amul	orb	circ								0	0
-Beryl	1	1	1	1	10	1				3	120	res-pois		5	5										armo	ring	amul	orb	circ								0	0
-Godly	100	1	1	90		90				1	101	ac%		300	400									dgld	armo												0	0
-Cruel	100	1	1	56		48				1	105	dmg%		300	350									blac	weap							staf	wand	orb			0	0
+Lizard's	1	1	1	1	15	1				4	115	mana		3	5										armo	ring	amul	rod	orb			boot	glov				0	0
+Azure	1	1	1	1	15	1				3	117	res-cold		5	5										armo	ring	amul	orb	circ								0	0
+Crimson	1	1	1	1	15	1				3	118	res-fire		5	5										armo	ring	amul	orb	circ								0	0
+Tangerine	1	1	1	1	15	1				3	119	res-ltng		5	5										armo	ring	amul	orb	circ								0	0
+Beryl	1	1	1	1	15	1				3	120	res-pois		5	5										armo	ring	amul	orb	circ								0	0
+Godly	100	1	1	85		85				1	101	ac%		300	400									dgld	armo												0	0
+Cruel	100	1	1	85		85				1	105	dmg%		300	350									blac	weap							staf	wand	orb			0	0
 Supposing	100	1	1	12		12				2	400	skill-rand	1	6	35									whit	ring	amul	circ	belt	mcha								0	0
 Supposing	100	1	1	60		60				2	400	skill-rand	2	6	35									whit	ring	amul	circ	belt	mcha								0	0
 Supposing	100	1	1	12		12				2	400	skill-rand	1	36	65									whit	ring	amul	circ	belt	mcha								0	0

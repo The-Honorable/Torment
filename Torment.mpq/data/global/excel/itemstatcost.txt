@@ -45,7 +45,7 @@ maxlightresist	42		1	9											584	256		5	0	5	0																43	19		ModStr5w
 coldresist	43		1	9											43	20		9	200	9	200																40	19		ModStr1k	ModStr1k		2	19		strModAllResistances	strModAllResistances				0
 maxcoldresist	44		1	9											584	256		5	0	5	0																44	19		ModStr5v	ModStr5v		5	19		ModStrMaxAllRes	ModStrMaxAllRes				0
 poisonresist	45		1	9											43	20		9	200	9	200																34	19		ModStr1n	ModStr1n		2	19		strModAllResistances	strModAllResistances				0
-maxpoisonresist	46		1	9											526	256		5	0	5	0																45	19		ModStr5y	ModStr5y										0
+maxpoisonresist	46		1	9											526	256		5	0	5	0																45	19		ModStr5y	ModStr5y		5	19		ModStrMaxAllRes	ModStrMaxAllRes				0
 damageaura	47		1	16																																															0
 firemindam	48		1	16											11	10		8	0	8	0											1					102	19		ModStr1p	ModStr1p										0
 firemaxdam	49		1	16											19	10		8	0	9	0											1					101	19		ModStr1o	ModStr1o										0

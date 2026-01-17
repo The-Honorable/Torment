@@ -472,7 +472,7 @@ Faras Legacy	468	100	1		1	1	18	22	pa5	Crown Shield		3	5000								ac%		120	150	d
 Kormacs Targe	469	100	1		1	1	26	28	pa6	Akaran Targe		3	5000								ac%		150	200	skill	Charge	5	5	dmg%		50	50	skill	Sanctuary	3	3	red-dmg%		10	10	red-dmg		3	5																										0
 Izuals Guide	470	100	1		1	1	29	34	pa7	Akaran Rondache		3	5000								ac%		80	100	dmg-demon		150	150	att-demon		100	100	demon-heal		10	10	swing1		15	20	str		15	20	pal		2	2																						0
 Itheraels Path	471	100	1		1	1	43	45	pa8	Protector Shield		3	5000								ac%		110	130	move1		25	25	balance1		10	15	skill	Vigor	3	3	block1		15	15	dex		10	10	addxp		5	5																						0
-Yaerius Defense	472	100	1		1	1	47	51	paa	Royal Shield		3	5000								ac%		150	150	ac		150	150	skill	Holy Shield	3	3	aura	Redemption	5	5	regen		-10	-10	pal		1	1																										0
+Yaerius Defense	472	100	1		1	1	47	51	paa	Royal Shield		3	5000								ac%		150	150	ac		150	150	skill	Holy Shield	3	3	aura	Redemption	5	5	regen		-10	-10	pal		1	2	res-all		25	35																						0
 Urzaels Betrayal	473	100	1		1	1	47	60	pab	Sacred Targe		3	5000								ac%		130	130	oskill	FireGolem	5	5	oskill	Golem Mastery	5	5	skill	Holy Fire	5	5	extra-fire		15	15	res-fire		50	50	pal		2	2																						0
 Rakkis Crusade	474	100	1		1	1	85	90	paf	Vortex Shield		3	5000								ac%		200	300	skilltab	12	3	3	res-all		50	50	skill	Fist of the Heavens	3	3	oskill	Attract	3	3	extra_holy_bolts		2	2																										0
 Warrivs Mail	475	100	1		1	1	73	73	ucl	Loricated Mail		3	5000								ac%		122	155	aura	Vigor	5	10	gold%		50	50	mag%		50	50	res-mag		10	15	res-all		40	40																										0
