@@ -27,3 +27,4 @@ shadowmaster		0	1		1	1	1	UiShadowUI	1	2	shadowassassin
 claygolem		0	1		1	1	1	ClayGolem	1	2	earthgolumicon	289	earthgolumicon						
 bloodgolem		0	1		1	1	1	BloodGolem	1	2	bloodgolumicon	291	bloodgolumicon						
 firegolem		0	1		1	1	1	FireGolem	1	2	firegolumicon	293	firegolumicon						
+coldsteel		0	1		1	1	1	ColdSteel	1	2	revivedicon								
