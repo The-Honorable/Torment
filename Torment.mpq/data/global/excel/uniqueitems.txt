@@ -64,7 +64,7 @@ Raven Claw	61	0	1		1	1	12	15	lbw	Long Bow		5	5000	dred	dred						att		50	50	dex	
 Rogues Bow	62	0	1		1	1	17	20	cbw	Composite Bow		5	5000	cred			invcbwu				res-all		10	10	deadly		30	30	att		60	60	dmg-undead		100	100	dmg%		100	100	swing2		50	50	dmg-norm		10	15																						0
 Stormstrike	63	0	1		1	1	25	25	sbb	Short Battle Bow		5	5000	lgrn			invsbbu				dmg-ltng		1	100	str		10	10	att		50	50	pierce		25	25	res-ltng		25	25	dmg%		80	120	aura	Holy Shock	5	5																						0
 Wizendraw	64	0	1		1	1	25	26	lbb	Long Battle Bow		5	5000	dgrn	dgrn						hit-skill	Attract	5	1	mana		30	30	swing2		20	20	res-all		15	15	att		50	100	dmg%		100	100	dmg-mag		25	35	extra_magic_arrows		2	2																		0
-Hellclap	65	0	1		1	1	25	27	swb	Short War Bow		5	5000	cgrn			invswbu				swing1		10	10	fire-min		15	15	fire-max		30	50	att		50	75	res-fire		40	40	dex		12	12	dmg%		80	120	fireskill		2	2																		0
+Hellclap	65	0	1		1	1	25	27	swb	Short War Bow		5	5000	cgrn			invswbu				swing1		15	15	fire-min		15	20	fire-max		40	60	att		50	75	res-fire		40	40	dex		15	15	dmg%		100	120	fireskill		2	2																		0
 Blastbark	66	0	1		1	1	25	28	lwb	Long War Bow		5	5000	lyel	lyel						dmg%		100	130	str		15	15	ama		1	1	manasteal		5	5	skill	Exploding Arrow	2	2	pierce-fire		10	10																										0
 Leadcrow	67	0	1		1	1	1	9	lxb	Light Crossbow		5	5000	dyel			invlxbu				dex		10	10	dmg%		100	100	res-pois		30	30	deadly		25	25	att		40	40	manasteal		5	5	hit-skill	Raven	10	5																						0
 Ichorsting	68	0	1		1	1	12	18	mxb	Crossbow		5	5000	lgld			invmxbu				dmg-pois	75	250	250	dex		20	20	pierce		50	50	att		50	50	dmg%		100	100	swing2		20	20																										0
@@ -110,7 +110,7 @@ Hotspur	107	0	1		1	1	1	5	lbt	boots		5	5000	cred	cred						res-fire-max		5	5	hp		
 Gorefoot	108	0	1		1	1	1	9	vbt	Heavy Boots		5	5000	dblu	dblu						bloody		3	5	move2		20	20	manasteal		5	5	thorns		15	15	ac		15	15	ac%		20	30	deadly		15	15																						0
 Treads of Cthon	109	0	1		1	1	12	15	mbt	Chain Boots		5	5000	lgrn	lgrn						move2		30	30	ac-miss		50	50	stamdrain		50	50	hp		20	20	ac		20	20	ac%		30	40																										0
 Goblin Toe	110	0	1		1	1	17	22	tbt	Light Plated Boots		5	5000	dgry	dgry						dmg-norm		15	25	red-dmg		4	4	red-mag		4	4	ac		15	15	light		-1	-1	ac%		100	100																										0
-Tearhaunch	111	0	1		1	1	25	29	hbt	Plate Boots		5	5000	dgrn	dgrn						ac		35	35	str		5	5	dex		5	5	move2		20	20	res-all		15	15	ac%		60	80	aura	Vigor	5	5																						0
+Tearhaunch	111	0	1		1	1	25	29	hbt	Plate Boots		5	5000	dgrn	dgrn						ac		35	35	str		5	5	dex		5	5	move2		20	20	res-all		15	15	ac%		60	80	aura	Vigor	1	2																						0
 Lenymo	112	0	1		1	1	1	7	lbl	Sash		5	5000	cgrn	cgrn						mana		15	15	regen-mana		30	30	res-all		15	15																																						0
 Snakecord	113	0	1		1	1	12	12	vbl	Light Belt		5	5000	blac	blac						dmg-pois	75	125	125	res-pois		25	25	ac		25	25	ac%		25	25	regen		25	25	res-pois-len		50	50																										0
 Nightsmoke	114	0	1		1	1	12	20	mbl	Belt		5	5000	lyel	lyel						res-all		10	15	dmg-to-mana		50	50	mana		20	20	red-dmg		2	2	ac		15	15	ac%		30	50																										0
