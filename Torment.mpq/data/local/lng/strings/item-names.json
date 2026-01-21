@@ -29595,5 +29595,22 @@
     "ptBR": "ÿc@Presa do Pesadelo",
     "ruRU": "ÿc@Клык кошмара",
     "zhCN": "ÿc@梦魇之牙"
+  },
+  {
+    "id": 50206,
+    "Key": "Tormented Torch",
+    "enUS": "Tormented Torch",
+    "zhTW": "受折磨的火炬",
+    "deDE": "Gequälte Fackel",
+    "esES": "Antorcha atormentada",
+    "frFR": "Torche tourmentée",
+    "itIT": "Torcia tormentata",
+    "koKR": "고통받는 횃불",
+    "plPL": "Udręczona pochodnia",
+    "esMX": "Antorcha atormentada",
+    "jaJP": "苦悶の松明",
+    "ptBR": "Tocha atormentada",
+    "ruRU": "Истязаемый факел",
+    "zhCN": "受折磨的火炬"
   }
 ]

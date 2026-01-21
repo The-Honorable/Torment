@@ -2705,7 +2705,7 @@
   {
     "id": 55000,
     "Key": "tormentdesc",
-    "enUS": "ÿcKThey alone carry the organs you seek\nSeek side paths where tormented monsters roam\nIn the dark corners of Sanctuaryÿc3",
+    "enUS": "ÿcKThey alone carry the ÿc1organsÿcK you seek\nÿc1SeekÿcK side paths where ÿc1tormentedÿcK monsters roam\nIn the dark corners of Sanctuaryÿc3",
     "zhTW": "ÿcK唯有它們攜帶你所尋求的器官\n前往支線區域，折磨的怪物在那裡徘徊\n於聖休亞瑞黑暗的角落之中ÿc3",
     "deDE": "ÿcKNur sie tragen die Organe, die Ihr sucht\nSucht Nebenpfade, wo gequälte Monster umherstreifen\nIn den dunklen Winkeln Sanktuariosÿc3",
     "esES": "ÿcKSolo ellos portan los órganos que buscas\nExplora caminos secundarios donde vagan monstruos atormentados\nEn los rincones oscuros de Santuarioÿc3",
@@ -2769,5 +2769,22 @@
     "ptBR": "ÿcKColoque no cubo com um item para recuperar itens encaixadosÿc3",
     "ruRU": "ÿcKПоместите в куб вместе с предметом, чтобы вернуть предметы из гнёздÿc3",
     "zhCN": "ÿcK与物品一同放入赫拉迪姆方块以回收已镶嵌的物品ÿc3"
+  },
+    {
+    "id": 55004,
+    "Key": "tormenttorchdesc",
+    "enUS": "ÿcKThey alone carry the ÿc1organsÿcK you seek\nÿc1SeekÿcK side paths where ÿc1tormentedÿcK monsters roam\nIn the dark corners of Sanctuary\nÿc0A light to fend off the darknessÿc3",
+    "zhTW": "ÿcK唯有它們攜帶你所尋求的器官\n前往支線區域，折磨的怪物在那裡徘徊\n於聖休亞瑞黑暗的角落之中ÿc3",
+    "deDE": "ÿcKNur sie tragen die Organe, die Ihr sucht\nSucht Nebenpfade, wo gequälte Monster umherstreifen\nIn den dunklen Winkeln Sanktuariosÿc3",
+    "esES": "ÿcKSolo ellos portan los órganos que buscas\nExplora caminos secundarios donde vagan monstruos atormentados\nEn los rincones oscuros de Santuarioÿc3",
+    "frFR": "ÿcKEux seuls portent les organes que vous cherchez\nCherchez les chemins secondaires où errent les monstres tourmentés\nDans les recoins sombres de Sanctuaireÿc3",
+    "itIT": "ÿcKSolo loro custodiscono gli organi che cerchi\nSegui i percorsi secondari dove vagano mostri tormentati\nNegli angoli oscuri di Sanctuariumÿc3",
+    "koKR": "ÿcK그들만이 네가 찾는 장기를 지니고 있다\n고통받는 괴물들이 배회하는 측면 지역을 찾아라\n성역의 어두운 구석에서ÿc3",
+    "plPL": "ÿcKTylko oni niosą organy, których szukasz\nSzukaj bocznych ścieżek, gdzie błąkają się udręczone potwory\nW mrocznych zakątkach Sanktuariumÿc3",
+    "esMX": "ÿcKSolo ellos llevan los órganos que buscas\nExplora rutas secundarias donde rondan monstruos atormentados\nEn los rincones oscuros de Santuarioÿc3",
+    "jaJP": "ÿcK求める臓器を持つのは彼らのみ\n苦悶の魔物が徘徊する寄り道の地を探せ\nサンクチュアリの暗き片隅でÿc3",
+    "ptBR": "ÿcKApenas eles carregam os órgãos que você procura\nBusque caminhos secundários onde monstros atormentados vagam\nNos cantos sombrios de Santuárioÿc3",
+    "ruRU": "ÿcKТолько они несут органы, которые ты ищешь\nИщи побочные пути, где бродят истерзанные чудовища\nВ тёмных уголках Санктуарияÿc3",
+    "zhCN": "ÿcK唯有它们携带你所寻找的器官\n探索支线区域，受折磨的怪物在其中游荡\n于庇护之地的黑暗角落ÿc3"
   }
 ]

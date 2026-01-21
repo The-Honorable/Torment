@@ -1143,6 +1143,7 @@ Act 5 (H) Super Ax Desecrated	39	90	-2					0	Sunder Charms	1	Act 5 (H) Super Ax	
 Act 5 (H) Super Bx Desecrated	39	93	-2					0	Sunder Charms	1	Act 5 (H) Super Bx	1																				0
 Act 5 (H) Super Cx Desecrated	39	96	-2					0	Sunder Charms	1	Act 5 (H) Super Cx	1																				0
 Torment Holder			1					0	Tormented Charm	1																						0
+Torch Holder			1					0	Tormented Torch	1																						0
 tc1			1					0	tc1	1																						0
 tc2			1					0	tc2	1																						0
 tc3			1					0	tc3	1																						0

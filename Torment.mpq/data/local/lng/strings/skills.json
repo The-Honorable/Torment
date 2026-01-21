@@ -35936,5 +35936,22 @@
     "ptBR": "Espadas máximas: %d",
     "ruRU": "Макс. количество мечей: %d",
     "zhCN": "剑的最大数量：%d"
+  },
+  {
+    "id": 45025,
+    "Key": "LowerPhysRes",
+    "enUS": "Physical Resist: %+d%%",
+    "zhTW": "物理抗性：%+d%%",
+    "deDE": "Physischer Widerstand: %+d%%",
+    "esES": "Resistencia física: %+d%%",
+    "frFR": "Résistance physique : %+d%%",
+    "itIT": "Resistenza fisica: %+d%%",
+    "koKR": "물리 저항: %+d%%",
+    "plPL": "Odporność fizyczna: %+d%%",
+    "esMX": "Resistencia física: %+d%%",
+    "jaJP": "物理耐性: %+d%%",
+    "ptBR": "Resistência física: %+d%%",
+    "ruRU": "Физическое сопротивление: %+d%%",
+    "zhCN": "物理抗性: %+d%%"
   }
 ]
