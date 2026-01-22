@@ -35953,5 +35953,22 @@
     "ptBR": "Resistência física: %+d%%",
     "ruRU": "Физическое сопротивление: %+d%%",
     "zhCN": "物理抗性: %+d%%"
+  },
+  {
+    "id": 45026,
+    "Key": "flatdmgsyn",
+    "enUS": "%s: +%d damage per Level",
+    "zhTW": "%s：每等級 +%d 傷害",
+    "deDE": "%s: +%d Schaden pro Stufe",
+    "esES": "%s: +%d de daño por nivel",
+    "frFR": "%s : +%d dégâts par niveau",
+    "itIT": "%s: +%d danni per livello",
+    "koKR": "%s: 레벨당 피해 +%d",
+    "plPL": "%s: +%d obrażeń na poziom",
+    "esMX": "%s: +%d de daño por nivel",
+    "jaJP": "%s：レベルごとにダメージ +%d",
+    "ptBR": "%s: +%d de dano por nível",
+    "ruRU": "%s: +%d урона за уровень",
+    "zhCN": "%s：每级 +%d 伤害"
   }
 ]
