@@ -302,8 +302,8 @@ extra_blood_golems	1	1	extra_blood_golems																																0
 extra_exploding_arrows	1	1	extra_exploding_arrows																																0
 extra_ice_arrows	1	1	extra_ice_arrows																																0
 extra_freezing_arrows	1	1	extra_freezing_arrows																																0
-extra-ele	1	1	passive_fire_mastery			3	passive_cold_mastery			3	passive_ltng_mastery																								0
-pierce-ele	1	1	passive_fire_pierce			3	passive_cold_pierce			3	passive_ltng_pierce																								0
+extra-ele	1	1	passive_fire_mastery			3	passive_cold_mastery			3	passive_ltng_mastery			3	passive_pois_mastery																				0
+pierce-ele	1	1	passive_fire_pierce			3	passive_cold_pierce			3	passive_ltng_pierce			3	passive_pois_pierce																				0
 extra_molten_boulders	1	1	extra_molten_boulders																																0
 tab-rand	1	12	item_addskill_tab																																0
 extra_traps	1	1	extra_traps																																0
