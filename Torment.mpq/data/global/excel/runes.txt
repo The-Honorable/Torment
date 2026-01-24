@@ -69,7 +69,7 @@ Runeword67	Knight's Vigil																																																0
 Runeword68	Knowledge	1			helm									ElTir	r01	r03					addxp		2	4	light		1	1	balance1		10	10	ac%		50	50	lifesteal		2	2									0
 Runeword69	Last Wish	1		Previously Ladder Only	mele									JahMalJahSurJahBer	r31	r23	r31	r29	r31	r30	dmg%		300	350	hit-skill	Charged Bolt	20	40	hit-skill	Life Tap	10	18	gethit-skill	Fade	9	11	deadly		50	50	mag%/lvl	16			aura	Might	10	15	0
 Runeword70	Law																																																0
-Runeword71	Lawbringer	1		Previously Ladder Only	mele									AmnLemKo	r11	r20	r18				dmg-cold		130	180	dmg-fire		150	210	aura	Sanctuary	10	15	hit-skill	Attract	9	10	ac-miss		200	250	rip		1	1	reduce-ac		50	50	0
+Runeword71	Lawbringer	1		Previously Ladder Only	mele									AmnLemKo	r11	r20	r18				dmg-cold		130	180	dmg-fire		150	210	aura	Sanctuary	10	15	hit-skill	Attract	8	5	ac-miss		200	250	rip		1	1	reduce-ac		50	50	0
 Runeword72	Leaf	1		109	staf									TirRal	r03	r08					fireskill		3	3	res-fire		33	33	skill	Fire Bolt	3	3	skill	Blaze	3	3	skill	Warmth	3	3	cast1		25	30					0
 Runeword73	Lightning	1			staf									TirOrt	r03	r09					lightningskill		3	3	res-ltng		33	33	skill	Charged Bolt	3	3	skill	Static Field	3	3	skill	Teleport	3	3	cast1		25	30					0
 Runeword74	Lionheart	1		109	tors									HelLumFal	r15	r17	r19				str		15	15	vit		20	20	dex		15	15	dmg%		50	100	hp		50	50	res-all		30	30					0
