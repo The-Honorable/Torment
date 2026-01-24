@@ -57,7 +57,7 @@ Fal Rune	r19L	18	r19	str		10	10									str		10	10									str		10	10								0
 Lem Rune	r20L	18	r20	gold%		200	200									gold%		100	100									gold%		100	100								0
 Pul Rune	r21L	18	r21	att-demon		100	100	dmg-demon		100	100					ac%		50	50									ac%		50	50								0
 Um Rune	r22L	18	r22	openwounds		25	25									res-all		25	25									res-all		25	25								0
-Mal Rune	r23L	18	r23	noheal		1	1									red-mag		7	7									red-mag		7	7								0
+Mal Rune	r23L	18	r23	dmg-mag		40	80									red-mag		7	7									red-mag		7	7								0
 Ist Rune	r24L	18	r24	mag%		50	50									mag%		50	50									mag%		50	50								0
 Gul Rune	r25L	18	r25	att		300	300									res-pois-max		5	5									res-pois-max		5	5								0
 Vex Rune	r26L	18	r26	manasteal		7	7									res-fire-max		5	5									res-fire-max		5	5								0
