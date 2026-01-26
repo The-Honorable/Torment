@@ -57,7 +57,7 @@ return {-- The below settings are all optional, default/false entries will be as
         {
             -- low rune drops
             codes = { "r01", "r02", "r03", "r04", "r05", "r06", "r07", "r08", "r09", "r10", "r11", "r12", "r13", "r14", "r15", "r16", "r17", "r18", "r19" },
-            notify = "ÿc5Low Rune Dropped: {name}",
+            notify = "ÿcKLow Rune Dropped: {name}",
             location = { "onground"}
         },
         {
@@ -86,7 +86,7 @@ return {-- The below settings are all optional, default/false entries will be as
         },
         {
             -- tormented components but fancy border
-            codes = {"tc1", "tc2", "tc3", "tc4", "tc5", "tc6", "tc7", "tc8"},
+            codes = {"tc1", "tc2", "tc3", "tc4", "nc1", "nc2", "nc3", "nc4", "hc1", "hc2", "hc3", "hc4"},
             location = { "onground"},
             notify = "ÿcSA Tormented Organ DroppedÿcS: {name}",
             prefix = "ÿc0|/|",

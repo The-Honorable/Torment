@@ -9,7 +9,7 @@
             "type": "ImageWidget", "name": "LeftSprite"
         },
         {
-            "type": "ImageWidget", "name": "LeftHinge"
+            "type": "Disabled", "name": "LeftHinge"
         },
         {
             "type": "ClickCatcherWidget", "name": "ClickCatcher",

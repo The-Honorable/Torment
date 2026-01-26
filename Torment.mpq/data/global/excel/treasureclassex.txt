@@ -1144,14 +1144,19 @@ Act 5 (H) Super Bx Desecrated	39	93	-2					0	Sunder Charms	1	Act 5 (H) Super Bx	
 Act 5 (H) Super Cx Desecrated	39	96	-2					0	Sunder Charms	1	Act 5 (H) Super Cx	1																				0
 Torment Holder			1					0	Tormented Charm	1																						0
 Torch Holder			1					0	Tormented Torch	1																						0
+Trinket Holder			1					0	Tormented Trinket	1																						0
 tc1			1					0	tc1	1																						0
 tc2			1					0	tc2	1																						0
 tc3			1					0	tc3	1																						0
 tc4			1					0	tc4	1																						0
-tc5			1					0	tc5	1																						0
-tc6			1					0	tc6	1																						0
-tc7			1					0	tc7	1																						0
-tc8			1					0	tc8	1																						0
+nc1			1					0	nc1	1																						0
+nc2			1					0	nc2	1																						0
+nc3			1					0	nc3	1																						0
+nc4			1					0	nc4	1																						0
+hc1			1					0	hc1	1																						0
+hc2			1					0	hc2	1																						0
+hc3			1					0	hc3	1																						0
+hc4			1					0	hc4	1																						0
 Act 1 (N) Champ A Desecrated	40	60	-2					0	Sunder Charms	1	Act 1 (N) Champ A	1																				0
 Act 1 (N) Champ B Desecrated	40	60	-2					0	Sunder Charms	1	Act 1 (N) Champ B	1																				0
 Act 1 (N) Champ C Desecrated	40	60	-2					0	Sunder Charms	1	Act 1 (N) Champ C	1																				0

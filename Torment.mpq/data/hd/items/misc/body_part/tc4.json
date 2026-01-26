@@ -152,6 +152,20 @@
                     "hardKillOnDestroy": false
                 }
             ]
+        },
+        {
+            "type": "Entity",
+            "name": "entity_root",
+            "id": 2101618603,
+            "_comment":"pulled from horadric_light.json, should add a permanent light beam to the item when it drops",
+            "components": [
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "entity_root_VfxDefinition",
+                    "filename": "data/hd/vfx/particles/overlays/object/horadric_light/FX_Horadric_Light.particles",
+                    "hardKillOnDestroy": false
+                }
+            ]
         }
     ]
 }

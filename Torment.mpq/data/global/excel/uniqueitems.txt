@@ -122,12 +122,12 @@ The Mahim-Oak Curio	119	0	1		7	1	25	25	amu	Amulet		5	5000	lpur							all-stats		
 Nagelring	120	0	1		15	1	1	7	rin	Ring		5	5000	dpur							red-mag		3	3	thorns		25	25	att		50	75	mag%		30	50	light		-1	-1																														0
 Manald Heal	121	0	1		15	1	12	15	rin	Ring		5	5000	oran							manasteal		4	7	regen		20	20	hp		20	20	regen-mana		20	20	lifesteal		4	7																														0
 The Stone of Jordan	122	0	1		1	1	47	29	rin	Ring		5	5000	whit							mana		100	100	mana%		50	50	dmg-ltng		1	100	allskills		1	2																																	1	0
-Amulet of the Viper	123	0	1		1	1	0	0	vip	Amulet		5	5000	lgry							mana		100	100	res-pois		100	100	hp		100	100																																						0
+Amulet of the Viper	123	0	1		1	1	0	0	vip	Amulet		5	5000	lgry							mana		50	50	res-pois		50	50	hp		50	50																																						0
 Staff of Kings	124	0	1		1	1	0	0	msf	Staff		5	5000	dgry							res-all		25	25	swing3		25	25	cast1		25	25																																						0
-Horadric Staff	125	0	1		1	1	0	0	hst	Staff		5	5000	blac							mana		100	100	hp		100	100	res-all		50	50	swing3		25	25	cast1		25	25	allskills		1	1																										0
+Horadric Staff	125	0	1		1	1	0	0	hst	Staff		5	5000	blac							mana		50	50	hp		50	50	res-all		50	50	swing3		25	25	cast1		25	25	allskills		1	1																										0
 Hell Forge Hammer	126	0	1		1	1	0	0	hfh	Hammer		5	5000	cred							fire-min		50	50	fire-max		150	150	res-fire		100	100	dmg%		150	150																																		0
-KhalimFlail	127	0	1		1	1	0	0	qf1	Flail		5	5000	dblu							ltng-min		1	1	ltng-max		300	300	swing3		50	50	att		150	150	dmg%		100	100																														0
-SuperKhalimFlail	128	0	1		1	1	0	0	qf2	Flail		5	5000	dblu							ltng-min		1	1	ltng-max		300	300	swing3		50	50	att		150	150	manasteal		6	6	lifesteal		6	6	dmg%		100	100																						0
+KhalimFlail	127	0	1		1	1	0	0	qf1	Flail		5	5000	dblu							ltng-min		1	1	ltng-max		100	100	swing3		50	50	att		150	150	dmg%		100	100																														0
+SuperKhalimFlail	128	0	1		1	1	0	0	qf2	Flail		5	5000	dblu							ltng-min		1	1	ltng-max		100	100	swing3		50	50	att		150	150	manasteal		6	6	lifesteal		6	6	dmg%		100	100																						0
 Expansion																																																																						0
 Coldkill	129	100	1		1	1	40	40	9ha	Hatchet		5	5000	cblu	cblu		invhaxu				dmg-cold	50	50	100	res-cold		15	15	res-cold-max		5	5	swing3		30	30	aura	Holy Freeze	5	5	kill-skill	Blizzard	10	15	dmg%		150	200																						0
 Butchers Pupil	130	100	1		1	1	40	45	9ax	Cleaver		5	5000	cblu	cblu		invaxeu				deadly		35	35	openwounds		25	25	dmg%		180	220	swing3		30	30	dmg-norm		30	50																														0
@@ -585,3 +585,4 @@ Travincals Array	581	100	0		3	1	60	60	amu	Amulet		5	5000								extra_hydras		6	
 Hellfire Amulet	582	100	1		2	1	111	80	amu	Amulet		5	5000								randclassskill	4	0	6	cast1		15	25	swing1		15	25	all-stats		15	25	res-all		15	25	light		1	4																										0
 Tormented Charm	583	100	1		1	1	1	15	cm6	charm	1	3	5000				tormented_charm				mag%		15	15	gold%		15	15	hp		15	15	mana		15	15	tormentdesc		1	1																														0
 Tormented Torch	584	100	1		1	1	1	50	cm5	charm	1	3	5000				tormented_torch				light		1	1	res-all-max		1	1	res-all		10	10	tormenttorchdesc		1	1																																		0
+Tormented Trinket	585	100	1		1	1	1	70	cm4	charm	1	3	5000				tormented_trinket				light		1	1	red-dmg%		3	3	res-all-max		1	1	tormentdesc		1	1																																		0

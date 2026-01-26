@@ -667,8 +667,12 @@
   { "tc2": { "asset": "body_part/tc2" } },
   { "tc3": { "asset": "body_part/tc3" } },
   { "tc4": { "asset": "body_part/tc4" } },
-  { "tc5": { "asset": "body_part/tc1" } },
-  { "tc6": { "asset": "body_part/tc2" } },
-  { "tc7": { "asset": "body_part/tc3" } },
-  { "tc8": { "asset": "body_part/tc4" } }
+  { "nc1": { "asset": "body_part/tc1" } },
+  { "nc2": { "asset": "body_part/tc2" } },
+  { "nc3": { "asset": "body_part/tc3" } },
+  { "nc4": { "asset": "body_part/tc4" } },
+  { "hc1": { "asset": "body_part/tc1" } },
+  { "hc2": { "asset": "body_part/tc2" } },
+  { "hc3": { "asset": "body_part/tc3" } },
+  { "hc4": { "asset": "body_part/tc4" } }
 ]

@@ -23,7 +23,7 @@
             }
         },
         {
-            "type": "ImageWidget", "name": "LeftHinge",
+            "type": "Disabled", "name": "LeftHinge",
             "fields": {
                 "rect": "$LeftHingeRect",
                 "filename": "$LeftHingeSprite"

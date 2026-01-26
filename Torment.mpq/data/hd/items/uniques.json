@@ -1898,5 +1898,10 @@
   "normal": "charm/tormented_torch",
   "uber": "charm/tormented_torch",
   "ultra": "charm/tormented_torch"
+} },
+  { "tormented_trinket": {
+  "normal": "charm/tormented_trinket",
+  "uber": "charm/tormented_trinket",
+  "ultra": "charm/tormented_trinket"
 } }
 ]

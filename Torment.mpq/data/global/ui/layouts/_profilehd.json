@@ -505,21 +505,21 @@
     "SecondSetIconOffset": { "x": 175 },
 
     // SidePanel
-    "LeftSideSprite": "PANEL\\Docking_Bar\\SidePanel_L_Blank",
-    "LeftSideSpriteNew": "PANEL\\Docking_Bar\\SidePanel_L",
+    "LeftSideSprite": "",
+    "LeftSideSpriteNew": "",
     "LeftSideRect": { },
     "LeftSideRectImbuePanel": { "x": -236, "y": -205 },
     "LeftSideRectHireMenu": { "x": -236, "y": -204 },
     "LeftSideCatcherRect": { "x": 0, "y": 0, "width": 954, "height": 2160 },
     "LeftHingeRect": { "x": -236, "y": 630 },
-    "LeftHingeSprite": "PANEL\\Docking_Bar\\SidePanel_Hinge_L",
-    "RightSideSprite": "PANEL\\Docking_Bar\\SidePanel_R_Blank",
-    "RightSideSpriteNew": "PANEL\\Docking_Bar\\SidePanel_R",
+    "LeftHingeSprite": "",
+    "RightSideSprite": "",
+    "RightSideSpriteNew": "",
     "RightSideRect": { "x": -732 },
     "RightSideSpriteRect": { "x": 662, "y": -204 },
     "RightSideCatcherRect": { "x": -732, "y": 0, "width": 954, "height": 2160 },
     "RightHingeRect": { "x": 1076, "y": 630 },
-    "RightHingeSprite": "PANEL\\Docking_Bar\\SidePanel_Hinge_R",
+    "RightHingeSprite": "",
 
     // Inventory
     "ItemCellSize": { "x": 98, "y": 98 },
