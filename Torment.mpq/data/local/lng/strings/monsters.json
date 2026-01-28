@@ -9144,5 +9144,22 @@
     "ptBR": "Andariel",
     "ruRU": "Андариэль",
     "zhCN": "安达莉尔"
+  },
+  {
+    "id": 40009,
+    "Key": "durmag",
+    "enUS": "Spawn of Duriel",
+    "zhTW": "都瑞爾之子",
+    "deDE": "Brut Duriels",
+    "esES": "Engendro de Duriel",
+    "frFR": "Rejeton de Duriel",
+    "itIT": "Progenie di Duriel",
+    "koKR": "두리엘의 자식",
+    "plPL": "Pomiot Duriela",
+    "esMX": "Engendro de Duriel",
+    "jaJP": "デュリエルの落とし子",
+    "ptBR": "Prole de Duriel",
+    "ruRU": "Порождение Дуриэля",
+    "zhCN": "都瑞尔之子"
   }
 ]

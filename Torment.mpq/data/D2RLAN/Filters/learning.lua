@@ -28,10 +28,18 @@ return {-- The below settings are all optional, default/false entries will be as
             notify = "ÿc3Charm Dropped: {name}"
 		},
         {
-            -- jewel drop notify
+            -- mag jewel drop notify
 			codes = {"jew"},
 			location = { "onground"},
-            notify = "ÿc3Jewel Dropped: {name}"
+            quality = {4},
+            notify = "ÿc3Magic Jewel Dropped: {name}"
+		},
+        {
+            -- rare jewel drop notify
+			codes = {"jew"},
+			location = { "onground"},
+            quality = {6},
+            notify = "ÿc9Rare Jewel Dropped: {name}"
 		},
         {
             -- unique drop
@@ -53,6 +61,20 @@ return {-- The below settings are all optional, default/false entries will be as
 			location = { "onground"},
 			quality = {6},
             notify = "ÿc9Rare Ring/Amulet Dropped: {name}"
+		},
+        {
+            -- mag quiver drop
+			codes = {"aqv","cqv"},
+			location = { "onground"},
+			quality = {4},
+            notify = "ÿc3Magic Arrow/Quiver Dropped: {name}"
+		},
+        {
+            -- rare quiver drop
+			codes = {"aqv","cqv"},
+			location = { "onground"},
+			quality = {6},
+            notify = "ÿc9Rare Arrow/Quiver Dropped: {name}"
 		},
         {
             -- low rune drops
